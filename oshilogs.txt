@@ -1,0 +1,68 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VaYWtpYQ/c21hcG9ja2VaYWtpYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Zakia =====
+[1]Zakia       |07:22:32 | 11-10-2026| login OK @myzakiaa | score=990 rank=5863
+[1]Zakia       |07:22:32 | 11-10-2026| serverTime=2026-10-11T07:22:32.000Z local=2026-10-11T07:22:32.614Z
+--> [1]Zakia menjalankan: Claim Daily
+[1]Zakia       |07:22:34 | 11-10-2026| daily: sudah klaim (already=true) score=990
+--> [1]Zakia menjalankan: Auto All Tasks (0 pending)
+[1]Zakia       |07:22:34 | 11-10-2026| mode auto: verify 0 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+--> [1]Zakia menjalankan: Watch Anime
+[1]Zakia       |07:22:36 | 11-10-2026| watch: semua video sudah completed
+--> [1]Zakia menjalankan: Read Article
+[1]Zakia       |07:22:39 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Zakia       |07:22:40 | 11-10-2026| mint eligibility: {"userId":"1716313449410764800","youtube":{"url":"https://www.youtube.com/@zakialiana-i5o","status":"submitted","revision":"0966892c-2d2e-4ac0-9978-c25113b0f884","submittedAt":1791666837,"reviewedAt":
+[1]Zakia       |07:22:40 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Zakia menjalankan: Quiz Anime
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Zakia       |07:22:41 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Zakia menjalankan: Music Missions (realtime, bisa lama!)
+[1]Zakia       |07:22:50 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zakia       |07:22:51 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Zakia       |07:22:51 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zakia       |07:22:51 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Zakia menjalankan: Claim Missions
+[1]Zakia       |07:22:52 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Zakia       |07:22:52 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zakia       |07:22:52 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Zakia menjalankan: Check Eligibility
+
+--- eligibility [1]Zakia ---
+  @myzakiaa | score=990 rank=5863
+  tasks    [####################] 76/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=true mintOpen=false discord=true
+
+--> [1]Zakia menjalankan: Read Manga
+[1]Zakia       |07:23:06 | 11-10-2026| manga: 0/13 chapter belum completed
+--> [1]Zakia menjalankan: Get Gift
+[1]Zakia       |07:23:07 | 11-10-2026| gift: 0/3 belum diterima
+--> [1]Zakia menjalankan: Setup Profile
+[1]Zakia       |07:23:09 | 11-10-2026| profile: bio="https://x.com/myzakiaa" fav=mony rewardAt=1791687868
+[1]Zakia       |07:23:09 | 11-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Zakia menjalankan: Bind Wallet
+[1]Zakia       |07:23:11 | 11-10-2026| wallet: sudah terikat 4ujyhkbG2P... (solana)
+
+== RINGKASAN ==
+- Zakia: daily=already | tasks OK 0/0 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
