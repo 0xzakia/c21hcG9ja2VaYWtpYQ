@@ -12,51 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zakia =====
-[1]Zakia       |06:50:28 | 29-10-2026| login OK @myzakiaa | score=2270 rank=3518
-[1]Zakia       |06:50:28 | 29-10-2026| serverTime=2026-10-29T06:50:28.000Z local=2026-10-29T06:50:28.274Z
+[1]Zakia       |06:54:15 | 30-10-2026| login OK @myzakiaa | score=2370 rank=3379
+[1]Zakia       |06:54:15 | 30-10-2026| serverTime=2026-10-30T06:54:15.000Z local=2026-10-30T06:54:15.338Z
 --> [1]Zakia menjalankan: Claim Daily
-[1]Zakia       |06:50:29 | 29-10-2026| daily: OK +10 poin score=2280
---> [1]Zakia menjalankan: Auto All Tasks (9 pending)
-[1]Zakia       |06:50:31 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697332111768509
-[1]Zakia       |06:50:31 | 29-10-2026| delay 10s...
-[1]Zakia       |06:50:43 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697228476640319
-[1]Zakia       |06:50:43 | 29-10-2026| delay 10s...
-[1]Zakia       |06:50:55 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697417239393119
-[1]Zakia       |06:50:55 | 29-10-2026| delay 10s...
-[1]Zakia       |06:51:07 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697299921023270
-[1]Zakia       |06:51:07 | 29-10-2026| delay 10s...
-[1]Zakia       |06:51:20 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697349828186571
-[1]Zakia       |06:51:20 | 29-10-2026| delay 10s...
-[1]Zakia       |06:51:32 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697574387393920
-[1]Zakia       |06:51:32 | 29-10-2026| delay 10s...
-[1]Zakia       |06:51:45 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697508336989278
-[1]Zakia       |06:51:45 | 29-10-2026| delay 10s...
-[1]Zakia       |06:51:57 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/myzakiaa/status/2115697636470386041
-[1]Zakia       |06:51:57 | 29-10-2026| delay 10s...
-[1]Zakia       |06:52:09 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
-[1]Zakia       |06:52:09 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zakia       |06:52:10 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/myzakiaa/status/2115697686598621845
+[1]Zakia       |06:54:16 | 30-10-2026| daily: OK +10 poin score=2380
+--> [1]Zakia menjalankan: Auto All Tasks (7 pending)
+[1]Zakia       |06:54:18 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060847865206719
+[1]Zakia       |06:54:18 | 30-10-2026| delay 10s...
+[1]Zakia       |06:54:30 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060775503246506
+[1]Zakia       |06:54:30 | 30-10-2026| delay 10s...
+[1]Zakia       |06:54:42 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060783078186926
+[1]Zakia       |06:54:42 | 30-10-2026| delay 10s...
+[1]Zakia       |06:54:53 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060879011401474
+[1]Zakia       |06:54:53 | 30-10-2026| delay 10s...
+[1]Zakia       |06:55:05 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060681535335338
+[1]Zakia       |06:55:05 | 30-10-2026| delay 10s...
+[1]Zakia       |06:55:17 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/myzakiaa/status/2116060932490181458
+[1]Zakia       |06:55:17 | 30-10-2026| delay 10s...
+[1]Zakia       |06:55:30 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Zakia       |06:55:30 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zakia       |06:55:31 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/myzakiaa/status/2116060787325261477
 --> [1]Zakia menjalankan: Watch Anime
-[1]Zakia       |06:52:11 | 29-10-2026| watch: semua video sudah completed
+[1]Zakia       |06:55:32 | 30-10-2026| watch: semua video sudah completed
 --> [1]Zakia menjalankan: Read Article
-[1]Zakia       |06:52:13 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Zakia       |06:52:13 | 29-10-2026| mint eligibility: {"userId":"1716313449410764800","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zakialiana-i5o","status":"submitted","revision":"0966892c-2d2e-4ac0-9978-c25113b
-[1]Zakia       |06:52:13 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Zakia       |06:55:33 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Zakia       |06:55:34 | 30-10-2026| mint eligibility: {"userId":"1716313449410764800","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zakialiana-i5o","status":"submitted","revision":"0966892c-2d2e-4ac0-9978-c25113b
+[1]Zakia       |06:55:34 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Zakia menjalankan: Quiz Anime
 --> [1]Zakia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zakia       |06:52:16 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zakia       |06:52:16 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Zakia       |06:52:16 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zakia       |06:52:16 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zakia       |06:55:36 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zakia       |06:55:37 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Zakia       |06:55:37 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zakia       |06:55:37 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zakia menjalankan: Claim Missions
-[1]Zakia       |06:52:17 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Zakia       |06:52:17 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zakia       |06:52:17 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zakia       |06:55:37 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Zakia       |06:55:37 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zakia       |06:55:37 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zakia menjalankan: Check Eligibility
 
 --- eligibility [1]Zakia ---
-  @myzakiaa | score=2270 rank=3518
-  tasks    [#########-----------] 8/17
+  @myzakiaa | score=2370 rank=3379
+  tasks    [#######-------------] 4/11
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +63,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zakia menjalankan: Read Manga
-[1]Zakia       |06:52:21 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Zakia       |06:55:41 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zakia menjalankan: Get Gift
-[1]Zakia       |06:52:21 | 29-10-2026| gift: 0/5 belum diterima
+[1]Zakia       |06:55:41 | 30-10-2026| gift: 1/6 belum diterima
+[1]Zakia       |06:55:43 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Zakia menjalankan: Setup Profile
-[1]Zakia       |06:52:22 | 29-10-2026| profile: bio="https://x.com/myzakiaa" fav=mony rewardAt=1791687868
-[1]Zakia       |06:52:22 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Zakia       |06:55:45 | 30-10-2026| profile: bio="https://x.com/myzakiaa" fav=mony rewardAt=1791687868
+[1]Zakia       |06:55:45 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zakia menjalankan: Bind Wallet
-[1]Zakia       |06:52:22 | 29-10-2026| wallet: sudah terikat 4ujyhkbG2P... (solana)
+[1]Zakia       |06:55:46 | 30-10-2026| wallet: sudah terikat 4ujyhkbG2P... (solana)
 
 == RINGKASAN ==
-- Zakia: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Zakia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
