@@ -1,64 +1,48 @@
 {
   "version": 1,
   "cards": {
-    "SLC-003|2b578f47a0065b355277a900ec0f24dbbb3801ef6deab105b7cbd0c4d3895a68": {
-      "code": "SLC-003",
-      "revision": "2b578f47a0065b355277a900ec0f24dbbb3801ef6deab105b7cbd0c4d3895a68",
+    "KGR-029|0dc152df1a0c16d765928077988de20b6b2464259ea29926bd093ba9d9479c13": {
+      "code": "KGR-029",
+      "revision": "0dc152df1a0c16d765928077988de20b6b2464259ea29926bd093ba9d9479c13",
       "facts": {
         "chargeValue": {
-          "d9e0b1c4cdf19cdef5853d83ed470f3ce4e41f569eda9ffad94557469ed871bb": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "AMC-002|85992ee25bc2836a0cbb2643439f39e7830165229bfe1aaeda6f75603500e7b1": {
-      "code": "AMC-002",
-      "revision": "85992ee25bc2836a0cbb2643439f39e7830165229bfe1aaeda6f75603500e7b1",
-      "facts": {
-        "summonCost": {
-          "497d97d1edddf79a252c339ef9d21427d6f277210bd653dbc4265fa1d09ee5cc": {
+          "c4ee4e4e0beb3c849a1db17948b2860eb95093f70ddd913f2594478d504a30db": {
             "value": 1
           },
-          "b7567b3bfda466d0cee1527c8104623aa29b6409f3660be129d14eacbe43feef": {
+          "7e43979594beba974fb61278cf0f096c9e8263c1dfbb6394e5b73633d8c001c8": {
             "value": 1
+          },
+          "c893881849983290780e15371001d4eadc659dfc2a6b2c3ea361e58564b48c67": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "5b444d312576c39b7db36503e1953a0501d65e8d2553bcf68034dbcda0bc7f32": {
+            "value": 2
+          },
+          "3d47171644dbd7003545de582d3a7eb8da955436d36651d569bacaef7d2317c2": {
+            "value": 2
+          },
+          "93065c7c49d320234c353f827435028595d9277802390eb32f56d276465ba2af": {
+            "value": 2
+          },
+          "a89de052d9ef93e7b0ee0f9931f736eb7c3b0614c0e38a394af6375c42ef6655": {
+            "value": 2
           }
         },
         "maxHp": {
-          "4036b4a95aacadbf36df688e9455fcbbe650468811831608968959659e7cda7b": {
-            "value": 50
-          },
-          "7f2a42cb9fa2828d8b8eae629f2ca6c4bd3fc1fc58343e5b1b591c660ff35a7a": {
-            "value": 50
+          "d54a01a4a5a32c2e4cb08f7f14f76b7571381829450eabf6fa55c33a803421c4": {
+            "value": 100
           }
         },
         "skill:0": {
-          "f30e09913027025e971016a56f08f215e99e7f7093f40674a9167e32d9c74bbf": {
-            "value": 80,
-            "name": "Flare"
-          }
-        }
-      }
-    },
-    "KGR-121|af76531a4f8624a56091787149d156618c2af94f7b0ddd3b8fb630007f730224": {
-      "code": "KGR-121",
-      "revision": "af76531a4f8624a56091787149d156618c2af94f7b0ddd3b8fb630007f730224",
-      "facts": {
-        "chargeValue": {
-          "5b70fc3d78fc8b4d49cba287d94d81566fc137af323cb0999211a0af765ea4d1": {
-            "value": 1
+          "14dfa63317c273687fc65c68222a2be7b56fb7be55196b2b8213c92f270797f7": {
+            "value": 50,
+            "name": "Moon Ripple"
           },
-          "55468b03a9414cc2ed8fd2b8bf44a5bc164e35f942706fa8c6aff0821934e6e9": {
-            "value": 1
-          },
-          "10eeef02042b2b0cd3b29b38bfb6163b2b2ee89653fb1738ad46a4b4803a58a9": {
-            "value": 1
-          },
-          "30fff0065ffef889dd4be178ec2e09b0291b1b04b6db5c6f1c8ef1420b6d44d0": {
-            "value": 1
-          },
-          "c77f7faf72dff7a0f6fa800a569b1368aea6653303d234e0957bd6b5f0a95073": {
-            "value": 1
+          "0d8750600e83b7fe5dc658bbe426a8dfac73a59798f223e98a7f99d2abd109ae": {
+            "value": 50,
+            "name": "Moon Ripple"
           }
         }
       }
@@ -68,402 +52,285 @@
       "revision": "fd194df34416ea03464496f57d9891e67270f6cfae765176143333284249e01a",
       "facts": {
         "summonCost": {
-          "131fc89ff051bfbc4521ebb58d71a39c6972bc1994f09dcaa579c6a989b8c331": {
+          "55048d3157a7442ad809196357fe865e318ba6aaa88595f4cb771ae0c8d6932b": {
             "value": 1
           },
-          "0a8387c0f92fcac1c956c25d9e489053285ced5218fad0fa3e94d4f6ea1af3b6": {
+          "112f0670e30c3f5ffa7c967abc451b59b60d80b7e475ace34abcd1d6591c87bc": {
             "value": 1
           },
-          "80bf7a4ec9335348e8b5b1d4d7d9143a8167dad0da0f34ec57d9f75f5eb7789d": {
+          "829c306485f1349169185816f792d43cd9b87ce419f4f826f1780e480b873916": {
+            "value": 1
+          },
+          "f750bdc76112f3742f9fa2f9e538fd2fad2967e50ff3fcd59ca9babfc6210e9d": {
+            "value": 1
+          },
+          "7628313643dd4df79e2250097ac520423d12f064e6f8ecc798b5029ec0522397": {
+            "value": 1
+          },
+          "4242dde1a2b57b9498dd852da2010dc1db82e5a86f8b61e60a159b4d3e2b9997": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "aa86ad9b4b39ffc364c6c6d6bf762065f964c0a25a939ef894a9ecba2e48fb69": {
+            "value": 70
+          },
+          "4b8207526bd354c86ac20f7afcbbf4bdf1b4c1e7e4deeaa84f1e90671d66bf60": {
+            "value": 70
+          },
+          "a960b75deb26f70988cd879f7710521f165d1b78b5b626119df84b4c90d39d9b": {
+            "value": 70
+          }
+        },
+        "skill:0": {
+          "a5e535d1c2db47799e0423c37942216a656950d36e322f7c996429f54cd99271": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "320ac2ce6610b06501e709893b299f3273dbeba2ec9b58e169f2308a8c399c8f": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "4c2b0d05c8ca6dcde6aa1aecd1681078e6d82695ecac5a6d48a69fd3f33cbaa3": {
+            "value": 60,
+            "name": "Ember Step"
+          }
+        }
+      }
+    },
+    "HLC-015|93d79ef293ae30c3ec5e63630cba2dc8a5eef46b86293fae88634615847c349f": {
+      "code": "HLC-015",
+      "revision": "93d79ef293ae30c3ec5e63630cba2dc8a5eef46b86293fae88634615847c349f",
+      "facts": {
+        "chargeValue": {
+          "70732c298fa39f87e3a58faa81d70ca809e418a7fba1ef1c8c1d0283202eb51a": {
+            "value": 1
+          },
+          "83bb0efa8d5951bc8c303c6cb1d57dfddd1e601bd4cba99fe9c07038ad0929f0": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "HLC-014|57747920d647134900b2396c2f7abe8d6cd08bd8622b1441009417934867b916": {
+      "code": "HLC-014",
+      "revision": "57747920d647134900b2396c2f7abe8d6cd08bd8622b1441009417934867b916",
+      "facts": {
+        "summonCost": {
+          "59d5cad102d186a7be0e55d35fe8aaea1e78789beaa3d387166375e34e55f173": {
+            "value": 1
+          },
+          "ff614be2c858a37b5b726c21f6e2104b068ed94b00b6217acb4d9f7729fcef1d": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "42dd697964c78249d93b4607dbe72baff745a6bce86de981129db960bced6343": {
+            "value": 90
+          },
+          "99fd75fcf7d7c87d122b8791b685f10277f6f6e315b1929301d6a41c3628e377": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "KGR-043|7dddeb084940b0bb89a811e7a9bf0695c3be954c858b971a21b3d82daff3925f": {
+      "code": "KGR-043",
+      "revision": "7dddeb084940b0bb89a811e7a9bf0695c3be954c858b971a21b3d82daff3925f",
+      "facts": {
+        "chargeValue": {
+          "fb569b9bd92239fb983aa5874e63138f7496c5be639f455505062c8617399dd7": {
+            "value": 1
+          },
+          "128bfa47c254eecd313d68ea4f36568a14da7aac8e46e720f4a0407b88e3e189": {
+            "value": 1
+          },
+          "31fe528f5be7d085703914c0fc483a2e2c89c74fbee5c744062d6000fabe208a": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "67124eeb3d1ea47afc72b0300a6a195027b7ae75cf10b67d55488f4cfcfb17e6": {
+            "value": 2
+          },
+          "824509f37acd75d2ebc4fa8a07470d8112956623f12fbe3d74491bf082b4fc71": {
+            "value": 2
+          },
+          "91548186c1f509e5e8622130014547a616cc71206beb3be59bf5ca1d99efc413": {
+            "value": 2
+          }
+        },
+        "maxHp": {
+          "a974acedc499ab56546376115d38893868dfd0ed26c21dd918444e1d8c6d740e": {
+            "value": 100
+          }
+        },
+        "skill:0": {
+          "2b436599f678e1b87d6193986a103d36f9eaed1047d235184fb41f97cf0b77df": {
+            "value": 50,
+            "name": "Grove Push"
+          },
+          "5c96514cba5e292906fa57decb74916ea6d63ea3a4ab87b64dd6df266c531043": {
+            "value": 50,
+            "name": "Grove Push"
+          }
+        }
+      }
+    },
+    "KGR-006|d7467ce9f060b76b4e7373d30f7306214bb46df0b7fb73d681d5c35d378a8256": {
+      "code": "KGR-006",
+      "revision": "d7467ce9f060b76b4e7373d30f7306214bb46df0b7fb73d681d5c35d378a8256",
+      "facts": {
+        "summonCost": {
+          "a2fc813f31766d497ae3c6658239fa696816dc588a27011603446d4d3609858a": {
+            "value": 1
+          },
+          "9d0fb26410a263c8ab97141f468f2e6834b3ff490729a97f549f02a1df783178": {
+            "value": 1
+          },
+          "8170277c8d7ab945a62ed9bcd97d3c3bbade47e85814a704f3833c4236317340": {
             "value": 1
           }
         },
         "skill:0": {
-          "e3faec7ca90cc732937acbe52bac9b40b55ae0c0926c95e102cbf1b4185eb747": {
+          "384e395fb7d6219cb96867ba707601f17cb2d6a544f47a2e30bfc285f7f1f8d2": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "8f3c0d857006fcc08e0dc0903c47b25d94bbc6ea2135d20c783a482c56eed2ed": {
             "value": 60,
             "name": "Ember Step"
           }
         },
         "maxHp": {
-          "1962150f293b90765492f15f22a963b7219d9a200e69c2ad44148ddbe93fb4b6": {
-            "value": 70
-          },
-          "cf707be5ca1c16c2ffd9490c66908ed8f1d9030e7760427c37c4a5e091c148cb": {
+          "e5db45f2d84780110a3a62bcc57b77f94387b88adc790281e7281bf7ab2c9914": {
             "value": 70
           }
         }
       }
     },
-    "SLC-012|a18fe69519377fbbe6155b3272c8142b173a267a4dba585851b0aa66928e4dcd": {
-      "code": "SLC-012",
-      "revision": "a18fe69519377fbbe6155b3272c8142b173a267a4dba585851b0aa66928e4dcd",
+    "HLC-012|0f5b4ec3febd8841a6c8e2367ab05c8723de96a36ead119ecdac0655ce246471": {
+      "code": "HLC-012",
+      "revision": "0f5b4ec3febd8841a6c8e2367ab05c8723de96a36ead119ecdac0655ce246471",
       "facts": {
         "chargeValue": {
-          "ded88ecae481b78cd8e0edaf0f8b5c8d256aabe9b45b7461132da97c957fea78": {
+          "a7e7b019732b175194fa093dea0283dde0ce425ca2de3454b6a4b53b375690a9": {
             "value": 1
           }
         }
       }
     },
-    "SLC-001|88cc5b7efde9b0a06593e8ca5fd134ca15ba19ae85845e0754dd4ca1541eab30": {
-      "code": "SLC-001",
-      "revision": "88cc5b7efde9b0a06593e8ca5fd134ca15ba19ae85845e0754dd4ca1541eab30",
+    "HLC-002|cd181849438ee6a02f03929291b06ec5e496362e887169e9d1f160bb150a8021": {
+      "code": "HLC-002",
+      "revision": "cd181849438ee6a02f03929291b06ec5e496362e887169e9d1f160bb150a8021",
       "facts": {
         "summonCost": {
-          "43b3bd4e28962d3a397db90b4d0ddaa842b679f45cdd6c41d36c5112ffc54c9e": {
-            "value": 1
-          },
-          "477165baaa952c43cff358c1a881787e211642ed6554a06431c6d3c2c2e2989d": {
+          "cb4674f3cbbc16ae78850106f9af9b5a31d4375308877b92cdc046a3249d6f5a": {
             "value": 1
           }
         },
         "maxHp": {
-          "1db9789f8d95528fb5adb3aaa04142552c6399b774039e3590a4dfcc79bae96c": {
-            "value": 90
+          "b7ac9db6047f5b4ecb5881bd315294449895c924a1dddcd0b2a9f45d35a0de0d": {
+            "value": 100
+          },
+          "3777d631d9638058f4bb8b8ac48fa3f2aa2daf0201a7397ce814bc7e75e58965": {
+            "value": 100
+          }
+        },
+        "chargeValue": {
+          "4637600c6539600adc9f65ae0aa299d61cd06b5e6f82264f335f25478537d43d": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "PB-102|34861c00188cfa1ecd3e0d1876e5fdc18fc2e1d49c630b1390c9a2631f0f5f3e": {
+      "code": "PB-102",
+      "revision": "34861c00188cfa1ecd3e0d1876e5fdc18fc2e1d49c630b1390c9a2631f0f5f3e",
+      "facts": {
+        "summonCost": {
+          "8f3a764dba25b040c8ed347dd2d0989c59b0d0aaaa5d0529e817e4eb63c6eb81": {
+            "value": 1
+          },
+          "c62557e18eb5eeb0b930e92fca24d0364c7944c30d49a82ce2ad09673f33f654": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "KGR-045|8f41497ecc41fbbeeae600dbd7bf3e00ded49e7168f270a45d43c77c56cc0d25": {
+      "code": "KGR-045",
+      "revision": "8f41497ecc41fbbeeae600dbd7bf3e00ded49e7168f270a45d43c77c56cc0d25",
+      "facts": {
+        "summonCost": {
+          "048ac409dad76efe1d9d62bb1d4ac07a252de50f7079e312a3f0fa76a2591fb0": {
+            "value": 2
+          },
+          "d085c81d0423d508ef507a842565551339b5ce8063437dc1b44c3d131d2d98bf": {
+            "value": 2
           }
         },
         "skill:0": {
-          "a99bb16ad256f7ff6bc72882d17b35d0f7f310a30f7aeed9c696302451b8cf51": {
-            "value": 40,
-            "name": "Splash"
-          }
-        }
-      }
-    },
-    "KGR-032|0901d547be2f58405452d55471a9cb201d18832458343ede4542c6988111489d": {
-      "code": "KGR-032",
-      "revision": "0901d547be2f58405452d55471a9cb201d18832458343ede4542c6988111489d",
-      "facts": {
-        "chargeValue": {
-          "caa4c3f97ade1b4f85c3c1c9a26c2cc37e891505a3dfb7640fda325c6f7a1806": {
-            "value": 1
-          },
-          "027684efa47c71991c7ed02b6092ab8f845eb8acd997fd7d24a75ac4de0fe2be": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-029|0dc152df1a0c16d765928077988de20b6b2464259ea29926bd093ba9d9479c13": {
-      "code": "KGR-029",
-      "revision": "0dc152df1a0c16d765928077988de20b6b2464259ea29926bd093ba9d9479c13",
-      "facts": {
-        "summonCost": {
-          "0cb09585d0e633011a0470e72a344b12133961f8de1881cdeea8ff3c03e79003": {
-            "value": 2
-          },
-          "640a4dd8d88c7b6d94bab23573d9fff8f20377d4717952eb63a3a2005e29cc1e": {
-            "value": 2
-          },
-          "6518b96d032e8fb08add8cb3217682bd96502761ee35c90a90c320f329e0abef": {
-            "value": 2
+          "aed96110fe6c0fc5990b22df29ebbe7c8640c12fe36b1761340bcc49d87cc09a": {
+            "value": 50,
+            "name": "Grove Push"
           }
         },
-        "maxHp": {
-          "ad119d0b0c44e53bb9287760b4bd14dcfe4adb6b588436aeb4c182328ff9b244": {
-            "value": 100
-          },
-          "45193bfa792855a87eccc0a2f7762dc32e11e7a62eb8e9ca7a1046bb6844cb29": {
-            "value": 100
-          }
-        }
-      }
-    },
-    "AMC-005|65eeaef4c204097c07695c4cd92c1213602c466fbaf6a9c81815dd1912506140": {
-      "code": "AMC-005",
-      "revision": "65eeaef4c204097c07695c4cd92c1213602c466fbaf6a9c81815dd1912506140",
-      "facts": {
         "chargeValue": {
-          "94a799a6a57812a5a1ddbf8998e73c011b7829199bae4c8929b3204d02631a4f": {
+          "a3b1eae117b2364c2f548a72c3333f61750f00a2f32899b305352c5e01bcb78a": {
             "value": 1
-          }
-        }
-      }
-    },
-    "SLC-014|0c29a51e0084197e3ffee5700e7d591e6974a832b65df93122b850d053375928": {
-      "code": "SLC-014",
-      "revision": "0c29a51e0084197e3ffee5700e7d591e6974a832b65df93122b850d053375928",
-      "facts": {
-        "summonCost": {
-          "a413cc104dd8a3c29eea19755b2d77fdae9daa87741b30c08c3f710e7b2260e4": {
+          },
+          "8e406a8922548db89d35766f046733719bdda88be537482dba781874ed6e8542": {
+            "value": 1
+          },
+          "013036e6402c961dfd652f44cc244824971c46e8ea71c65e27efc0b425386814": {
             "value": 1
           }
         },
         "maxHp": {
-          "c6c1d0d9562189152f81f4c60266be29f530b9ae2b5e1e3eb8c36a44a6a78984": {
+          "0cef34fa8fcb657c762c0cac8148f54e7e74370b5a2b7cdbb485dbda2f7fad59": {
             "value": 100
           }
         }
       }
     },
-    "KGR-009|c891533712d8b5c89afdf5360f48ff95cf147a1bc0462795b248f308f43c70e7": {
-      "code": "KGR-009",
-      "revision": "c891533712d8b5c89afdf5360f48ff95cf147a1bc0462795b248f308f43c70e7",
+    "BS-085|44972d57fbfd1e7fade9a32ae14a3efd799887900560bb8b2aa0e45d8ce59d84": {
+      "code": "BS-085",
+      "revision": "44972d57fbfd1e7fade9a32ae14a3efd799887900560bb8b2aa0e45d8ce59d84",
       "facts": {
         "chargeValue": {
-          "becdd9037b59c4da0da8d23c3a1dd6ece9305e6002cd14dd88cfae7f333b5de0": {
+          "bd0b2827c8fece442807609f26c06ccb003826b0216e4d0d0462f6efd2e31fd4": {
             "value": 1
           },
-          "cce94f8d6191301a313f54d8b68fe6bba728cf7ac97339086d246162789e0348": {
+          "8e990d2fea65542b68a9a5e30304747e24e13145a1bf711bdce9734d29bf594d": {
             "value": 1
-          }
-        },
-        "summonCost": {
-          "35a9a1c32fb6bd241e10d6dce06bf862952aee5b94ce1b4d3efe4f11844fa0f5": {
-            "value": 2
-          },
-          "a17cd30ca712d90406865f2e1727e2c3dddd459f0906caaefbebb3c4aa46ac18": {
-            "value": 2
-          },
-          "570907e16f5f23ca7052d13dd80ebcec810a807034536bd9b32a0802c8754643": {
-            "value": 2
-          }
-        },
-        "maxHp": {
-          "cc4813b73493edeff10e4ac84aca74e60b84baf1f77691877842161d3cfeeb17": {
-            "value": 80
-          }
-        },
-        "skill:0": {
-          "24cde966cdef0861cff53a7f43cb6ffdd9453262e288d1e458969eaa12e9f666": {
-            "value": 80,
-            "name": "Sun Arc"
           }
         }
       }
     },
-    "KGR-067|9180aa955f6277809145141b187ba8d15ea07c67bfb72a845e91e8a404bd0694": {
-      "code": "KGR-067",
-      "revision": "9180aa955f6277809145141b187ba8d15ea07c67bfb72a845e91e8a404bd0694",
+    "HLC-011|8ebc5a06584f9020a7f8703b3f8372296e0e1fe6ef6db8e0ee4514a01c28bf14": {
+      "code": "HLC-011",
+      "revision": "8ebc5a06584f9020a7f8703b3f8372296e0e1fe6ef6db8e0ee4514a01c28bf14",
       "facts": {
         "summonCost": {
-          "6a4a6d8c85ba65594df96f6758e95ce2d9c719ba45858630671eb17e436cc417": {
-            "value": 3
-          },
-          "9982a08fb8bdd160d9a2a6dca78f72b41583fcb399258af3da956b1fa49fc4b8": {
-            "value": 3
-          },
-          "0f4dd5038d26466cab96d83ac6c4adc2dc73e0f3233ad5f9b0ae76043429d4c1": {
-            "value": 3
-          },
-          "2b928d8cbf9af0efc94e7b14d3d5fb79b9ea302a4859db76b1cce8d970ecacc7": {
-            "value": 3
-          },
-          "cc2709eb3b99c3383b0d91fee11a0fa9d9b5d46871b1717cd07cfe424e8979cf": {
-            "value": 3
-          },
-          "f3393686ad45fc51155a98ae0c74772bc6393d7835068af825a41fc4fb45a259": {
-            "value": 3
-          },
-          "2a7182cb9cc8151a82af74c25f77cd83687a7f9e68bff9e5f0520344fb92ad6a": {
-            "value": 3
-          },
-          "4744a60834a4f1b5030e1abc1f5f3d5a98f32d2c2e6fb396e7d91610c8318831": {
-            "value": 3
-          }
-        },
-        "skill:0": {
-          "42465104e7bdd1e375e7adf19f7e9bd8b8d898be05deab152ccbba0493fb4a51": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "c6ce37c7008c5db70a27cfd95d381a3436f2fa8c0a720b5415d6e5ea747f06e5": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "66bfff10ef997a1cc697c0649d0791633b6503bf0a3cfa164a82aa843660f6c3": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "7482a15fa07b65b04f9b3f6890fc579751ad2a615d158e97964f7e0e8dee4040": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "a4e6413be2b7dbfd41c24ab0506a132fb69388d7d3ad9a84cdbbc98ad08ac769": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "8dee4166c6230ab08a90cfb429ef64b231e963aa548fdb658819a93d7592a545": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "3df70f5669340557f121733b3a05b5b177d5a855d54f479ae02ee74bca8d31c9": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "904844f74c930b02f2f7d99c40dcecc42283c9c9ff546decb44bf34b21d5969f": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "5358b33a61e3b8c793e0ac68d35322f0e26dc72349591339b0f4a94d069dba25": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "e0cb23191bc94d451e7d0ab0f760e5cd5768feacd3b413549a64214cad000006": {
-            "value": 90,
-            "name": "Thunder Slash"
+          "26fbc49a1740aee79da2a327ad65c9f6d80bf1f0f350c97666e1ec6845bf3a91": {
+            "value": 1
           }
         },
         "chargeValue": {
-          "befe742614ab67cbacc4c5a5ac86ed7ee15221754ea40ef85abae0726b39da0f": {
+          "cef99bfb4d12e67fa7b69aa551f2fcd3d03caa0b779973bcb902d4fe9e200de6": {
             "value": 1
-          },
-          "05606c6c0650d870325da2d48f37c7985e34681910448d3f0df87770efd22ab8": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "4aac4f52a3c8c8f3f057d38f6602df3fa08c6fa519802f34eed9e58a658f31a6": {
-            "value": 100
-          },
-          "24479a3084629b3a9f2942f9a5a3649247ca7fe91de91ab799442200d105dcdc": {
-            "value": 100
           }
         }
       }
     },
-    "AMC-006|f07b6f4a2edd7dd97dbc55345aec466e98bb0dc7a8d8f071714f6fb9f1bdd134": {
-      "code": "AMC-006",
-      "revision": "f07b6f4a2edd7dd97dbc55345aec466e98bb0dc7a8d8f071714f6fb9f1bdd134",
+    "STB-003|cf86c19aacfce4a3124d418e778dc8dfc61ec27f509e11e7a5e8c2112eeef3c3": {
+      "code": "STB-003",
+      "revision": "cf86c19aacfce4a3124d418e778dc8dfc61ec27f509e11e7a5e8c2112eeef3c3",
       "facts": {
         "chargeValue": {
-          "10177b6cb220ae7e898e6a7ea0afd819dfa54553a7caebd67f825ef29b0a56b3": {
+          "22252c60d0f2d5e078202c4c5ca2e6a6f4c00fb65c18ff03a6ecd44a76afd69d": {
             "value": 1
-          }
-        }
-      }
-    },
-    "AMC-003|172bb683994fbed3f7417d5decf62345ac63457373d1e5889761de287271ab12": {
-      "code": "AMC-003",
-      "revision": "172bb683994fbed3f7417d5decf62345ac63457373d1e5889761de287271ab12",
-      "facts": {
-        "summonCost": {
-          "43e87d8f6056d32a42eda694fd5eb9a5d507bad0546ef5b36cd8c4f7bf865956": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "c219718d3fb8f6d47ab3cebf92b3e750e4f6709a7b3ce2c209bed8316999ac03": {
-            "value": 90,
-            "name": "Fire Spin"
-          }
-        },
-        "maxHp": {
-          "9f6d92799b13b9ad84774cfd7192eb06ab960014b308c45eeebe6a92dca03be9": {
-            "value": 70
-          }
-        }
-      }
-    },
-    "KGR-066|0062051aabdc26de42c26bf87f2c70f8dca195492d60b8eb01e80ab40c55eab4": {
-      "code": "KGR-066",
-      "revision": "0062051aabdc26de42c26bf87f2c70f8dca195492d60b8eb01e80ab40c55eab4",
-      "facts": {
-        "summonCost": {
-          "b558662a7980e0b967aab7f3103feca7319c4263fa9b1b91055e3cbdf6c0ee0a": {
-            "value": 3
-          },
-          "35847c775dad51bc2ea1f00ff2ac267c71474694c6384ed4556add43c3aee449": {
-            "value": 3
-          },
-          "e0a52762b00aa7531f6fbb349457e8881f72848bbdd28c1b6fc04a21b103a78c": {
-            "value": 3
-          },
-          "08313a6258fc5cbbce4cd79c5d30ddb47e0791e63b69bfa990c89d556d4395cc": {
-            "value": 3
-          },
-          "c0d2d9ce978442e8815138137b8587bbbaf6a0076241fa131363d0917373510f": {
-            "value": 3
-          },
-          "eea75fe10e6d5f627581434cf50989794ac024e535cde754e1c43045239fda69": {
-            "value": 3
-          }
-        },
-        "skill:0": {
-          "8c45b4e4176741b576b1997a11441c6a4392d191de67f65d8be3f46499b3b1b9": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "43cf30d667e287422040a6247c59422496f44353aae37be61abecbbc3a420635": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "5ba08d5c7cd777c7aaea779247b477ad4a2c6d43bc374cf38ddc3e27c1f2f7d8": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "9f503b5407e0b024ec4e0e3b0ba254ccca3c9528e4f8b927bf0d1083e8a43a03": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "b39a0bb5a4127ed7c1312b8c5027976231b41787c2216e1221803e000cd127a5": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "d9670114043ed0de846ff433b34af9ad3c06cf6171055537fe410debe4212865": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "552a19c18c6cabadf771449339730e24c289d72db765f4c1306d7ce3bb3e4715": {
-            "value": 90,
-            "name": "Thunder Slash"
-          },
-          "c573dbc4a2e9f32ac104f6b876a671a2273be4b30926598c4c9fbd33593abaae": {
-            "value": 90,
-            "name": "Thunder Slash"
-          }
-        },
-        "chargeValue": {
-          "330ca3c8cf0b624df7c0809b4b6e92b5786b2014d7d214186fa1ea9967aa235e": {
-            "value": 1
-          },
-          "c5da5690f31c244f73ddd199d2507f3d6509fa2b1f2c26ff3219317461dea553": {
-            "value": 1
-          },
-          "30b71ffae791e5d5f0c30203cb3ced5c647ccbd8f5d9667fab010dee89b4f371": {
-            "value": 1
-          },
-          "44698b5a3f95cb9755c15560e2844934cfc057a0e748227869d556d232eec910": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "SLC-013|f6148551995a25fbcf59a8542da7679a2e6ed3d660c375ad0a223690d3cbff31": {
-      "code": "SLC-013",
-      "revision": "f6148551995a25fbcf59a8542da7679a2e6ed3d660c375ad0a223690d3cbff31",
-      "facts": {
-        "chargeValue": {
-          "23ff102ab652beee229193a3d53b63087711f8b2b9e2603a3f444ace0cb62869": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "AMC-001|bfb7078b547af3a85fbd145c02ffe1425864f0b1ac06e944a7b2ae959e831017": {
-      "code": "AMC-001",
-      "revision": "bfb7078b547af3a85fbd145c02ffe1425864f0b1ac06e944a7b2ae959e831017",
-      "facts": {
-        "summonCost": {
-          "28cea77b273a4b27699fe5a9aae88d915dc2c7f4651293505f3a1e405093ce8f": {
-            "value": 1
-          },
-          "0acd974c4e6739f4f0b6c566bc7022704bd6f9b739f9132858ae1fbd1b8e69f6": {
-            "value": 1
-          }
-        },
-        "skill:0": {
-          "46a789afbce690b1fd46f4371604d77f939cb68075ba1338ad767d1fd6270c6a": {
-            "value": 80,
-            "name": "Sunburst"
-          }
-        },
-        "maxHp": {
-          "eec512e8162e38607a3f2ad9427a05c8da3c036735453a32458dc19966eca4b3": {
-            "value": 50
-          },
-          "8b7c7a67c6662db077dad7c0203071f04ee2862ea01adcaca84f7c6a1f860729": {
-            "value": 50
           }
         }
       }
@@ -473,425 +340,19 @@
       "revision": "70c3c28ea2257a223879548222344d29c76ac7f8c23785c232b39290e648ab4b",
       "facts": {
         "chargeValue": {
-          "97fa5cea3c4532ac4e050c8dd31f954f38ca4443a1629801ba18a054707e59a9": {
+          "b227925d1b9f2e7a2e48188ecaebd5eb35bd8d4080ad3396d10dd4f4eb32cf49": {
             "value": 1
           },
-          "cfc3cb299dc361fdd65f3e9692482d00bf71cbfab3399052780a7404e8882df9": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "811e2f7271de501538aad83f3c8101289c92c2eb2ae7209c72ea38a04457a1aa": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "SLC-004|211f548ec6fd9e898fd27ac2c840f0d8affd7bc1fff7a48f1e783d7faf44cd31": {
-      "code": "SLC-004",
-      "revision": "211f548ec6fd9e898fd27ac2c840f0d8affd7bc1fff7a48f1e783d7faf44cd31",
-      "facts": {
-        "chargeValue": {
-          "c1579033b49536e8fd007ff3d4260ef1aedfcc803a16e1c3b2d1938de91eaf71": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-123|750bdbb1a5bd12e8df9d027755727ed70848411daab7ddb6b5b65394dc19ef66": {
-      "code": "KGR-123",
-      "revision": "750bdbb1a5bd12e8df9d027755727ed70848411daab7ddb6b5b65394dc19ef66",
-      "facts": {
-        "chargeValue": {
-          "7d952c9ba7989202f07d2850862eebefe9f417cee0c712f5590e758c93ef08e7": {
+          "d6309b68638a728aadd7c2e76ef771e172f2eb35c1b75d871cb61efad80c09cb": {
             "value": 1
           },
-          "100e751aeedb67af2769e507a2933d9e4e726dacd73dc6c322afa6dc0a4609ea": {
+          "90191e4abaeef195ab3d165008abf0c2a7fafbaccf770fe5926611d13722323b": {
             "value": 1
           },
-          "3668e70d8e16af8f395d0e51d7ef9fc701adf60335681772d728d54e3c09cf6f": {
+          "8f11cd83f64148bace2de3315015127a8b60bed4cdbff5c1d72d0382a7bc606e": {
             "value": 1
           },
-          "1b12e376ac8e8fb03d46f8c32acaf370790e2eeaa60af0e3fde688760aba8e30": {
-            "value": 1
-          },
-          "8f74e4ca58ad380730a22d026a947cd2499e4b74ba58ae37aed5ed6c17aafc00": {
-            "value": 1
-          },
-          "b0441e1269e66c5ad64405690514d44e6321745d5dd3336634669fafdb802872": {
-            "value": 1
-          },
-          "38bf786eccd422f729cc55fc2b26e277a057411b40cd2cb09ecdd5a92ed42de4": {
-            "value": 1
-          },
-          "31f4a471ba49b719afd927bff4caecc7caf819487151a2951ccbec7f3e9f5120": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-043|7dddeb084940b0bb89a811e7a9bf0695c3be954c858b971a21b3d82daff3925f": {
-      "code": "KGR-043",
-      "revision": "7dddeb084940b0bb89a811e7a9bf0695c3be954c858b971a21b3d82daff3925f",
-      "facts": {
-        "summonCost": {
-          "60bdea0957dec38ca8273fabce56aced742d111f3b8d6799038ed6186b5dcf8b": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "e7a04986dc86bfc3b69222be0f1e5dcdb6c46712295c0dc3a3988d7a736ab844": {
-            "value": 50,
-            "name": "Grove Push"
-          },
-          "43decc5cf43a0f87c56d619706af912ae47426ca532c34437ca1fa6c8718ce29": {
-            "value": 50,
-            "name": "Grove Push"
-          }
-        },
-        "chargeValue": {
-          "797f4dd29807cc0e2b59cc70fb1263f7e68ee9aa3751b0ae1eeaa6e2dff3a317": {
-            "value": 1
-          },
-          "f369548d04114241985025a5f2dca30fe21413ae7b6caee5eabaa5accebbccb8": {
-            "value": 1
-          },
-          "677d089907b79242e4b518fa61d0036e0f6384cb77cc6fad166c240564d16b5a": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "SLC-010|cb89399b8a02ca7fb455d17dd06224e9b456a33e0f534aa6891855cb1521def3": {
-      "code": "SLC-010",
-      "revision": "cb89399b8a02ca7fb455d17dd06224e9b456a33e0f534aa6891855cb1521def3",
-      "facts": {
-        "chargeValue": {
-          "cba86cfaff9803313d7075bcfc0410c5b0bfd346a99cf8b0b8f6e42758a1d1e7": {
-            "value": 2
-          }
-        }
-      }
-    },
-    "KGR-102|c0637a3b1c734abaf97207d82cd86152e64f830af1bb133d29414a7acb609d02": {
-      "code": "KGR-102",
-      "revision": "c0637a3b1c734abaf97207d82cd86152e64f830af1bb133d29414a7acb609d02",
-      "facts": {
-        "chargeValue": {
-          "8a8e722bf8b5121d1e0011a094248aa58a7ef7a1b5d18d2e9c7ae89ac21a4193": {
-            "value": 1
-          },
-          "8ebd16f57c3b6a11470e08dd4edccff697c4dbca87845c2801b4cda536830de1": {
-            "value": 1
-          },
-          "7392f611ef00bfbc8ebb8709c722bb30d5b00d77a74ff9b2a4b7f9dbbd7a4505": {
-            "value": 1
-          },
-          "4449de3bdd80ff962e3f7a1feefb6b359b5ab56c5a038e52483c314f4c0faf78": {
-            "value": 1
-          },
-          "19e73d59cfcf83c3e152b56c5171ea42a85da50992061c7a4c3fed1d87165118": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "AMC-009|a02a6e535c9ab3f0baeb9f316b56f7c808bd62a791aa9176e57abc420f31c00c": {
-      "code": "AMC-009",
-      "revision": "a02a6e535c9ab3f0baeb9f316b56f7c808bd62a791aa9176e57abc420f31c00c",
-      "facts": {
-        "chargeValue": {
-          "c80b74a495a6a8a1b55a85b9ef5a9533754d5d4cadf23153fee4d80e88945582": {
-            "value": 2
-          }
-        }
-      }
-    },
-    "SLC-008|2a0779c460bd84870ab62fdd36edef3d2a5a8ebf677f5b55b01396d42bbeeeb3": {
-      "code": "SLC-008",
-      "revision": "2a0779c460bd84870ab62fdd36edef3d2a5a8ebf677f5b55b01396d42bbeeeb3",
-      "facts": {
-        "summonCost": {
-          "97bfc9b128f65ed5f5a079ea275479d0559f2c3f0b2850cae54d332f89179849": {
-            "value": 4
-          }
-        }
-      }
-    },
-    "SLC-002|8f61ebe8caa79e9a874a7a43e11f4e9141ca544ceadaca46affe906fd7bf7209": {
-      "code": "SLC-002",
-      "revision": "8f61ebe8caa79e9a874a7a43e11f4e9141ca544ceadaca46affe906fd7bf7209",
-      "facts": {
-        "summonCost": {
-          "ef858c7f9d5309756c8589c0712dd455307cfedd5a498012c71ce8ffdca5bdb0": {
-            "value": 2
-          }
-        },
-        "maxHp": {
-          "9827ce53e277129b926599f00bc2ce2d1c996b5a917755d76bf44e30b72ddb50": {
-            "value": 100
-          }
-        }
-      }
-    },
-    "KGR-120|58b16a1ec754c868e472faea7e10e65bee6b7b854155c18a367f2ab5735bb8c4": {
-      "code": "KGR-120",
-      "revision": "58b16a1ec754c868e472faea7e10e65bee6b7b854155c18a367f2ab5735bb8c4",
-      "facts": {
-        "chargeValue": {
-          "eb7473390046b55775588bd9961b6dae7e95dd8c538dae1a3ff45c1ab722e4a8": {
-            "value": 1
-          },
-          "3c2a254b8721742d260ff146bf8fa0634428ff910b5030fbfbd9293fbb110e12": {
-            "value": 1
-          },
-          "82f8e8794441f490b9103f884cd2512ca1a08fa2272f4b38bb98b91a15706d2f": {
-            "value": 1
-          },
-          "ff00af67787c6242dcf0a9c46bb07ee79001766d0aa96b7bfbef5c178f4fa4fc": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-004|b30e77a44c9a13b579d4938422d8eaa3bc08358a5d19f36eb96c79b31dab07df": {
-      "code": "KGR-004",
-      "revision": "b30e77a44c9a13b579d4938422d8eaa3bc08358a5d19f36eb96c79b31dab07df",
-      "facts": {
-        "summonCost": {
-          "8f2e4ac1e1d908d97d6a97655079e80f7b87caded45262043c61481470102a1b": {
-            "value": 1
-          },
-          "b6d9e2c6e29bf98751e289b1117b13a38910ff821ed187e5b342dbbbc2caec4b": {
-            "value": 1
-          },
-          "d4d24c366245920940a20973bdf9eae4bd8ca499fe74f2546b04224a6826f788": {
-            "value": 1
-          },
-          "f5c81a69ca2de9758216816e449c45c2bb3e8c7563fd80e12a32d77558197e02": {
-            "value": 1
-          },
-          "af731e95646c9759752953d56d79ecdb33c2fc851c2cd44e88a2dee14be1a8f3": {
-            "value": 1
-          },
-          "3d8b6bed563e7fe9c390e610a0d8cd514808fe4a561333877afbc0c82847d636": {
-            "value": 1
-          }
-        },
-        "chargeValue": {
-          "aa184c54bd868f58115a2030c602cfb61f5b78bcda61dd4d2271f1af1958f0d3": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "ac479b8c4c0f00a10b3fe2ae8c98c2aae9b4e38d9673376837e606f8b201a36f": {
-            "value": 70
-          },
-          "997c79c74fb577db15e55d541a19d375a7e004f3f4e26ab2da650d5fdd67da25": {
-            "value": 70
-          }
-        },
-        "skill:0": {
-          "fb3793e21f8bf53c15628ace2271f6e994a22dc1111bf63097287d07e93f34c3": {
-            "value": 60,
-            "name": "Ember Step"
-          },
-          "31f76c3d0fec910949b544441d2200e3e61a17c7e6a04f9ef199a5f450f4979a": {
-            "value": 60,
-            "name": "Ember Step"
-          },
-          "085cda6d06e2545824d725350eec070b10a82cb2f3ca08d1ead43e6d2a35b5f6": {
-            "value": 60,
-            "name": "Ember Step"
-          },
-          "3d5a380576364a2233a05b470b8e41ceed3505dbe53d9c273ed57079f9ae979d": {
-            "value": 60,
-            "name": "Ember Step"
-          }
-        }
-      }
-    },
-    "BS-050|278b379686c7088fefd5474e580d853ecb67d9c9a6751d5157bfb9b4145f9b41": {
-      "code": "BS-050",
-      "revision": "278b379686c7088fefd5474e580d853ecb67d9c9a6751d5157bfb9b4145f9b41",
-      "facts": {
-        "chargeValue": {
-          "c2734ad082fb8416a5b9c1057cc98e52b83d9ac1c7d6ae64f6859c7f4a66b0dd": {
-            "value": 2
-          },
-          "91bd8f5ba6219bdeb999ae0ffec2c9336a1a5dd0ab824b1cc96c0f3562544de2": {
-            "value": 2
-          },
-          "3a0dec32f6b002e11925a8ce5c96d63c809662c5b4a83fb881209dd80dbd459d": {
-            "value": 2
-          }
-        }
-      }
-    },
-    "BS-037|28e37b8ccda756dbf7418153daf862a1232d038db3b2ef7a0d4354f3b9da8215": {
-      "code": "BS-037",
-      "revision": "28e37b8ccda756dbf7418153daf862a1232d038db3b2ef7a0d4354f3b9da8215",
-      "facts": {
-        "summonCost": {
-          "d73ed7f4269e25b491c3ed90ff8680883870978e28f1a963604184928df06d10": {
-            "value": 1
-          },
-          "bc967c16c77275df2123142ab5c3a23d63abf4fc7422519f03db210d543714e4": {
-            "value": 1
-          },
-          "71529368bf321727862f9204340b8fd0dab5f35433d3156090ebbc152dcbf179": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "c5a193b5d2e4462330ddd87d477a66c89608b2edc83e5710093ae97a6ea5e099": {
-            "value": 80
-          },
-          "ca2467aece7888aacf91d4e9eb88dd5628dbe43debdf25b646c37b0f568b92f1": {
-            "value": 80
-          }
-        },
-        "chargeValue": {
-          "afb18e7d78a3f48e97fe27ba3ebaf3a73c7289b32ec4b06682be27274bcd5a98": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "BS-035|4cd760dd5dcab6106bc893a69a64edfc17e9067922ac2afa72b28b3da32e9105": {
-      "code": "BS-035",
-      "revision": "4cd760dd5dcab6106bc893a69a64edfc17e9067922ac2afa72b28b3da32e9105",
-      "facts": {
-        "summonCost": {
-          "50a714721fa49fbb1d8d7c82b9eb78e8526e8657d2f258da5d0d777b04d3f56a": {
-            "value": 1
-          },
-          "5a48ced8a89eedc9f05695519fe1a9a6d6b7083f8191c4f0843ed58828960944": {
-            "value": 1
-          },
-          "24f24e78a474585c725a278a37ab8e52e5bf18c5efbe9632e2adc1a5232bbe06": {
-            "value": 1
-          },
-          "3b36b0e4bf5711e19b13218b50a63d2199a01e004689f3d1362ffe93d9c17f7f": {
-            "value": 1
-          },
-          "f8a6dfddaf1f45faeeb0d11f933dc8a4e9d11488791364ac8c0be48a383bd3de": {
-            "value": 1
-          },
-          "93c47959358b129f2704e382175981ffad95f698c2310a54094d7637e3e7595e": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "81b401885a7736466f586f885bcba383487932f44bbf6c40db00324a3ca4d77c": {
-            "value": 80
-          },
-          "fa714521537334305ff76d140fa31fa32e0100a17ca3f1c132e831f84d437944": {
-            "value": 80
-          },
-          "28c6086d1069ae25070defafcf170a50c99778bda0d0513dbb5356044dc942cb": {
-            "value": 80
-          },
-          "8783d4bc1f345aa009b0d9f709a8daed4847802be4b36d5e2fd8a39fd88dd5b4": {
-            "value": 80
-          },
-          "f279cd6dd2126f1eda124b2e30cc70a6c8f3f6d48b640008a6e66c73b7a3644d": {
-            "value": 80
-          }
-        },
-        "chargeValue": {
-          "d27bd00383edbb9d3dd2b1a72685041086f294e5e2b4927f13815e8da204d167": {
-            "value": 1
-          }
-        },
-        "skill:0": {
-          "57410233c0036146ac50ec24422fcb2d16d6a6cb765d8db021879b251ff13c71": {
-            "value": 50,
-            "name": "Flower Toss"
-          }
-        }
-      }
-    },
-    "KGR-078|acb3343682278d9da8207e810e741f6daa560ca2bcf04cacc5f820e1ec0866a4": {
-      "code": "KGR-078",
-      "revision": "acb3343682278d9da8207e810e741f6daa560ca2bcf04cacc5f820e1ec0866a4",
-      "facts": {
-        "summonCost": {
-          "b14b5c4efb4355eaf9e62b73b31c68a8f37621280308de77ab32d73e092c0abd": {
-            "value": 2
-          },
-          "800278ca352fe06661a209fd1bb52f763be5944e2bae747779a1ae9768bcd944": {
-            "value": 2
-          },
-          "21c8316321b80f41f89d0b501c66be5649d01d953677b88f6e9fa1b6e7e4ba1a": {
-            "value": 2
-          },
-          "622384ef0b6a6d3bdc2e27644df2085e0d12295c80a8796bc55694f3ed76e82c": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "55cf2ace2d7e89fa158f3afcf7f90f1d0b8846da6d3a1f28dce4023d087f0297": {
-            "value": 50,
-            "name": "Foxfire Flick"
-          },
-          "91b9b1f1754965dd5908ffe96bd220e002f3fe72cce800f0d579b6d1a933bf92": {
-            "value": 50,
-            "name": "Foxfire Flick"
-          }
-        },
-        "maxHp": {
-          "29e7e0b6285c7aad8055204bb036397db10a51a147165527bc5ed112507b8677": {
-            "value": 100
-          }
-        }
-      }
-    },
-    "BS-038|a9613361666623de4df28c7e09656115e75326f859760b55b1c9714514fc40ad": {
-      "code": "BS-038",
-      "revision": "a9613361666623de4df28c7e09656115e75326f859760b55b1c9714514fc40ad",
-      "facts": {
-        "chargeValue": {
-          "c152570a52be62f34673d1b5fe0d52ea40ed9fdf32178e552885f33d867931cb": {
-            "value": 1
-          },
-          "b0eb57fb734f9b5a40a247d135b7e02dfdb8c0eed300c359dd4365df457ed7fa": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "2edfbbad37bc5e0ffe8eeedcfa1fe35309270bf234f5f2b7b78522e62c4b8b68": {
-            "value": 1
-          },
-          "ff147f053b67d4bc97a56092bfc97f1730e00c31c001d1cb0fc4eb360e7568ec": {
-            "value": 1
-          },
-          "34abcfa79ab76ca298dbc9e4cede99b492676204493d6e83265dca5469ba7cd8": {
-            "value": 1
-          },
-          "16b626a178214196bc60c91225d4203012e62b5f015443371feccb3e532f916f": {
-            "value": 1
-          },
-          "9510ee108c05ec1e5a1691f9c3e39d4831717d12880ca66218f96acc8cd8364b": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "d0d1a877afe36ab790f9d5f95821883d1b8a416b15dac635b03ab3047b38b0a5": {
-            "value": 90
-          },
-          "b65d49d26a014ed8e75b0e27c2f4fda28396956783cee3f85f02e2a8ec92e984": {
-            "value": 90
-          }
-        }
-      }
-    },
-    "KGR-006|d7467ce9f060b76b4e7373d30f7306214bb46df0b7fb73d681d5c35d378a8256": {
-      "code": "KGR-006",
-      "revision": "d7467ce9f060b76b4e7373d30f7306214bb46df0b7fb73d681d5c35d378a8256",
-      "facts": {
-        "chargeValue": {
-          "96318b427dc373777f16cb4a7a017f6c34746a1fe04171e8e78270da4e6631b6": {
+          "5f3e486707f75a2d0ee061c32842ba2f719fae0d811bf0b74f7fa89180f84f65": {
             "value": 1
           }
         }
@@ -902,384 +363,77 @@
       "revision": "781a37eaedcf2b04539584f2fc4d33c2ae82ee8ff536f717dff91fb0c301baf7",
       "facts": {
         "summonCost": {
-          "3c159b68cc244928e2c2da774b6a613195a05cd864903d200d09be064ad3b94d": {
+          "a3c50253f99d48a13e11c31e6c5fcd097558d6a5e9266d4d05f92438a7f244e1": {
             "value": 3
           },
-          "7b810ab8b2922e4339c855bc2a26865e0742b773bec7a814d1643573ab371b01": {
-            "value": 3
-          },
-          "642f2179cc5ce3b4db1a8f4ddcfd59035634d1ed11a79a130cade6cc5f3b568a": {
+          "c233aea4385d581e66a4f7c7ad99a8d059e64673213cf59ee975103fb429d203": {
             "value": 3
           }
         },
         "skill:0": {
-          "b279973126023439a167f605171a4c73bfcc54aef921ebc27eefe9ebc02b3204": {
+          "0f42d44a13617766ea936092ba9d3296b7a94978403e611806c3b7f0bb3aea2b": {
             "value": 90,
             "name": "Solar Flare"
           },
-          "25bc301ef9800796b79647bdac1fadb2194aab4a7ea0aa2f0a7ce5565ac64f6c": {
+          "97d40e7d6f47f2899d10e7da615e0df0bfd1c392a09196c3863171fac67b768a": {
             "value": 90,
             "name": "Solar Flare"
           },
-          "10831733f1fb06097a7fb92cbede30ea43b5035c365bc17dac3605a21731e064": {
+          "724514596ab80987514161985a334787edb06de75b74b044556379ccf2f66be3": {
             "value": 90,
             "name": "Solar Flare"
           },
-          "d019f8d88ef813b5813048ecb9f6656ace694424e47dec200ebd6b4a3c57b056": {
-            "value": 90,
-            "name": "Solar Flare"
-          },
-          "854d9c21c477313510a468a0dd3222c4f1d55b1fdbb0891c3745eb4485d635ec": {
-            "value": 90,
-            "name": "Solar Flare"
-          },
-          "309d23990f1d49035a1d913c668889339d205b37c3a57ba82794242a5fb1e1fc": {
-            "value": 90,
-            "name": "Solar Flare"
-          },
-          "fc2941f9d41f82bcda569e9c06dc0fdda2a628c8d9824f105429adca84de4bfe": {
+          "9e523cf03d412cb7c7818b2d6db3e4bb7234103733b8b7324444e55f7aa3edc2": {
             "value": 90,
             "name": "Solar Flare"
           }
         },
         "chargeValue": {
-          "c908f2b09a1b539577dd0ccc9a7ebeb44c346d3c37b9e766d5c53dea367d642f": {
+          "d7bb14ad4e2dbf35f30a9b923b6d5816f8066be03d0952f228933b3ffa20cbf8": {
             "value": 1
           },
-          "9d5fc4e77e0d2470a4c769f43d5e453cb917a3ada11693ca11f71a84dc587701": {
+          "533dac643c9512cc853eedaa0521a460c2bd3a92a218e0f633313f46fb12f5fd": {
+            "value": 1
+          },
+          "23aa331753687103fb7bd4a7a1bf7d8fed13d87a7ae4b997fe2a34955a270b34": {
             "value": 1
           }
         }
       }
     },
-    "BS-046|e6ca6c9ce91fd90f7009d58b383fb86d5e1b7c292c6f22f80117b40c35eabd65": {
-      "code": "BS-046",
-      "revision": "e6ca6c9ce91fd90f7009d58b383fb86d5e1b7c292c6f22f80117b40c35eabd65",
-      "facts": {
-        "chargeValue": {
-          "e99e1e413f67d61d54ecf041b496f25263ddf424abfec1f454132a51d222dc96": {
-            "value": 1
-          },
-          "875abe8a9ea2d738ff2cd2e0aa5c5be7debf44f71adf3e39cec7d60ec47cdc03": {
-            "value": 1
-          },
-          "27a70090065fe12098d67c3dedff9c2654a576b4de0eec5cee953e83525aee6b": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "898edfeeb24c30db0b597c5aa92b40067c3bde5893b5c605124e144c54b6e92c": {
-            "value": 4
-          }
-        },
-        "skill:0": {
-          "51d7fa76c7523ee5f58eba3067b727c7309158ecac1a72a52a195dc056eba148": {
-            "value": 90,
-            "name": "Cozy Nap"
-          }
-        }
-      }
-    },
-    "BS-028|54ce0ec8b89279aa5450989e26d8eb8ac8d56c5b1a1a51adb8b86eb8dd69263d": {
-      "code": "BS-028",
-      "revision": "54ce0ec8b89279aa5450989e26d8eb8ac8d56c5b1a1a51adb8b86eb8dd69263d",
+    "PB-116|cf56981af1fc026e562aabf05137bb90784292fa203a36e1164bfe19d511d0b2": {
+      "code": "PB-116",
+      "revision": "cf56981af1fc026e562aabf05137bb90784292fa203a36e1164bfe19d511d0b2",
       "facts": {
         "summonCost": {
-          "243b036546b3fbc8cfe7e72bb60d04954481478dfeb29e8da3abb26708a2d358": {
-            "value": 1
-          },
-          "1f2cf1f9208e26b8be816acab49385d6720af12c76a322e72e14f69dedeffc7d": {
-            "value": 1
-          },
-          "fc1c6573f7e3f7507b008c81c1a785c1e373b1cf79e387439107dc22c0090dde": {
-            "value": 1
-          },
-          "55cdf83ce627c0a6677e9574b9f862ca080e49946890ff85bc6414cdfd3b85f6": {
-            "value": 1
-          },
-          "c1234c058634a31f489a0843d05a09c1bad03f806af2bff679b798c4f3ee8c4d": {
-            "value": 1
-          },
-          "683e2d41da3cb777edc86735aa462325e2607907d7611a63a5c127551c9f1c59": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "dfdf2b88fcb755ba66e8bfcc18fa91bc3881b3de6e770c58a3617c7de1d69e9b": {
-            "value": 90
-          },
-          "4ce03e3d8c244d829dff26af0a210e7ab47971acec538bf1cc6a8f745b30f1fd": {
-            "value": 90
-          },
-          "507be0dadd247b4100c7f87d44d3077c09d2ff40147cdac84ba5fc8b1da496e7": {
-            "value": 90
-          },
-          "9e916ffcb780cffca2c16d00678db2b996caad4f566952b16ffcd8f9d828bbe6": {
-            "value": 90
-          },
-          "a4031d2fca637022e1fdf0d16a05dc5390162d9a542fb4b481c8d2549b9ca76e": {
-            "value": 90
-          }
-        },
-        "chargeValue": {
-          "71b5c3d2431a564170abceec7eb8d0efe80b692ac15819ebafbacae28fd2328e": {
+          "6cca670a9b4b3470789f5a3a251a29e3714e6bb449687b643ca99c6e6b78c176": {
             "value": 1
           }
         }
       }
     },
-    "BS-032|b237c30673d45a42e1c7dcff2ddd668cd15e19fd43a14fff9e91c38df6ac8613": {
-      "code": "BS-032",
-      "revision": "b237c30673d45a42e1c7dcff2ddd668cd15e19fd43a14fff9e91c38df6ac8613",
+    "HLC-013|63e656d88e326e02ffec43816a7e8aef1347ec7d0e91bf4ad73edc2a7f44ecad": {
+      "code": "HLC-013",
+      "revision": "63e656d88e326e02ffec43816a7e8aef1347ec7d0e91bf4ad73edc2a7f44ecad",
       "facts": {
         "chargeValue": {
-          "bda033f05eb941dfd1097d4c168887f5ce8aaa7d829b8f8991c764598e167b68": {
+          "00515676e3d8c760653629753ad3715b8888722e7bfed6c629796897c2388838": {
             "value": 1
-          },
-          "79c8b7867746b1e380e0a6394a2832a575668767989fafc6c65fa8669191f396": {
-            "value": 1
-          },
-          "d07605cfc0ba8fc14de10a532cc630589f723d92f87f6c1fb40220f1dd011d70": {
-            "value": 1
-          },
-          "3b1da24e8ea0961bfb5e5bd465d2417568e04042fdcfc68ae2a7f575a2d662bc": {
-            "value": 1
-          },
-          "1be9d28ed303f05b46f3eaa086a994009254a1d486daeea8ae3c51b1b007068d": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "eee14ada00dbd2a27307df86b14c8075fdb3266ca0bd858d2303a44c67f9bf90": {
-            "value": 1
-          },
-          "04cecebf493d983f9b262e27643b515cb9b86e1e3e1b5542529cf0420be53573": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "27eabbbedc8fc83ad2ddee9d2c85cd4b134498f0fafd90095172d02477d8e161": {
-            "value": 80
-          },
-          "25abb2210c6fe71ce0abfde1855129f06dbdd158c1823446a14577d29a9ac770": {
-            "value": 80
           }
         }
       }
     },
-    "BS-027|87e8d39e7ccad6f67282ee0cda7748a5a27816716e91cfb9bb44b51906880922": {
-      "code": "BS-027",
-      "revision": "87e8d39e7ccad6f67282ee0cda7748a5a27816716e91cfb9bb44b51906880922",
+    "HLC-001|c14503f3746f9bc50a553e40ce39284fd966f22fe181793b61f0ae6071bd3249": {
+      "code": "HLC-001",
+      "revision": "c14503f3746f9bc50a553e40ce39284fd966f22fe181793b61f0ae6071bd3249",
       "facts": {
         "summonCost": {
-          "8b410c9718286f4f8ec633971d7cbb8d0ca6277463f3c4d7aa317bd5c5874a57": {
-            "value": 1
-          },
-          "b13a0f3a1039a3673dfe55b8fa843bec078accaec992058de88500cea33eae65": {
-            "value": 1
-          },
-          "30dbbfbca399befd35518bfbac3f1533430d019ce4799369d773f01fe092d09f": {
-            "value": 1
-          },
-          "497821dbe231f302c8d10b45a8ba556e1c0b881c676a1c50e008ab560a087f10": {
-            "value": 1
-          },
-          "a89790ced52d8dfb3d609a9086fde78a3c6982fb31aaddd22deaf1f7bacaf517": {
-            "value": 1
-          },
-          "52dccae49a3eeb95dc6284adf52a5fa5565ef2ef11edfd7824221169a55c1de5": {
-            "value": 1
-          },
-          "10700f98bf0918da9473bc03c882e14012cb25280d2664a546067d13cf6bdf02": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "e5c72b1bcb3482516e637358554ade77e03696ef51fe35b173ced91e3fb0dd15": {
-            "value": 80
-          },
-          "697c062abd6e249b4d4bc744ae5078709b8b675c8547f43549c8353ddc8becf8": {
-            "value": 80
-          },
-          "e0930ef09a737ee69314f99a0fb9d0ee8f6b57942617019babe2778cf4579d27": {
-            "value": 80
-          },
-          "0b74a00ae4b07ab1c8e574f1a9239a03cc1603564bce03240cd7ccee26b4bcc2": {
-            "value": 80
-          },
-          "d6f9fe3ab2536c9abccc4bf21f602b739de528befcd55b72a5fc2d66d3790a70": {
-            "value": 80
-          },
-          "bcf033f64b71c0ee4711b0530cc5f2d3bead34a2ab04af8d105ca21fe2a39d25": {
-            "value": 80
-          },
-          "2dc816325c0bf279edc70ea48798d13fc928b743ee0249fecf71914cc0e6e315": {
-            "value": 80
-          },
-          "c11f27de5cc1556dbb3928642fae0d0472d7196cc49af80b41db0f0bbfa90620": {
-            "value": 80
-          }
-        },
-        "skill:0": {
-          "2cbb77b78db843d934fb8dfe1726de3b72dd894cca72a9c1564f47b3ec9beeb3": {
-            "value": 50,
-            "name": "Flower Toss"
+          "bea9abd10403532a15d11a68cc52b8f5558bebcb2929d5e7b67202c9ecabef44": {
+            "value": 2
           }
         },
         "chargeValue": {
-          "a1207fd9df794ec9d00adae10a8e527e58c30b8e63362b8d41ffed05c2bace72": {
-            "value": 1
-          },
-          "254732bdf531003d57acd4dd13750c670376ee687d10674f0f44265fe04655ef": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-133|6a93faecad98847cc99f4160f2ccca85704c3c61989fc7bc2914fe07a8bf6380": {
-      "code": "KGR-133",
-      "revision": "6a93faecad98847cc99f4160f2ccca85704c3c61989fc7bc2914fe07a8bf6380",
-      "facts": {
-        "chargeValue": {
-          "be809b33dcb73cec8776a0bf4af65ec444a8605443ad6ff410c62d2c4492a0ac": {
-            "value": 1
-          },
-          "f6fdc6c2e2d63c5762fc807c5acf68cc3d7ec8697d8d027d5219286ea4093c0c": {
-            "value": 1
-          },
-          "94a859be9bcb7fb7df9cf0e6347b5271483e00a2b33b3fc393217d4573bc7b41": {
-            "value": 1
-          },
-          "2d036dd22d6614e5cdbec15c485dca581b74b13fd9375c2792601167d4f8128d": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-055|a185935a5c6c7397930a021e339e9fdd8882759940c3fa8d4427f3d6362aa4e3": {
-      "code": "KGR-055",
-      "revision": "a185935a5c6c7397930a021e339e9fdd8882759940c3fa8d4427f3d6362aa4e3",
-      "facts": {
-        "summonCost": {
-          "b2e733d0b467a2ac65d106ccb68c19d11a28662b28104c2afecfdf51268ea77a": {
-            "value": 1
-          },
-          "e5f0ba502f0ecdf203d006ac52783ef7bb858ed7942931facd5c8259c94b5914": {
-            "value": 1
-          },
-          "f83eef1dd72a6adf5b4d2110c94e89e3a5aa9568ee3bd305592dc774d67e91a2": {
-            "value": 1
-          },
-          "968c06850869a7226c99158a9365183b9bd7a4a4330d8b7b540683c9f0fbf6e9": {
-            "value": 1
-          },
-          "702838f97f38858d93e241192df073d0e20f6922abbfe0682828561b2ed2b433": {
-            "value": 1
-          },
-          "ff1ca77821627303a294db4664f96ed7c3654d27ae34737879d7e8b29d2b3ffe": {
-            "value": 1
-          }
-        },
-        "skill:0": {
-          "ee033cce09a796a11d0f69695b0b12e14a19ce2bfd93b9c193498357a5bd8a1b": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "21c1e7498e8b9f87734ddc03605f61f2f77a41bcc0c0552840915db0124a2af7": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "55b50f200b9aeabb1794cca5f65920bfa46df7ae246c968a9fdd61f5affea430": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "3db5f74973b36d7436adaac067dc4fbaeefcb5979aae3e25f40e33fdd8048f68": {
-            "value": 70,
-            "name": "First Cut"
-          }
-        },
-        "maxHp": {
-          "0ff9e8b695d5d055c3aed3f9b1bae778c7d87c37d655ccba1c07dba7914f6597": {
-            "value": 70
-          },
-          "07b9ea0c30d9c8b4805d17d57cf4585af939ce947c0fc3447a58b750de480708": {
-            "value": 70
-          },
-          "ec264b39909f6cad0988e6b075b5195d4060b2c863f2106a212f651a370ff16a": {
-            "value": 70
-          },
-          "9bb1c8d7c07493738f418010411d5f157829353b1c9084cb63e230ff13cc5cf6": {
-            "value": 70
-          },
-          "8401a4c8dab92430eef68a7f1c1b582fecac7b52beadfcb116dee628a4acc5a2": {
-            "value": 70
-          }
-        }
-      }
-    },
-    "OSH-079|3169446c5f35d0f5c0c8dd2a765ac6a2f26e2e31e757f813cc36fca533f9dc60": {
-      "code": "OSH-079",
-      "revision": "3169446c5f35d0f5c0c8dd2a765ac6a2f26e2e31e757f813cc36fca533f9dc60",
-      "facts": {
-        "chargeValue": {
-          "952a02e502ed03ea32cc02c26ad3c5464971d88f2cae4299f80e8d8e5cd41bad": {
-            "value": 1
-          },
-          "14dc7964ebaf404a1fafba091299bc0cb4fb72e93fee000163fd9a5f14319a4c": {
-            "value": 1
-          },
-          "0bacd3dbbd1a6037186deae14956b59afb71629aed7faaeab41c8ddbe39d8bb1": {
-            "value": 1
-          },
-          "57918943857e0c8ed070480d783fb4f87e0d5c2633a45b37a8d4a043b292a1bf": {
-            "value": 1
-          },
-          "e5c46b1f1fdc276217b165db5e47c2e4d19c2caa057c8a5253e5e6e7e4f43070": {
-            "value": 1
-          },
-          "23377fe575d2e01fae7bce429984dd6c4a613357a6363db7d20d946fef3b84a0": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-001|1a25160058342af72d089d531d65d568bf78a2d4c4a065070a8b37fbc8dc6833": {
-      "code": "OSH-001",
-      "revision": "1a25160058342af72d089d531d65d568bf78a2d4c4a065070a8b37fbc8dc6833",
-      "facts": {
-        "summonCost": {
-          "16cf760d7d7616c520cc9c84b5e3a828ecc2ed9afcf50b7b2ed413521f0f9e24": {
-            "value": 1
-          },
-          "635fd898af98f81385a3c35fff42e8b0901dffbb606654d9a8836dd9299df409": {
-            "value": 1
-          },
-          "8e9d000acb15894e59714f6f8d4dd565a1620c8c62855e462a0fc0e51c76c1e3": {
-            "value": 1
-          },
-          "ea94874293f19bac1502360c1accd3d2dcf6b20d48b28c49540ca21548a94057": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "f5f0a3d14c56a0fba69a5f37de263bd1d3341845b1b50b0ccd643f6740828342": {
-            "value": 90
-          },
-          "9d33be89addce0f46b6ec571eb71d2142c8e3d1cd0aef890b32e9c9dbef723ab": {
-            "value": 90
-          },
-          "b5529083216c6540952ba9181c1f2f0f30d3e5e91dfc96ae9c2780933b3f605c": {
-            "value": 90
-          }
-        },
-        "skill:0": {
-          "075bbc558cbfb4f8f099ea060df3e2c7991899928c8e3b7652f9501a723ca15d": {
-            "value": 30,
-            "name": "Jelly Bounce"
-          }
-        },
-        "chargeValue": {
-          "675253bb6fe7a742dc68a2fc75083c56a21cfa27944df3b945a18a73251584fe": {
+          "f44ccdb6224f53bdcb912ea53bf01bcd384eaaf44d20f0f05a21579c43db950f": {
             "value": 1
           }
         }
@@ -1290,488 +444,368 @@
       "revision": "9966faee64cbc2f6dd17becaca446fad40200b20fd806c2b82dd4e04cd2f4817",
       "facts": {
         "chargeValue": {
-          "7789092c722ad800a9f084e847db542f5b7df40c449beff754278242269eb916": {
+          "536e528f03502cef06f26fda1f2a567eb5bec27981bf07d431a8b5b2d3e62dbe": {
             "value": 1
           },
-          "eb6e5058e91e0f0915a06aef39511ff49ab8ccd6c1105392011fa2bb6cc7acf1": {
+          "32f54ecd1dbbe115009c0c04796ebca52c426b7ea91060e70c2ffd1e9031138e": {
             "value": 1
           },
-          "f40b272f39fce9740e334a0cd0512761051bad81047e3dffde66ec2845f04773": {
+          "1a6d9b564a20051524f79f207c4f23eef18d3874728a590dae395f9be7d5641c": {
             "value": 1
           },
-          "a7ce00244469c6e9b311b8799f6ddd932b406ed04fdaadfab77f436eef020d1b": {
+          "60c693bd79918335a4ee4eb5796555c192aa3ea61d2451aea46c2e6d12f7ac56": {
             "value": 1
           },
-          "8bb942eb44f8a212687c234dbc77894b04d77bdf466e5831448ed9eb7bf3131c": {
+          "2c7f38f71234778e2d8a680c91e99751081d20d7c25daa0e7ec45b14e161c526": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "30236d4b67d5f07d2dd818a54ec7574ab69c1196be46e32e0ebda9aefc1e5bb8": {
             "value": 1
           }
         }
       }
     },
-    "KGR-061|cc37e545a8d54d19736cf821878b6b4aaf058d874f3ba418bd5c28785a66a620": {
-      "code": "KGR-061",
-      "revision": "cc37e545a8d54d19736cf821878b6b4aaf058d874f3ba418bd5c28785a66a620",
+    "KGR-004|b30e77a44c9a13b579d4938422d8eaa3bc08358a5d19f36eb96c79b31dab07df": {
+      "code": "KGR-004",
+      "revision": "b30e77a44c9a13b579d4938422d8eaa3bc08358a5d19f36eb96c79b31dab07df",
       "facts": {
         "summonCost": {
-          "4b5b4882d9d875e53964c6ab3249267394ca1e6b8d6a20315f54c6edfb5c947f": {
-            "value": 2
+          "899cf66161595a8479fb6f9f0a4e98038f1c3141f9146063c19bce3cf721f482": {
+            "value": 1
           },
-          "97f45adc35917b72caf3d5c8aa3c5e417062bd6277af8d77624c1e3133e01a58": {
-            "value": 2
+          "79bcbb2d04ab5895b197d014a550021a1f25c113cbb6cfa947be29847cdfff32": {
+            "value": 1
           },
-          "5d19c868b556d27c5f1f2ddec2d0e145da890c5ea5d2d2b3bf5ac9e12cf4b7a8": {
-            "value": 2
+          "3ae2a895067946bca4208c00b417af44301fc5878d02c47546f4d8fa5f63e3ad": {
+            "value": 1
           },
-          "063c47fc9379a426348f6eec276f5d95b9161baef46a79169377110190a24982": {
-            "value": 2
+          "f92eb9c9ae5fd49001b4472aa38728516bcf1f131eea58335de443385fad37c2": {
+            "value": 1
           },
-          "e56269f242f2be8a7d1600c1cf7baf740a83175d5a9a3db943828437b8d275f0": {
-            "value": 2
+          "64ec92791d829b79c1eef332949c85161678263e38a5b2e97d44cd07419fee29": {
+            "value": 1
           },
-          "65031ef213780d25248668ce9e83817b40ac5eba07f621505dcdd68bc5a15913": {
-            "value": 2
-          },
-          "ba1c7475d65480c58bc9f280d801544632ddec723817fa885c1af8982324e103": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "0d775654ff46e6e23a4a1405f18f80d57b5a4064804be5e8d9cea266969607c8": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "0245f185c3e3cfbd6ee94d9b4c4b89fcd61ccb152735a608481fedb50f95f81b": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "e315ec0eb00d0a2f8b5adfe3906482cecf27a4945ace85f600c0a782f1d9968e": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "d8a6272cbfefb5e39f9223d176fd0a7c4be74a5c8138293ff1b0a5a00b27362b": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "8103098b30bad6636a9d330bb418cbf855d8b83e4278d329b566d41e500558ae": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "15425427eb3ffd215d82950d04f262f63192d61eca964a5ba0dff7d6891df6d5": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "ff15f5f3a946a30e8f3249c67872ceefd82b38c77b5c392714148918efec5baf": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "ea79fbbad134b435aa0eaa85576aa437b55be694b691c1651362b5ef66bcfc89": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "cb16f3a8cf38a0b8fc9cfc2bc083a442109a473bb91903e655202868552311a9": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "992914a6b8f6d2d62bb48dbc2099db71cb8cd7b660c70a4b25c1c47d4c7748e6": {
-            "value": 80,
-            "name": "Violet Arc"
-          },
-          "3b5d5e0af80cc1357d3997f2bab05cd74460b977dce58fafc79b6e5c40a0d1fc": {
-            "value": 80,
-            "name": "Violet Arc"
+          "e1149259231d298b02448d37224e5f9a13f468f773af70cf0316a59139c549ab": {
+            "value": 1
           }
         },
         "maxHp": {
-          "9a16af16a743aae2f0781af5b2cb8b8c727eb1a5533d4d25845ec30326866233": {
-            "value": 90
+          "f78af137dabaa4befd7f33b4826f2cf75a94dea6be1e5b4d9ca322f1ab9ad439": {
+            "value": 70
           },
-          "663ff77246a3375a3eb781f01b49513178e7bb0fc010041a896e2c409d473c98": {
-            "value": 90
-          },
-          "7ff13704b0b94f26b7b38b414ff4b251bfad4275e64c626cb6cf7ecd3ec78e43": {
-            "value": 90
-          }
-        }
-      }
-    },
-    "OSH-078|84cb3db4bd380c3084c58d6337a83cb27e8c2fc7640d51e6f955933218e3d7d5": {
-      "code": "OSH-078",
-      "revision": "84cb3db4bd380c3084c58d6337a83cb27e8c2fc7640d51e6f955933218e3d7d5",
-      "facts": {
-        "chargeValue": {
-          "6033be7e340049e10fbd6e99df226ba83cc948113edc8db8d5695c45264e0f9b": {
-            "value": 1
-          },
-          "bd7be042dca1c8250ea23205f0aa5b54b4282c10be599a6cb1e4f46232e586fc": {
-            "value": 1
-          },
-          "185a3f00a470e79b9990b44cc719e319d21a3df8066c8941f59b64ff71531de0": {
-            "value": 1
-          },
-          "624efcd4e382d3735d091e07840dd3e3f9c31fac9148a0620071417728537b13": {
-            "value": 1
-          },
-          "3465c27d81940d17370112f5a7203f4117d70cfb3a799e4e516a51fb72f57783": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-056|4603c32d4731f7d782bd7247f96feb681354aa54ec41e45918bc59f466cbc9ae": {
-      "code": "OSH-056",
-      "revision": "4603c32d4731f7d782bd7247f96feb681354aa54ec41e45918bc59f466cbc9ae",
-      "facts": {
-        "summonCost": {
-          "72759764dbf8fd48abc5d9a9e1fb876a89acde3d398d7bc45b517027edd795cd": {
-            "value": 2
-          },
-          "b5d057d340063009b86ff104121dac221dd8f899dbf4061b1f4746e2c7ad5922": {
-            "value": 2
+          "356f2b1b9e91807ee3b930fa0973002ddf1a3570824767e7d3d4bcfdc1a2a8b8": {
+            "value": 70
           }
         },
         "skill:0": {
-          "3f73c8486793b833e0e8f81555fae88dffb510bfbf1cb1d0ba604f3523b5fab7": {
-            "value": 60,
-            "name": "Eureka Blast"
-          },
-          "6caef99a0f0f8bf9081429713d8b6e5f1304901d1429d72af099fd3957d6e5e7": {
-            "value": 60,
-            "name": "Eureka Blast"
-          },
-          "007188d3017c90c7bc4e0816a243a24ebb5cb2dcc3e7e36710885352de3dda07": {
-            "value": 60,
-            "name": "Eureka Blast"
-          }
-        },
-        "maxHp": {
-          "809f9d72e42ec19536be2beb92c70b755a78f1745427ad4143ea0543010d0302": {
-            "value": 90
-          }
-        }
-      }
-    },
-    "OSH-082|c54efc66cb587e2fac56e1b27fe6648cba79f83029cdb5f52fa76fc1071d02ea": {
-      "code": "OSH-082",
-      "revision": "c54efc66cb587e2fac56e1b27fe6648cba79f83029cdb5f52fa76fc1071d02ea",
-      "facts": {
-        "chargeValue": {
-          "610e830da887050885d2d4f40ff31f053981e688cc0f8590095ffa9ee06186a8": {
-            "value": 1
-          },
-          "9ea24c9357b7a560e62ec71983cc1d4e5f9148c06b58e8c75a5bb23962664592": {
-            "value": 1
-          },
-          "5e6731d59033dc3ef9625268575a28cd14cc210e96298bce62641aee483388bc": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-070|cd026b5061a73fd1ebf382bf7996e358b44513ea27198a4fb5500b94276371b0": {
-      "code": "OSH-070",
-      "revision": "cd026b5061a73fd1ebf382bf7996e358b44513ea27198a4fb5500b94276371b0",
-      "facts": {
-        "summonCost": {
-          "db68ba56c482857042191f3f92079554bf180bfb680fb747ec63f37740863936": {
-            "value": 3
-          },
-          "fbf28f17d65cec1c36df1438804d5fb9f76b9c47d0a04cf80029a86e6c131848": {
-            "value": 3
-          },
-          "1278a544a121d75d7fa221576ac445c06f2e5d2582959255c0f8fd845864ae2c": {
-            "value": 3
-          },
-          "8da8d5c9b675c52c5fb94e7450be784fdb49fe6c330e77df2e13136fd041ed9c": {
-            "value": 3
-          }
-        },
-        "skill:0": {
-          "9061425fae458a73ff43c4a533201740a280353473326de63d4056f958fc075f": {
-            "value": 90,
-            "name": "Tiger Claw"
-          },
-          "9851f7aa1ea772b80103cea3fc761f909b8726f99eb997940702ca1a389ef8a6": {
-            "value": 90,
-            "name": "Tiger Claw"
-          },
-          "daf62d95d8b7d9581ce019fd0ff175a3fe0a525b9c0e01bcd485e39d313af00f": {
-            "value": 90,
-            "name": "Tiger Claw"
-          },
-          "5a08652d9dfab0f14978d59d6466e425ba8c0a26a430654acc3d5b3f3150c5d4": {
-            "value": 90,
-            "name": "Tiger Claw"
-          },
-          "ef6fe8391279d4df19f495684340c18c18c755c9bbd1a6c003914ea3ec1f930c": {
-            "value": 90,
-            "name": "Tiger Claw"
-          }
-        },
-        "maxHp": {
-          "b808c073d158edcad699b1649862fffa8ea4b2a4536b072c976643668a7041a9": {
-            "value": 100
-          },
-          "45c423a1ca86e67de23fe4ec9d630ae4d65bf99940db1ae9f511531169e7ba27": {
-            "value": 100
-          }
-        },
-        "chargeValue": {
-          "a5c67691a0fc5d9322ef5de510f87505431f218cfc826078f84cf66fdda7d867": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-085|e88dc7e96b59711d5a53f154ec3f258f66667c1baa148f8f56d63c1d31f7b3f3": {
-      "code": "OSH-085",
-      "revision": "e88dc7e96b59711d5a53f154ec3f258f66667c1baa148f8f56d63c1d31f7b3f3",
-      "facts": {
-        "chargeValue": {
-          "b6a3d26a7dbfd2220b29c2712a72f11fe8666d60b3d9d1bacbc5ee8690b44e1a": {
-            "value": 2
-          }
-        },
-        "summonCost": {
-          "0382037bafef806beda80c197cac449f28ae17754c94ddf892df5d4539b67762": {
-            "value": 4
-          }
-        },
-        "skill:0": {
-          "1d175bdf0659f340794568939b055d5ccabca35036a41c3f2edaabe22115420e": {
-            "value": 120,
-            "name": "Coronation Gleam"
-          },
-          "d53f22164fa20ea7d61fb8059658b8e2ae38499527fb76b37134e0d47745514c": {
-            "value": 120,
-            "name": "Coronation Gleam"
-          }
-        }
-      }
-    },
-    "OSH-054|1b101b90645d9f22c44ce11e4770f2b4fb0d75bebae356109b99d6b103241de6": {
-      "code": "OSH-054",
-      "revision": "1b101b90645d9f22c44ce11e4770f2b4fb0d75bebae356109b99d6b103241de6",
-      "facts": {
-        "summonCost": {
-          "26b613e4115a6edc5561c881698c0d54f07f3f1a768c5cba296c9541aeec93b4": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "c8b37a263fee2a325aeaf43ef1414a10c2b38c3b7ee74b859c86354dd328dc9d": {
-            "value": 60,
-            "name": "Eureka Blast"
-          }
-        }
-      }
-    },
-    "OSH-008|d20d2552ed6ccfd7c37f888675e9dfaac1f96517fa43f862d7daef847db030ee": {
-      "code": "OSH-008",
-      "revision": "d20d2552ed6ccfd7c37f888675e9dfaac1f96517fa43f862d7daef847db030ee",
-      "facts": {
-        "summonCost": {
-          "dfaee73cd665d110a4194a7e398157716b6afee660ad90c4436bfc3807c586bb": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-096|4d2ef6a19e5a1c53ee739f66d4a6bccec73d01b579e9a6bfab5db726bccbe095": {
-      "code": "OSH-096",
-      "revision": "4d2ef6a19e5a1c53ee739f66d4a6bccec73d01b579e9a6bfab5db726bccbe095",
-      "facts": {
-        "summonCost": {
-          "4d8212c0035a39c8f5cb6bbbd768ed0849a66bcb4fff138ad27874dcb5528d88": {
-            "value": 1
-          },
-          "1669bda33ed0c414be800f396326163c8853f54c23e9d5eec47a4eba7fc8de54": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "BS-039|35dccc022bcefc290acda8caff9e64f105510225c6d3d386c026d1b918f82159": {
-      "code": "BS-039",
-      "revision": "35dccc022bcefc290acda8caff9e64f105510225c6d3d386c026d1b918f82159",
-      "facts": {
-        "chargeValue": {
-          "390c344c95a87f23f1dc5823016a1435649b042854ce4eeef090a0338e59e298": {
-            "value": 1
-          },
-          "b35c94a58c290ad59c5d30b5d07db5d523b1a622c11f43caab11c481809e1009": {
-            "value": 1
-          },
-          "b62fc99de05f0be600c7bbd2c36a93a131812b8b59cdf476bb5904fde5a020ad": {
-            "value": 1
-          },
-          "263a5116ce37e4eb77e296d5c8ca05354d5d02c323f46e6e3296a80246656a7d": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-001|e98c210b9fd759606391d274d53d5961bdff0c8f29f088e1ff774ae1539540b0": {
-      "code": "KGR-001",
-      "revision": "e98c210b9fd759606391d274d53d5961bdff0c8f29f088e1ff774ae1539540b0",
-      "facts": {
-        "chargeValue": {
-          "409f0636bf1b706326d9c182604b862ce234e90e71ff1872a1803cacb997a8ba": {
-            "value": 1
-          },
-          "89265bc78c9aae2be04ef837b9c69250ba9f84c63546b8c604ef633e1b665099": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "3ec0e7322c7178d0176651fd5186a274ae5d25d116020a2d1bcaab3387689222": {
-            "value": 1
-          },
-          "5a2b339071284555261ac11cbcf07f50916b6c06e2890c239c0d2f4f8dc810cc": {
-            "value": 1
-          }
-        },
-        "skill:0": {
-          "4e03ae927e68ac6bbd2ece584e7629e4e535a59d5e5e5d3b885a4a71a29f7d79": {
+          "0afe94104f766e3657bd32833a4baa1b02f4946c9f45533f53cc3e6556b3c38d": {
             "value": 60,
             "name": "Ember Step"
           },
-          "783ae300c81885930bcf63fae7928e785934074b4b02543e9bc1019f315f8640": {
+          "c62ca80423a11fb8810a7fcd298d97d708c8f3699015f193154b33f0789869eb": {
             "value": 60,
             "name": "Ember Step"
           },
-          "cd1b7d2861f042aaa3cfeaaefbd89f67f9d959184c07221fee2bd88271d221fb": {
+          "9266db14d6492a4ddb1828c4774ba791f4feb43d4e5774907d57f16c0697d1a1": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "2b1e50be07656252636c2a47707314e07bda64e112414c0aa91c91adc207fbc8": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "ffc809f5ee37e7dc2fae26b14f68210e936ab0efb59560e3eb535ce057a1d65a": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "c7223b592f7546cd7c6aa0f0da25fda436af1eda77ed8e455bf7bdab05c69f6e": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "28bf280c9d9f7c9393e663774266538be7f9538670b7af4dfaaa46d9e2d51a74": {
             "value": 60,
             "name": "Ember Step"
           }
+        },
+        "chargeValue": {
+          "bb46a5c131ff739c6a1b17a49f6680e071136bfdc958c06f4dbe3453d38c86ce": {
+            "value": 1
+          }
         }
       }
     },
-    "BS-040|6df087e9b94156819fd229b7a7ddb563beb48a9000cd3e4faca37fb6b4d0fe0c": {
-      "code": "BS-040",
-      "revision": "6df087e9b94156819fd229b7a7ddb563beb48a9000cd3e4faca37fb6b4d0fe0c",
+    "SLC-003|2b578f47a0065b355277a900ec0f24dbbb3801ef6deab105b7cbd0c4d3895a68": {
+      "code": "SLC-003",
+      "revision": "2b578f47a0065b355277a900ec0f24dbbb3801ef6deab105b7cbd0c4d3895a68",
       "facts": {
         "chargeValue": {
-          "f46216946c0ccb150abd8b59db992b0aed25c280163c35be6138da49a9627369": {
+          "e02421bcdeac65ba3994fd0eb16d57481b74b118a3a7120e9e87e35712f8081b": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "AMC-001|bfb7078b547af3a85fbd145c02ffe1425864f0b1ac06e944a7b2ae959e831017": {
+      "code": "AMC-001",
+      "revision": "bfb7078b547af3a85fbd145c02ffe1425864f0b1ac06e944a7b2ae959e831017",
+      "facts": {
+        "summonCost": {
+          "eaa382b50149a0d62a8a63d69110ffab5946f635689085e9a6c57e377cfaa8ff": {
             "value": 1
           },
-          "8ff7d1dabf0d2b81556275dfb35213f092be6e4d05a7a6e72ba32f5761edd206": {
-            "value": 1
-          },
-          "dab3ccd6596452622dae5eb96553ddf0de188a2c30ef35cf645b85a7fe163264": {
-            "value": 1
-          },
-          "871239db42fa21de4c9dca7e50d6ab0299fd783d8b2ddf09cd806e1d807709ce": {
-            "value": 1
-          },
-          "509b963b5edaa40c14202ebb1d7221ce321a254bec5ece81a1daad17d11f0890": {
-            "value": 1
-          },
-          "770405ba412afc2a80955e05835088667235c26f88b1beea88dda7802d189929": {
+          "010eb712bad6982be0c875c3c7a365d451b4608efd06710c6cd8d44aa0bcaa6f": {
             "value": 1
           }
         },
-        "summonCost": {
-          "4c9cf261f04316bf0ee15507164be166ad04c50c429048ea4c046e1f1aef033f": {
-            "value": 3
+        "skill:0": {
+          "fc4ff412471952061c643a260d5b9645704ca87ac2a4aa60c5f4b79f9f9a6562": {
+            "value": 80,
+            "name": "Sunburst"
           }
         },
         "maxHp": {
-          "053f22b288e4599d9884a6138d93dacf69c66add93bffd8bd8a45b32ff4e9953": {
-            "value": 120
+          "4cc308cc81e9108e1e9c3f73c1d37e3243fc6392196fbcc61d1ae10c73a30839": {
+            "value": 50
+          },
+          "9d80d846e2b16e382dc5e5a245fd5a512fb6a6b5027cdfa678ffa62d275bdef0": {
+            "value": 50
           }
         }
       }
     },
-    "BS-047|838d7066aae05436ca88b1f922ee9c0c8457b5e2166448e1e7479ffaa2d6076a": {
-      "code": "BS-047",
-      "revision": "838d7066aae05436ca88b1f922ee9c0c8457b5e2166448e1e7479ffaa2d6076a",
+    "KGR-078|acb3343682278d9da8207e810e741f6daa560ca2bcf04cacc5f820e1ec0866a4": {
+      "code": "KGR-078",
+      "revision": "acb3343682278d9da8207e810e741f6daa560ca2bcf04cacc5f820e1ec0866a4",
       "facts": {
-        "chargeValue": {
-          "c5c67d04031ddefb05baa332e36a66d8263b2def58959b88759c713a41c07545": {
+        "summonCost": {
+          "6a9309ab4d927dd58f2398afdf5bceb081c4bd463d8b9a4d877cd451acd233b2": {
             "value": 2
           },
-          "77a8860e94dda5b9a3e7f97af2731027f2150e9d86ee1d6283b8917dd4d275b4": {
+          "52e994574038120c60cd944c23fe1b0849b96639bead6595342001e078410c6a": {
             "value": 2
           },
-          "fbcd2af3244714c6a2949f9ee999b025d64d50c05b4d8890d2fd35451cb1624b": {
+          "97313e0271e861177d223228ca978f0e4b3653f6c55f81ddd11c70946f3078cd": {
             "value": 2
           },
-          "63de3309ba6d432e181be8f3b2e487eaa00c19e9f0f86fd20e98e6d8b2f7a7be": {
+          "8388dbf77e22744e99f7c61e1770e4ef1976ca4a0d4ab0600dedbea6cd2d7c31": {
             "value": 2
-          }
-        }
-      }
-    },
-    "OSH-057|f8ba07cf4749ebc026427b034927f8048419b42a344f94a5c9c77f75f878ab7c": {
-      "code": "OSH-057",
-      "revision": "f8ba07cf4749ebc026427b034927f8048419b42a344f94a5c9c77f75f878ab7c",
-      "facts": {
-        "chargeValue": {
-          "af49ce9f52b0a9bcffbe778b0e344a760cafe4bf0c862e82990c0bfb2d612f84": {
-            "value": 1
           },
-          "2a81bd1af30939365fddebcb4f4d3ae7d21efadb4302db9c08c09b6be0a7e847": {
-            "value": 1
-          },
-          "876aa9dd13f85362c035e26dfb3e0302d066aeeeb7c48dcd92fb38e76ccd211f": {
-            "value": 1
+          "3a7dd1aff45e405ca12e1a1563e8751a20b59e8c91651af022911e1cdda6a15f": {
+            "value": 2
           }
         },
-        "summonCost": {
-          "5b75c58336dc1bd54669871ff1c1870552420e706743e8406fd66578982a3762": {
-            "value": 3
+        "skill:0": {
+          "73fa74c984bafd22a9ab4f31a46b500a55f20b6d6fccd2ffc39d7fa40c2fcc22": {
+            "value": 50,
+            "name": "Foxfire Flick"
+          },
+          "79607c2035676b8e55696acd8543df5c14d59edf5662a046c7402fb46b202d0b": {
+            "value": 50,
+            "name": "Foxfire Flick"
+          },
+          "274a7e70e855da9b9f098c365cc5803626a0f01f7595598c08a8d2e24bb1b545": {
+            "value": 50,
+            "name": "Foxfire Flick"
           }
         },
         "maxHp": {
-          "2bdaf15c35ce698b8ae686b7d0d5f4babc7c23601375735d1e2e8d760d297818": {
-            "value": 120
+          "e140c391452f4f2859bc62a6e3837e70e18134554c5d63845a7dda540af90316": {
+            "value": 100
           }
         }
       }
     },
-    "OSH-065|67fcdcbfc244790dad58ef701629d1323cee31f2d061eaf1a98635fbd2b70a1e": {
-      "code": "OSH-065",
-      "revision": "67fcdcbfc244790dad58ef701629d1323cee31f2d061eaf1a98635fbd2b70a1e",
+    "SLC-002|8f61ebe8caa79e9a874a7a43e11f4e9141ca544ceadaca46affe906fd7bf7209": {
+      "code": "SLC-002",
+      "revision": "8f61ebe8caa79e9a874a7a43e11f4e9141ca544ceadaca46affe906fd7bf7209",
       "facts": {
+        "chargeValue": {
+          "6537fb714a87340e287378e925148c35645e3254665d5e86b115586015d5079d": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "KGR-067|9180aa955f6277809145141b187ba8d15ea07c67bfb72a845e91e8a404bd0694": {
+      "code": "KGR-067",
+      "revision": "9180aa955f6277809145141b187ba8d15ea07c67bfb72a845e91e8a404bd0694",
+      "facts": {
+        "chargeValue": {
+          "20549cc5eb4be8207d0bbedbe8d067f2c936c66273a0c77be5c0d6ea31eeac4f": {
+            "value": 1
+          },
+          "b48716f5709f2d35b204213fcbb10f1d4f68f20fd53a76cb4705343a1b847fc1": {
+            "value": 1
+          },
+          "c77e39dda9b8abe5c3a9c24eebe2b1e760427fefe64692dcb55d2816cc714b4f": {
+            "value": 1
+          }
+        },
         "summonCost": {
-          "8ba7c07f3b428819b6894d41f892c0e0636d8b5f542e2a6891a9355fd3bdf68d": {
+          "a3fc1bc5bbe0e52ce44eb6043c6ef1d281478337c28bd03769ded839dd098282": {
+            "value": 3
+          },
+          "fa5c663af9fe7bd4388a912ec7b9e65413cccc6f095e45cf4b60e3ce6efc5250": {
+            "value": 3
+          },
+          "0e10acebce1b50039aafb24b4c033ae22841b335522f1320b737a6300a590d72": {
+            "value": 3
+          },
+          "584362ebe0b3419775663b7716504990761682b76f77607dbd9bff4037f7f62c": {
+            "value": 3
+          },
+          "ee4f4d75bd7f59edaf6521d01268f1f8f8da49682cc02b6760f22b9e6fdf73eb": {
+            "value": 3
+          },
+          "02b664b17a5a1d821f6734d1a3b004acf634bbbb3a8353c43886942b8ee10aaa": {
+            "value": 3
+          },
+          "288002781bf95b1d7e7de432a0fe81a72c3305e429fc5b3d44e95254e3727e7f": {
             "value": 3
           }
         },
         "skill:0": {
-          "3c430013a2878187471621ceaa89d9b6f594cc5b8dbbcceff47ece64a29ed919": {
+          "71c10f971276d2e57b9b1ff1752013b0579919214451b35a2729cea138dacd37": {
             "value": 90,
-            "name": "Tiger Claw"
+            "name": "Thunder Slash"
           },
-          "8c0086d8305b6418a655930ca2361b78480804c80519ba01ac07b39015d62d13": {
+          "0e7c7e39fdd44e45f7ea9a8a2f1ff7e9ac0290fe4d04cefae8d35a47e830026e": {
             "value": 90,
-            "name": "Tiger Claw"
+            "name": "Thunder Slash"
+          },
+          "eeae8aa677423c4470c0a890f917d265457056e68ff0742d0f65cbe0c0c1d377": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "b826e0062b03e2164579bdfb1d1ff41b14345ea2f736dd0108abd72b741e5cbe": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "7e46b7ab8c689f436c954a051fe6ac9cf9008b1669c198ee5925d2eaebe18f89": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "5df53d94a3bd78b064224db297b14c6877abd412656a260fd596ea950d3bd700": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "8e3c5df207e1bf763192dcc1b44b1b710e0a06345805c3b72ec7268c952b0a15": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "458a6dfc7b5252d25a2ebd80ff1c382412536e252bd2e42ab0dd244f5837787a": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "23b026b6f4d482c98b6360e7927ad742ad0577adb13eff7a1d9166bbca6ab942": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "c867774defa669afa1b2572bb4f1673678ba34dddc18ab6aca1cd4e9f338daee": {
+            "value": 90,
+            "name": "Thunder Slash"
+          }
+        },
+        "maxHp": {
+          "17526db0d8fac5f8e7373f69276f313e2005e0604725f6926a23509da85db056": {
+            "value": 100
           }
         }
       }
     },
-    "KGR-044|37cab38bba7983b9a64d0272af004d227cfc23f3fcab77a29f23600d3aee4160": {
-      "code": "KGR-044",
-      "revision": "37cab38bba7983b9a64d0272af004d227cfc23f3fcab77a29f23600d3aee4160",
+    "KGR-053|1624c2935e3de4f7e8d6c3af58ed20516b5469dcdfcea1d22ed38f9ec15c3066": {
+      "code": "KGR-053",
+      "revision": "1624c2935e3de4f7e8d6c3af58ed20516b5469dcdfcea1d22ed38f9ec15c3066",
       "facts": {
         "summonCost": {
-          "98e0ce6c14af8720c4a6e3988888d4a028bc5d643de2e3e3a763327ff68f99b8": {
-            "value": 2
+          "715ddd76c0ec3afe592946b121018375e912612104f310ed021b853e6a7bf471": {
+            "value": 1
           },
-          "bfb4a87368c3165d6bea24de40b3fb0baed1b4d3a30ce4210921eaa2b5b07a12": {
-            "value": 2
+          "12807a78c0e1eb61bbe8ec6b3c923d443f449b1766d8fb99fed91a55befcef6b": {
+            "value": 1
           },
-          "b6edfb76d9c403fcebd2d72b3a0ac33a3bad1aa3ec74dbc2c5720d06c0a5dfe3": {
-            "value": 2
+          "46854ca881c8a0f8a8718e5612440d0eb7b14653549bac11192d603ccf963d4f": {
+            "value": 1
+          },
+          "b1ca496112776a570ed2905afc9316f42604f7942548eae26514c40fd305ff68": {
+            "value": 1
+          },
+          "cb997b6cb4e3c3f49bc2f7e4044561c5b929644568d955bb3330bbfd7d4f840e": {
+            "value": 1
+          },
+          "6c686e91f65940e252fd408aa8abe9792aa5f85bde58aff93b0a471ca1e2dd8e": {
+            "value": 1
+          },
+          "c170adad3febc6323ea197ea41f318c0d3bd3476d270e1c03037a394c2803eac": {
+            "value": 1
+          },
+          "c1b536193e76874624bad1b1aac5d494ce6a37ccf538d6228000403eb7be02c7": {
+            "value": 1
+          },
+          "f804ecf34dc28d610ba6e2f2dc1013fbacfb5c5b5adbdeae633f1750ece5839a": {
+            "value": 1
+          }
+        },
+        "skill:0": {
+          "c960d42866deae00d75aa88277e34ba54ecf7a9c0646d075fbe528bfacf5b322": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "7600cc7104ead332b692be04db878e7f2f167cc1dc697298be3a4c440956d000": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "4694f0476da469a4a3d4de87a40794bf3a06b1ea88b331aefb2ed8b6959e141c": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "f94be588b71f427c330574894e6271e077cf0745bb329d5746c06be616f7892a": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "c535c524f0b663abc37410f58ff8478f98f5046836ee3416202e9cc7031925cd": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "15bc199931717f9c6ef3e473bc99889590a06d7b947d4ef9878c5c7aaa523725": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "e717c5d45ee47b1f376ec1b07866f8f4c166f78f07579121e76a28051e18d944": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "cea938fdb452e2bf3e7a154bd5932025623ac41684168f5d96c5fdc942e6cbe3": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "89508de6fcf4827865ce336090d94799472dee0e6aa111d5b1866d1090f06c93": {
+            "value": 70,
+            "name": "First Cut"
+          },
+          "7fbc077cd837700f3172ddc7c221e9393699544276c3b68ca2165c382cb5da28": {
+            "value": 70,
+            "name": "First Cut"
           }
         },
         "maxHp": {
-          "7b0846dafafd18739e36b478b3c407dbc4f3af794da5beb9e422a16b31c5cdd7": {
-            "value": 100
+          "983832b723564fefe4f2a935da17dd4a1eb628e3b03230bf945629a294b31f9a": {
+            "value": 70
+          },
+          "3b3c3644c3ce2611c73253276b409ba2933dab44cecbe72d3a35ff2f60ca302c": {
+            "value": 70
+          },
+          "e1af5ef2d1915f04a16747072b52ca8df21417792b73fda86bc33bc64eb9793c": {
+            "value": 70
+          },
+          "06e6661cfff919467cb088d90974c4af5a14b5eafb05816d9925b796595a5710": {
+            "value": 70
           }
         },
         "chargeValue": {
-          "631624e9a0e670fd19958895febc0877d4b2fecdd795ab4c490ab72cfb4d6fd8": {
+          "c7d2167b740e18106e03793b26f78b2c11554bbe2d12407b1a1d5c8c437841cd": {
             "value": 1
           }
         }
@@ -1782,227 +816,155 @@
       "revision": "37844f5124069651e17c777d21d01676d0ba44f2e6cbf7871e7ff4a8ff2e7a42",
       "facts": {
         "chargeValue": {
-          "07a4452227fadfccee1bf58377b30d7491076c463fc81d2adb015d4feb1033d4": {
+          "382252bd11faab1990b9308395a7bc4e03ae0710db01f105a00cca3c9a050c65": {
             "value": 1
           },
-          "8e4b6a87b51d3aea1a15491660dcbda73e0d8a4c8b5f08689427a37d71f2ff14": {
-            "value": 1
-          },
-          "f59e3f28993946f0f990b5f9e633efec6f5b52f2a352f429efcea03aa077f830": {
+          "3fd17a77e94c68abbe75997204b47ccd250aa33fa666c68fa71c224d125b5d97": {
             "value": 1
           }
         }
       }
     },
-    "OSH-086|739462128ec349a4ed6880512084e4bc4f9476ee3de7e46465609b0cb6dea628": {
-      "code": "OSH-086",
-      "revision": "739462128ec349a4ed6880512084e4bc4f9476ee3de7e46465609b0cb6dea628",
+    "OSH-008|d20d2552ed6ccfd7c37f888675e9dfaac1f96517fa43f862d7daef847db030ee": {
+      "code": "OSH-008",
+      "revision": "d20d2552ed6ccfd7c37f888675e9dfaac1f96517fa43f862d7daef847db030ee",
       "facts": {
         "summonCost": {
-          "b5fef590e79ec0158fcd3a1ce8ea38c0466e0e786a876b42063a65b88c2da47d": {
-            "value": 4
-          },
-          "7df9ec020187a84c40ff6ac7a4817e9925efe4f80a111367a43850502d08c306": {
-            "value": 4
-          }
-        },
-        "skill:0": {
-          "9041240beaf49ad276d659fa40e6e00b95f0e712d9e745e83b1c3bfdca657e98": {
-            "value": 120,
-            "name": "Byakko Roar"
-          },
-          "a2a492eb86aa9fbaa41343b4fb0c3c0aef1d47ceba1ffbf729dae0b96f042acf": {
-            "value": 120,
-            "name": "Byakko Roar"
-          },
-          "1192ca7dc4dc818e629109350c9565121e17af3091ec3c955bc6dd3307d90885": {
-            "value": 120,
-            "name": "Byakko Roar"
-          }
-        }
-      }
-    },
-    "OSH-019|6b116b4918c89c852bd66111b0c01218935a0796a257b4cf9fb6b4587667c8f9": {
-      "code": "OSH-019",
-      "revision": "6b116b4918c89c852bd66111b0c01218935a0796a257b4cf9fb6b4587667c8f9",
-      "facts": {
-        "summonCost": {
-          "f33762b4fdc7a35ca6cee0bd42c201ad96d96284e92dbdf6c679ebfdbfecb6dc": {
+          "1f709c77f1ddb6242888c7b121a1701a61b2a763700d8ffb654c2a410e976d81": {
             "value": 1
           },
-          "5c09926adaa6b5021c4e6601cef2d083260a52c7def3e0ab1037142df921d746": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "d0bfb0b4f9d49bfba20a7aefe2780999dff42ae1dde75724014c28a818446f6f": {
-            "value": 70
-          },
-          "366b9b4789bd2a08835a49752542aea206ebbcd0e27e15938802ec8501d5c7e7": {
-            "value": 70
-          }
-        }
-      }
-    },
-    "KGR-053|1624c2935e3de4f7e8d6c3af58ed20516b5469dcdfcea1d22ed38f9ec15c3066": {
-      "code": "KGR-053",
-      "revision": "1624c2935e3de4f7e8d6c3af58ed20516b5469dcdfcea1d22ed38f9ec15c3066",
-      "facts": {
-        "summonCost": {
-          "1fc5f97da7b59ddad82b99f820e6cb1a1b9fd2f8bbe5121ab310391eeec515f1": {
-            "value": 1
-          },
-          "2e0027e4c5d65492ee22400bdb1aa7b3c346c573df029d9ae6970147cd5ed6b3": {
-            "value": 1
-          },
-          "8af501fbf8640fc5dffc3139556a661263a62dd0ee91bd30faab8897147a61bf": {
-            "value": 1
-          },
-          "b14392a2c584e14927e7c918ca2acbbc0176343ed96948dd595e6668374b3e9d": {
+          "a818efaf838cac2f7c5cbb9869ffff626ca2c7f4ec1af5fdab3d68148b064ae5": {
             "value": 1
           }
         },
         "skill:0": {
-          "42fe9c5d057665d331610f6d0014a06eba44daaf8dca255dd6b76077099c43b9": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "4b6f27e4602466a8aaad8f638fc7aa20bec736ebd05bb502bd823086c11755f9": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "d032447a93fb066f6187824ed73a6f85dc85d130f8c669b37fcb60148c3ad337": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "7366a5a5bdaf6c0d70e69494c71fcc3194f69de72d469ca91cc34335d3108336": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "569996db9e9343bae7c9a3edcc466334f382e8ccb21c040915d6d333b84ed8df": {
-            "value": 70,
-            "name": "First Cut"
-          },
-          "00fd62686fa5f5b10f5ebc8012c69eebbb8e73b6215c8767d8cca61eb69477d8": {
-            "value": 70,
-            "name": "First Cut"
+          "3d3f68a1972c0a54b7ce805e4628e857a291f1e977b8246787f22e091b250b05": {
+            "value": 40,
+            "name": "Puddle Splash"
           }
         },
         "maxHp": {
-          "f0e6d0581aa50f0ee0d807c2c29cc4d593179b42fd08f66804df2bec1a591731": {
-            "value": 70
-          },
-          "ef82f3f46eef3518c436be519e240b3c027d417638c3c29719153a1a337576b1": {
-            "value": 70
-          },
-          "3e2887ebd0b24d642523f940a00cb905c7015bc34ef31a9e31529293fd915679": {
-            "value": 70
-          }
-        }
-      }
-    },
-    "OSH-033|0257c78ed10164df71a0eb2ecb3db44ec7879bef39f58de0d50928a8e6451f73": {
-      "code": "OSH-033",
-      "revision": "0257c78ed10164df71a0eb2ecb3db44ec7879bef39f58de0d50928a8e6451f73",
-      "facts": {
-        "summonCost": {
-          "2cc435d63decd684438d8a5a8e38a439749dd8c82fa6a9c7d1a8e43f18170217": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "d8abe62661f103f6291e58d25800ecc3e9d9f7716bf47941c3be948ab1af0478": {
-            "value": 70,
-            "name": "Star Spell"
-          }
-        },
-        "maxHp": {
-          "356675b5713304db174bddc80344fcd8e2102f977d7a88d0d6c17ad3ca6256f6": {
+          "9a998a6131cbdb65efc242424862365e8a2203aa1ce41773ed956a5f6db8dcce": {
             "value": 90
           }
         }
       }
     },
-    "OSH-029|e8d0786da4e538e11fa0710162932ef27006e4e95a537d3d5e9c92728c90d8ed": {
-      "code": "OSH-029",
-      "revision": "e8d0786da4e538e11fa0710162932ef27006e4e95a537d3d5e9c92728c90d8ed",
+    "KGR-133|6a93faecad98847cc99f4160f2ccca85704c3c61989fc7bc2914fe07a8bf6380": {
+      "code": "KGR-133",
+      "revision": "6a93faecad98847cc99f4160f2ccca85704c3c61989fc7bc2914fe07a8bf6380",
       "facts": {
         "chargeValue": {
-          "721d424dcd466bcff9834cdfb5fe02ef4e8ee00df36d99c889d2d471e8e81969": {
+          "f9353ffb9e8ad3ce3db4c26dcaa933e94dcc042714b4c2b4dced29af687f7591": {
             "value": 1
           },
-          "0649e303d792dd9a618c1df47338010c561121cd145831488170b06ab02a5135": {
+          "5209f59c16295c99ec46288f8983e67f6806ebd868657b0363e4ba8045a05c15": {
+            "value": 1
+          },
+          "db926e8a77f311c65e4c9c5c32ecf7d98ac138d4768c5d3508474104fd00ba31": {
+            "value": 1
+          },
+          "06e7d38ffd2bc1c81489abfd9c4c1fe799cbea6c692eb3a7e8caa12bab2b36db": {
+            "value": 1
+          },
+          "b9dcd8effb781f7ab3ed18480b49e219912a2fdf4be5725f41dc9bf4375a332f": {
             "value": 1
           }
         }
       }
     },
-    "OSH-032|3067b03cba37cddc4b8ca3683dadfc3f27c08d3822900c9892731f5ee5faaa51": {
-      "code": "OSH-032",
-      "revision": "3067b03cba37cddc4b8ca3683dadfc3f27c08d3822900c9892731f5ee5faaa51",
+    "KGR-001|e98c210b9fd759606391d274d53d5961bdff0c8f29f088e1ff774ae1539540b0": {
+      "code": "KGR-001",
+      "revision": "e98c210b9fd759606391d274d53d5961bdff0c8f29f088e1ff774ae1539540b0",
       "facts": {
         "summonCost": {
-          "a9fc66ae0df7b96a2d2997c2609b3151f1ced13bc64f377c5c1dd21b2a6d92c5": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "47030948eeaaf433701d8eaa1e7e7559c32f4d3e529ec3c5dac1ecc99640ae1e": {
-            "value": 70,
-            "name": "Star Spell"
-          }
-        },
-        "maxHp": {
-          "8230d8e04de076c36aeac17f621de964201134b5045dc92dad5c5acf1c7db6e3": {
-            "value": 90
-          }
-        }
-      }
-    },
-    "OSH-018|f3889fe073b15887cb9a4951755d2d400140d10c0e6115a643c03713f91af32e": {
-      "code": "OSH-018",
-      "revision": "f3889fe073b15887cb9a4951755d2d400140d10c0e6115a643c03713f91af32e",
-      "facts": {
-        "summonCost": {
-          "ba33cc404dc465e119244b0b02e0ee1b2f4024daec8035938470b3f89cbe55a7": {
+          "49b73a56d352369ce558d2b83d46031c26605a127ab02ac8e1e707d64800dba2": {
+            "value": 1
+          },
+          "a83d69b1822d7ed8a5f44842eaaf6be29becf3e895e0f2873ed293540a719062": {
+            "value": 1
+          },
+          "0ff06ade180d206a19ff53b77062eeb49a5a17c851e28cdaf4e259ca9e6112d8": {
             "value": 1
           }
         },
         "skill:0": {
-          "0515719859b7fbf5cedb05660bb6790403013eb7ff4922bc7813e2a578e0ab36": {
+          "462813dae3259ac2693380de002cc91652169b11003bc39d95e01526638a0bc1": {
             "value": 60,
-            "name": "Dino Chomp"
+            "name": "Ember Step"
+          },
+          "5b481de57189e0a638aa528274a1fb77eb0b047ad0cb1f49b2eec680f71915d2": {
+            "value": 60,
+            "name": "Ember Step"
+          },
+          "59464f7de8341033191345a628e6a41cf22b85e190e6cc5840165a5bbadd5263": {
+            "value": 60,
+            "name": "Ember Step"
           }
         },
         "maxHp": {
-          "b53f190568bdfcbe689181de51c67303b4ef5f1f337258f18c8e101dda1df15a": {
+          "253977b38cfd88411b1bc185e4f45433bcf68ba41a6557b33324efb76a968be3": {
             "value": 70
           }
+        },
+        "chargeValue": {
+          "8deaa5d8acdcd488a1434bd09afde014ca6633857a87d85a07d912da0085e394": {
+            "value": 1
+          }
         }
       }
     },
-    "OSH-026|cd97bf77b7a37dccad84d5848a93d89746ac46a03fd382190232b7feb5291c05": {
-      "code": "OSH-026",
-      "revision": "cd97bf77b7a37dccad84d5848a93d89746ac46a03fd382190232b7feb5291c05",
+    "OSH-072|cf470ee25002234d44d08f21070aac5e2ff39f41e3e1a7e0d70e2dbfdaace577": {
+      "code": "OSH-072",
+      "revision": "cf470ee25002234d44d08f21070aac5e2ff39f41e3e1a7e0d70e2dbfdaace577",
       "facts": {
         "chargeValue": {
-          "1a6de5441073663015eb1d5be71a8fef5587d4f427026ef7b4c01d8e1f4d9df9": {
+          "7280d3608a19c34a6de482193b775b015737f020287c8dc5bdf0b21ac9072413": {
             "value": 1
-          }
-        },
-        "summonCost": {
-          "a40f7bdee94ec11155f2d81ecc682d7c2ec7e7964e0276861698cc841fe682a9": {
+          },
+          "dae412fb27ffdbb3e5b5ed9f3e173ad08120dd7903cae8c4c420359fdbdfa0ec": {
+            "value": 1
+          },
+          "21026365922571b9b0168b73d6b9e4e7159f8c68d6ad1956e257c129fe9d64c8": {
+            "value": 1
+          },
+          "3c729d969eed2c4652b65ae2b175696aa22e04d9167034c46a4a9e0a5beb6103": {
+            "value": 1
+          },
+          "157339f61945cb2d860b8098a2b5ecc4d7e033fa1c89016c5623bb6f3fcf46f3": {
+            "value": 1
+          },
+          "ffd97e7bea0f484fe0a05c2e839abd2d612be6ce7503d0fc39203570b33f9cec": {
+            "value": 1
+          },
+          "90ce761e07fb80530cac78d95b64e571ce614f1a334bf52bf2a8ed65c4538a77": {
             "value": 1
           }
         }
       }
     },
-    "OSH-113|88593ab3fcea2abed897feb71ff0877901a4adc3c48924903f1e1bd66f4ba313": {
-      "code": "OSH-113",
-      "revision": "88593ab3fcea2abed897feb71ff0877901a4adc3c48924903f1e1bd66f4ba313",
+    "OSH-054|1b101b90645d9f22c44ce11e4770f2b4fb0d75bebae356109b99d6b103241de6": {
+      "code": "OSH-054",
+      "revision": "1b101b90645d9f22c44ce11e4770f2b4fb0d75bebae356109b99d6b103241de6",
       "facts": {
         "summonCost": {
-          "8195e86b29f51551d3fbac4eca6818e84b756512adce176c467770fbb5a70f0c": {
+          "2d870c59ce04ae36f7022c9b8793b0393ce515673cc0e4c6f94348471cd5ca74": {
+            "value": 2
+          }
+        },
+        "maxHp": {
+          "3ef3aa328be3bcfe8195fbc641149c6e7a6acd01004f691cd6b0a7d7c6b76c1e": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "OSH-065|67fcdcbfc244790dad58ef701629d1323cee31f2d061eaf1a98635fbd2b70a1e": {
+      "code": "OSH-065",
+      "revision": "67fcdcbfc244790dad58ef701629d1323cee31f2d061eaf1a98635fbd2b70a1e",
+      "facts": {
+        "chargeValue": {
+          "82694bbe26edaa55c3aee047c7641ff1123301cfbcd41c0123c82f46cb15636f": {
             "value": 1
           }
         }
@@ -2012,160 +974,63 @@
       "code": "OSH-075",
       "revision": "e9d48dbeeb6f540a5aa449bcc7889189c5734f5b3e8098cc17f6da82026ae010",
       "facts": {
-        "chargeValue": {
-          "0449cbdeb0c5764560c3992b0d809727816f2598d3b3f8f6b9c2712c1a9b007b": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "OSH-040|014957e508f53e6c0ce4ad025f7cf6c865171b4d977307116fa6de2c15f5f0b7": {
-      "code": "OSH-040",
-      "revision": "014957e508f53e6c0ce4ad025f7cf6c865171b4d977307116fa6de2c15f5f0b7",
-      "facts": {
         "summonCost": {
-          "8931c88f0e9c4b74d2d14b9c2b298ad68e6072bd824b5bbde01a10f5fcf03de7": {
-            "value": 2
-          },
-          "7964c7af7ecd21fd094f5f57077b03747243f37c6855eca2cac264aef5260f40": {
-            "value": 2
-          }
-        },
-        "skill:0": {
-          "0a000092e07a5c5d0adb63fc4dc02e568d468fe858c5d8cd103aa0b7d636dfbc": {
-            "value": 50,
-            "name": "Rocket Guard"
+          "714447020a028827a8dc319f097be146bf6313d96625d69e50dc638be09cb78c": {
+            "value": 3
           }
         },
         "maxHp": {
-          "bb7a4e69df7404826e4117dcc440a6ee68da743a8fda42a439f2a91a18ec7e81": {
-            "value": 100
-          },
-          "76b8668dfaddab40ad457598b37c36784cd8fe01d0d8c7db9c4334136589de00": {
-            "value": 100
+          "b65562e6bc135dd96cacd91914a97af94fbee5abed67a1949c04bbc23b4401ab": {
+            "value": 110
           }
         }
       }
     },
-    "OSH-005|90ea16d3ecb4fda3f5716d8c654d949521aa2cb7439c770ef42664c938cc0d10": {
-      "code": "OSH-005",
-      "revision": "90ea16d3ecb4fda3f5716d8c654d949521aa2cb7439c770ef42664c938cc0d10",
-      "facts": {
-        "summonCost": {
-          "bc0c7d5a7c44414ecf019c1fbafc6cfb5564cdc35b4be68dde7af1e3d1cb516a": {
-            "value": 1
-          },
-          "02d1d7ca03adbe000cc4bada49f16231a404254e7ba6c63b563f718bfbb5ea3e": {
-            "value": 1
-          },
-          "50764122e8b11fa0795cb8647a4e8d399dd656819a2411e83b3f0e4c2fb7a302": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "KGR-045|8f41497ecc41fbbeeae600dbd7bf3e00ded49e7168f270a45d43c77c56cc0d25": {
-      "code": "KGR-045",
-      "revision": "8f41497ecc41fbbeeae600dbd7bf3e00ded49e7168f270a45d43c77c56cc0d25",
+    "KGR-123|750bdbb1a5bd12e8df9d027755727ed70848411daab7ddb6b5b65394dc19ef66": {
+      "code": "KGR-123",
+      "revision": "750bdbb1a5bd12e8df9d027755727ed70848411daab7ddb6b5b65394dc19ef66",
       "facts": {
         "chargeValue": {
-          "756ffa5c6268411ed14077ee454b8bf51995128e40bb3afea426f0990bef19a2": {
+          "1795348c2428d994a54aec47dfd3f29766897d1159e657bf568fa72677a18ff3": {
             "value": 1
           },
-          "5364ec408293bb6164d0cbd7cca10815eb76fd38ed3f5d7ddac3d6512efde0ad": {
+          "ae24d16ecc636cf5ba133f27294575de545716089898ba289d60046b4c00540e": {
             "value": 1
           },
-          "14d7c245fe3733c7463bea0c22a71fc29ce58545ab3e896ade93eff8247b79e5": {
+          "7a3ebf82c386ea90a79c6660a831173ad4360ece58cbf6ccde0ed960ea959c60": {
+            "value": 1
+          },
+          "73ae31774cd7143764af745d69b28c2f977affc26c34e663aee3e3392afcfc7a": {
+            "value": 1
+          },
+          "357ccc8b3d756676c798350f980d121bc5719286779f9a2d4847955201a62b0f": {
+            "value": 1
+          },
+          "4b5890e08d96200b1cc82d4c1f33dea2424d2a6d2375361aff33894f2dc854f0": {
+            "value": 1
+          },
+          "3689a4d5206d988e459c707aa93bf3f4a2abaabe6eec4ee1585c785f946eb831": {
+            "value": 1
+          },
+          "42eb5a74e97a64ca4f76a048b1247d2f1ddf6492913caaadaf506dc93a7472dc": {
+            "value": 1
+          },
+          "63ed2932f4c06641411573576608505a6289903257c858137f114fdb2b2f1d3b": {
+            "value": 1
+          },
+          "995849c170ca35c1200f86c112809d62c75646960e791312caff3d7d11d324c7": {
+            "value": 1
+          },
+          "48baf981c08a99c3a795d5250312eea8cc63ee7a19626f9b80cef3ac239a75d6": {
+            "value": 1
+          },
+          "33851c13d5456655595960c7d68a97b55c6fabf94d5c11a1be120274e7a42210": {
             "value": 1
           }
         },
         "summonCost": {
-          "54536e05100cf48f86c833be452f943c8c0f23a93947f7294328b57a0a38940d": {
-            "value": 2
-          },
-          "22efba720e1899e8c9266e11c4655b14400b542f04c94f7e5186f9af8d5be579": {
-            "value": 2
-          }
-        }
-      }
-    },
-    "BS-044|87b3a850be0c77536eea0846f97a408aaa91f932cd75a9892c141d1c05bd7f78": {
-      "code": "BS-044",
-      "revision": "87b3a850be0c77536eea0846f97a408aaa91f932cd75a9892c141d1c05bd7f78",
-      "facts": {
-        "chargeValue": {
-          "8f69c93a1463835ae4fea10fa2698033d021560c08b3d864f65b8f7fd2574644": {
+          "d7885f72133841da55ba42bf57ae3d7e8febee4a2f7476bdc939b508e74e0d84": {
             "value": 1
-          },
-          "b68db91597376e294206e7c7228f5c5227ec50d80156764c76379207b1e7c13c": {
-            "value": 1
-          },
-          "0b980c3739ee184537db45568f81d8430139c114549220a6973e4ec5f5aa6218": {
-            "value": 1
-          },
-          "9a96d54ba815b68c0e88c849e09da7d38dbea81cc2a8778805adce75a5728dce": {
-            "value": 1
-          },
-          "288c4a0af524648a69ebfb44c424c46695ee8f8f6dc4674396e41bf4b9021cb5": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "BS-030|07b197cc8a0e3874f4002bcda67366e7679a697f733f91b31ff176124c2665b7": {
-      "code": "BS-030",
-      "revision": "07b197cc8a0e3874f4002bcda67366e7679a697f733f91b31ff176124c2665b7",
-      "facts": {
-        "summonCost": {
-          "e51d2624d0d98c6ecb50a86337286d57d26c1bb42f2ccb047f5e825b90b8f078": {
-            "value": 1
-          },
-          "715e197c415228594d0e4c8ecdcaf8da6b9baf7cf1f1f0d4ec72a9dadcade5fd": {
-            "value": 1
-          },
-          "92a2c63702a9757221a63dc60eabeae0b688c174252fe40aa6a2765752e892ba": {
-            "value": 1
-          },
-          "3a3d95009d64c12511901c6697509d1ea89885981c5589c5f2ee4794d2b4df78": {
-            "value": 1
-          }
-        },
-        "maxHp": {
-          "2f0a6ce06e98b32757e95e75f2102ce813801fe543536e197e02a6d759e93d7f": {
-            "value": 90
-          },
-          "b431d422a16b5fed764f3aea1ec8b8b57ab63091c3dd506a400d09b5b3c5d6c2": {
-            "value": 90
-          },
-          "944e29176a45cb5e2470cc08f6fb89a8a590b1b7296a18945380ac5c5ee01885": {
-            "value": 90
-          }
-        },
-        "chargeValue": {
-          "9b2bd467c0bd2cab84eef233e2c1feb268074a5fa93cf427768e5040eea1627e": {
-            "value": 1
-          },
-          "d328c6e815ff1ee30e293e14484b6bbe84ac14550482a4277995e482e5f79689": {
-            "value": 1
-          }
-        }
-      }
-    },
-    "BS-033|e3f6c7931ffea526bed1fa5b5df98a7c55e004cc4d95b47bbe6d0ec723a50e65": {
-      "code": "BS-033",
-      "revision": "e3f6c7931ffea526bed1fa5b5df98a7c55e004cc4d95b47bbe6d0ec723a50e65",
-      "facts": {
-        "chargeValue": {
-          "0f068c44a86ac5e9d7be34aec2c6b28b66e5340a53df24e54cf42db092444297": {
-            "value": 1
-          },
-          "bf86bbf657ad784c1c115d1f91794bb55b806ab9e1fcdf176c315f01ac5196c5": {
-            "value": 1
-          }
-        },
-        "summonCost": {
-          "7c9df6ae638ec2d4335785cb568d3ab2a374bb54bd273104f6053e38a932650f": {
-            "value": 0
           }
         }
       }
@@ -2175,25 +1040,1337 @@
       "revision": "59d9015df6793a57ce1245ae8e82528d90255120e4dc1a2584285160633a55b7",
       "facts": {
         "summonCost": {
-          "52b201cce005767b62215bc1d0b86172da287f639b71bc5596119fc78e490bf3": {
+          "856f8ec72d0436fb44d177d2dedebfa333e66be50c18dd97e730043660cd96aa": {
             "value": 3
           },
-          "1ba06934c5a8b2c129cbef89a81d450a48fa656160bdb752598f0b2d97f8030f": {
+          "a226b57b567edbdcd770670d2337303a90c9ccea0e42c77e1f032da8f9d4ad0e": {
+            "value": 3
+          },
+          "27a5bd8fb5e7c3dab96841c3dc43ce8c4d9e91e2c3da2ddd4bb97e23b8f6aee5": {
             "value": 3
           }
         },
         "skill:0": {
-          "628b63af726a6b5f933b014e8771ab63903ead07de8661a32216a8a83796cb63": {
+          "901a73e7bcd711c2e6e9e795722a1eb37e5c76c5904abf70fc06636b857ea872": {
             "value": 90,
             "name": "Solar Flare"
           },
-          "1e79f2ecfcfd65f1fef87e4bfe23ddbf7525ffd2552d1ff9783749a66f92586e": {
+          "b880e6f0bdcd39aa13568ca410373f45e318ab71e147f70a0ef857f2567563d0": {
             "value": 90,
             "name": "Solar Flare"
           },
-          "394bbc4ae3ede0f3bdab459a534657746cdcdddfcd933700ccb503bb8a74eb91": {
+          "57e9230eb481f00814eb39360d499dfb879126fb3c5b99f49b3bbb89859ca5b0": {
             "value": 90,
             "name": "Solar Flare"
+          },
+          "29316b5f95fb713f8ef62f4b910f4a81bac57994080509c296441f0208efa80f": {
+            "value": 90,
+            "name": "Solar Flare"
+          },
+          "1b7cba5ab5621dbe1f549d2fcf01150dc7fbb5ac1ae031fbe890efdd4b405843": {
+            "value": 90,
+            "name": "Solar Flare"
+          }
+        },
+        "maxHp": {
+          "a5a69df4ab99614daf2330ef9d25bbe58d5134a5b7c2c5abab7170ac3c9df3b5": {
+            "value": 100
+          }
+        },
+        "chargeValue": {
+          "8dedfb3f156d17277113fb15fb5c16e8780d7fc18fe874fe8d949fbc6c17dba0": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-079|3169446c5f35d0f5c0c8dd2a765ac6a2f26e2e31e757f813cc36fca533f9dc60": {
+      "code": "OSH-079",
+      "revision": "3169446c5f35d0f5c0c8dd2a765ac6a2f26e2e31e757f813cc36fca533f9dc60",
+      "facts": {
+        "chargeValue": {
+          "1c73b5bb305a74f6a1755f868f0bc5dd40735dfa24dce02d6dd9a4a84d2afd73": {
+            "value": 1
+          },
+          "ff4f3961ad4e662000e6a4dce371bd1790ff76f8273f50f356edb5972eca4f0b": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-082|c54efc66cb587e2fac56e1b27fe6648cba79f83029cdb5f52fa76fc1071d02ea": {
+      "code": "OSH-082",
+      "revision": "c54efc66cb587e2fac56e1b27fe6648cba79f83029cdb5f52fa76fc1071d02ea",
+      "facts": {
+        "summonCost": {
+          "baa85f99f92d49f758275a95fa7ce96a485af4dacfea7d99d32bfa9dcf7067f5": {
+            "value": 4
+          }
+        },
+        "skill:0": {
+          "f7004d0f76882cf14d72e42061ead7fc6e1f8f431302b2db93a93443a718fcc9": {
+            "value": 100,
+            "name": "Royal Ray"
+          },
+          "500d02e2b9bc4f0f3b592d31166d41a51893501515c85066cd11f0ec07532b85": {
+            "value": 100,
+            "name": "Royal Ray"
+          },
+          "5f30e180c6f87b4acaca1fc1d154d89f91d090793f15b3098726e1dffcb39588": {
+            "value": 100,
+            "name": "Royal Ray"
+          }
+        }
+      }
+    },
+    "KGR-066|0062051aabdc26de42c26bf87f2c70f8dca195492d60b8eb01e80ab40c55eab4": {
+      "code": "KGR-066",
+      "revision": "0062051aabdc26de42c26bf87f2c70f8dca195492d60b8eb01e80ab40c55eab4",
+      "facts": {
+        "summonCost": {
+          "79c57cff1cc29e1164167628810288b18b50857a5b9cf20b292f23125c86b44a": {
+            "value": 3
+          },
+          "93e8a51469f96ac9d1639c5a02c8d279a9a754657128ee4348c296cf1dc5bfdc": {
+            "value": 3
+          },
+          "7bb846d8cc696d2ec25012e41d213ed8967c41a04ff1918acfb139be6133099d": {
+            "value": 3
+          },
+          "330f1c7f9c8b5eede44abf9695d3aec58f096473fd2371bfa31288d0605526f9": {
+            "value": 3
+          },
+          "4e642209dbf970fade55e526119ae0e5cc34479b91ca88f2e69be01e0cbfd688": {
+            "value": 3
+          },
+          "c8fd8705d9090a63717813c42d9989fd5fde527479950008a82170fcc6d4a175": {
+            "value": 3
+          },
+          "3efcc74507c3d0eca294cde541fe120903233bb6df705c88cd97359707a80edc": {
+            "value": 3
+          },
+          "5e9b4267db67d4687eef4c4002349eab4d8891bc7182d1daa35b4ef0b52337bc": {
+            "value": 3
+          }
+        },
+        "skill:0": {
+          "403b509296fc55c3363ddbae233ea4ada28c4a132c0d4bc7a2149f85c46da431": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "e3bb4f512f51b67a9a704cfc690d24e44c3e76e16fe7861bb9fc2252677a5333": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "a6429bb3d061f076ab4532849ed7971fec6b828f1fff5751d0df92ee51ebd3e6": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "c9ed82aace4b75a5be07a8dd8552f31ecc58e86e0c0aa2f7a5a9eebfcb6def34": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "d6728831e1cf6406e3894c8aa5ea59532d20ca67809190df91c788f55add3ec9": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "e979442971a1cbcfd98c5f4d61f84fd6b74feb01fa26aefae3c91e148ef60f31": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "8ad78b9543be4b0081d1da1246ebcfade9bebae43bd0b3d70829f457ee47266c": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "f23917ac14ba8dd171e9e23eabfc471c4c48bc4596b9fd2e68fef663228a031f": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "4d262fa5b364b3ad6348be1f7d486cf70c95b3ec7f3ad48e44541c0f465e0472": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "95b98eb11019e4f1f829f9fb1184005d71946236ce90aa31de542dc4e5300134": {
+            "value": 90,
+            "name": "Thunder Slash"
+          },
+          "5f9eead3f65f7b7f786106a21f6911c3708cb14d9b966bd65e0951ca05c52795": {
+            "value": 90,
+            "name": "Thunder Slash"
+          }
+        },
+        "maxHp": {
+          "8df607208252a7750638cafc45abbb9a28770bcc9fba56913df4aff72a52a988": {
+            "value": 100
+          },
+          "97c524733d4b5667444e968b8ad68f2c39492a65f60111bd6dcdf754e348398e": {
+            "value": 100
+          }
+        },
+        "chargeValue": {
+          "76bca31123a3e026780c8adcb27b9f5bb5e27f14e3a301a0a9abb5c07d31bf35": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-016|1c8f3e595471c897107a4058463ef3f3a3c9aef9a09b3d872427c3c9d6e90a22": {
+      "code": "OSH-016",
+      "revision": "1c8f3e595471c897107a4058463ef3f3a3c9aef9a09b3d872427c3c9d6e90a22",
+      "facts": {
+        "chargeValue": {
+          "445e9a5f95b258552c2bddfe6be978d12be74ff983400aa7fbc9d649277476f1": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-070|cd026b5061a73fd1ebf382bf7996e358b44513ea27198a4fb5500b94276371b0": {
+      "code": "OSH-070",
+      "revision": "cd026b5061a73fd1ebf382bf7996e358b44513ea27198a4fb5500b94276371b0",
+      "facts": {
+        "summonCost": {
+          "d4aa64b1e462d07247c69b58290975bc6033866b6ce7169f927abe3b25558fe2": {
+            "value": 3
+          }
+        },
+        "skill:0": {
+          "63d398633dba5737f14d92a4849ed08f18f48944de0bfbe1660093eec74fe808": {
+            "value": 90,
+            "name": "Tiger Claw"
+          }
+        },
+        "maxHp": {
+          "44bd63178024404e55ecdca8ad7ad1f1d51a072e57c912e904671108044c5e80": {
+            "value": 100
+          }
+        }
+      }
+    },
+    "KGR-120|58b16a1ec754c868e472faea7e10e65bee6b7b854155c18a367f2ab5735bb8c4": {
+      "code": "KGR-120",
+      "revision": "58b16a1ec754c868e472faea7e10e65bee6b7b854155c18a367f2ab5735bb8c4",
+      "facts": {
+        "chargeValue": {
+          "24cc5405661b50776426d272e2e29bdb6c2265a75e9bf7857b843c8a9eba717b": {
+            "value": 1
+          },
+          "c4057e9e1dbd034c5aae4d897cbdc51031f2ebc7e03267fa34bee5e9cd3ce4ec": {
+            "value": 1
+          },
+          "e8e898ff156092f01ab81d32101de0a4888cdf7b91acf9d2b54b6d4b984022f3": {
+            "value": 1
+          },
+          "0b9dfab5a59583c03c2383f6c5538f437502777b1ba409ac1ee3b63725685cb1": {
+            "value": 1
+          },
+          "9e7885a2760b60fd7a65eaa2ea1328589585040299c9558c492482c5cb73d8e2": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "KGR-009|c891533712d8b5c89afdf5360f48ff95cf147a1bc0462795b248f308f43c70e7": {
+      "code": "KGR-009",
+      "revision": "c891533712d8b5c89afdf5360f48ff95cf147a1bc0462795b248f308f43c70e7",
+      "facts": {
+        "summonCost": {
+          "e934260ac5077858e6e591c487521e6f3749521a87781d05b27b93d489a114d9": {
+            "value": 2
+          },
+          "7f416b9ae21725966796fd92fb1c3de8dcd13c7dc819ef58bc7382139677b555": {
+            "value": 2
+          }
+        },
+        "skill:0": {
+          "de53452eda7810406f73b1a73f06bbeb63947772be6bb99963d074a1f92d6593": {
+            "value": 80,
+            "name": "Sun Arc"
+          },
+          "f481b4bc502901fc88d8e1ccb9949fcebe43e95b711fddee2d70d27000138393": {
+            "value": 80,
+            "name": "Sun Arc"
+          }
+        }
+      }
+    },
+    "OSH-040|014957e508f53e6c0ce4ad025f7cf6c865171b4d977307116fa6de2c15f5f0b7": {
+      "code": "OSH-040",
+      "revision": "014957e508f53e6c0ce4ad025f7cf6c865171b4d977307116fa6de2c15f5f0b7",
+      "facts": {
+        "summonCost": {
+          "50ddff0038499d9233a46f7abca5e6212c41c4abc14be4da2920731d49a86c2c": {
+            "value": 2
+          }
+        },
+        "chargeValue": {
+          "c2db37bebb5c6032b6d55df4b216b52339ee34cc1fb01d375ebe6749f99f88a6": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "BS-040|6df087e9b94156819fd229b7a7ddb563beb48a9000cd3e4faca37fb6b4d0fe0c": {
+      "code": "BS-040",
+      "revision": "6df087e9b94156819fd229b7a7ddb563beb48a9000cd3e4faca37fb6b4d0fe0c",
+      "facts": {
+        "chargeValue": {
+          "f41dd5a2857c84a790d8cb2f6903c8b5ec72e344322349538941b8b634879f69": {
+            "value": 1
+          },
+          "20b40b9125a136c26568d184bcf717dbb309ab89287bf486fcd2eff0a5e4f3d3": {
+            "value": 1
+          },
+          "69ef3616bbcd543b0620b40d90a8c8897f8a5189db192e3b70ea7f6cbafac793": {
+            "value": 1
+          },
+          "99d6e91efa572745fb3c2a645d36db4db5675a484aab9a87f8fcbcfec7592cad": {
+            "value": 1
+          },
+          "0edfd61766abf55ba587dd43669b2c3d5efa4487f80bdf4f240b957692ce5b28": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "fd2ddf980fe603a2f5ee00a4f2a0e8f3944d0935bf02a78da5d3522753e7a7e1": {
+            "value": 3
+          },
+          "1a5fbcb67a4c3317ba6bf47babd38680b12cb0c97f0f37a554430c70e9c070e3": {
+            "value": 3
+          },
+          "1e010acdb6d7803f64b6dd25810e9c5d3783e4a1745b5bd375a6d2af4b6f844b": {
+            "value": 3
+          },
+          "2b9fb6b58c5c2cf53c1779500fba6f1d9c62402b0f741f8c8c4989f67a140aeb": {
+            "value": 3
+          }
+        },
+        "maxHp": {
+          "44b5c9ba05519237c4908b7630cd65ed128ea82385f512c6726e31142347580e": {
+            "value": 120
+          }
+        },
+        "skill:0": {
+          "d3718cdb1ac2daa44a914606a7f03f45e55ff1feee7628a51b74e516cdc025e1": {
+            "value": 80,
+            "name": "Sunny Zoomies"
+          },
+          "c30d65b78871a2c358e73b7143d465dcfefccd8841fe78ac7033165556226416": {
+            "value": 80,
+            "name": "Sunny Zoomies"
+          },
+          "3ff260560a4e709aa32d1df7077a5759f5f95e633749b8d63072fc1b0432701f": {
+            "value": 80,
+            "name": "Sunny Zoomies"
+          }
+        }
+      }
+    },
+    "BS-035|4cd760dd5dcab6106bc893a69a64edfc17e9067922ac2afa72b28b3da32e9105": {
+      "code": "BS-035",
+      "revision": "4cd760dd5dcab6106bc893a69a64edfc17e9067922ac2afa72b28b3da32e9105",
+      "facts": {
+        "summonCost": {
+          "a224d5f2cb8eb85c9fa4f118d969b5b2ba056af2e72d6e81629c0e0fccf42236": {
+            "value": 1
+          },
+          "c71b58a53a8fe1eda516b9f3c80ef8d55d129b6af5fd25831cce2097b34641b6": {
+            "value": 1
+          },
+          "672b55c80cdf142610831cf354b8ef188a72fd7685efcc5f3528ec01091525e0": {
+            "value": 1
+          },
+          "626211588d6c5c739b1ec00f8593ca510e03d2213f75be64365a2361ffac3d9a": {
+            "value": 1
+          },
+          "e9e4558447e6ef6c3f9cdf969a2cada6bcc9a5c33be288c00bcccfe301c7d53d": {
+            "value": 1
+          },
+          "f6d03116adfe07b78dd42ae1edec4a39f5779d9cca4be82f7a390e60906562bb": {
+            "value": 1
+          },
+          "706e3cfbbeeaa5cfc039b4ef1eb10f7baad68b21b6a15ce33d38f6c77187f447": {
+            "value": 1
+          },
+          "7ef041ca6a982fa011f21c620058b8fc5daf143cf3514bd14bed82b7b328627f": {
+            "value": 1
+          },
+          "c8a6232098afbb6a6373f810809f564eeb8ea8c254211385e5581b2f6eca1d6c": {
+            "value": 1
+          },
+          "1bd631ffea84e5a120a89d7505b58b2e48374f256ed01a6820c54df34558a426": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "dd0fb310446bf395a4d82c686876536883fd9f9a18a25b481e61990eb8f527b8": {
+            "value": 80
+          },
+          "c0aec50c62bc6a0cc1601fdcc30dac4895eba59143415b106e0a95d8554db041": {
+            "value": 80
+          },
+          "5a88fcb27f91d2244876bf4cce4bc7f06d77161b03ee3f87aee616eed38d88db": {
+            "value": 80
+          },
+          "23ffadd8de6df49b7920d1860204f6b0a71752d7d618c81362507da9819bba1a": {
+            "value": 80
+          },
+          "d8f5e1a38e251b7d25f45d48f3d82c05491ceda628e54bb28a83519998e176e4": {
+            "value": 80
+          },
+          "081435cf5ca16f5566caee7b1c309cbafd1b560e2883731e28d3eef832b1bd7e": {
+            "value": 80
+          },
+          "a09eeb779c29a71c5c9d408c5c84088b57d03b48643f0a21b1c4f7150b3be3b0": {
+            "value": 80
+          },
+          "0f5c24393f910abff48e98de0eee78fc63d866c0350c643202fdf9bcee183c1a": {
+            "value": 80
+          },
+          "5e3da3761e006150ab28808266fa779dbad90f7eaa78d8c1128fbac3c7b7094d": {
+            "value": 80
+          },
+          "36811300c7bd001e8c52d2b5882ec67bcf0a560f66bede24c2b49ef0aa4d584a": {
+            "value": 80
+          }
+        },
+        "skill:0": {
+          "5de3394ca13ff9bc89260cd4e060d8e019663dd3769b02d62cc78cb68bdb706a": {
+            "value": 50,
+            "name": "Flower Toss"
+          },
+          "a2df0aca08fd48a8a92e9766c30361b47631bce7b5358e99993b3033f354f05f": {
+            "value": 50,
+            "name": "Flower Toss"
+          },
+          "32b194875b64b9236c62060323edfcc0037d262225dce088de197988f5da3525": {
+            "value": 50,
+            "name": "Flower Toss"
+          },
+          "a9312d4aad7928201cce28e72edd71a69f0ec21714cfa1fb5791ce2bc00ef7f7": {
+            "value": 50,
+            "name": "Flower Toss"
+          }
+        },
+        "chargeValue": {
+          "ed72c14f41495a5a016226e0f1db0cba709eac747abd1b39819bccbee839993f": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "BS-039|35dccc022bcefc290acda8caff9e64f105510225c6d3d386c026d1b918f82159": {
+      "code": "BS-039",
+      "revision": "35dccc022bcefc290acda8caff9e64f105510225c6d3d386c026d1b918f82159",
+      "facts": {
+        "chargeValue": {
+          "bcdaaf18c625eb2c4fca0929c64583c18b36d8911fb834c95566166396373b32": {
+            "value": 1
+          },
+          "a69d9b560ee14220e281873e9856494bcd3c547c09122cc3778c065862715cd9": {
+            "value": 1
+          },
+          "bf0e597a28b48fe0e24993344c935b43c8a976c7fd059bff3501b83560664ae4": {
+            "value": 1
+          },
+          "acee3603e9097021ab17b9bffec59ce77387a38be44501dfffc2ff233a103dd6": {
+            "value": 1
+          },
+          "5fae1edd3e06e3672217c7d4ec75b65578a70d305c40775f44b4f74950edba72": {
+            "value": 1
+          },
+          "97db94c66a399debd233bdfe483492c3436998fce9f05397036ef5e65b2f9006": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "a8288c4931391ff679ce79a725d79439d96e9437e72392a9000f2bff16f2d15d": {
+            "value": 2
+          },
+          "6191377fd7000dc01a7680e4e4296a5ab323d98c5b8d9f8e60bef6dc4edf1496": {
+            "value": 2
+          },
+          "c46d2236ec20c55f2ac10d42b4ceb55f5a26b9ab80c8964156cd7ef13034d186": {
+            "value": 2
+          }
+        },
+        "maxHp": {
+          "4911e832b57eb12b3c3ce22600831f1f3f55c5a429d5d8f634e38f45409e45ff": {
+            "value": 100
+          }
+        }
+      }
+    },
+    "BS-037|28e37b8ccda756dbf7418153daf862a1232d038db3b2ef7a0d4354f3b9da8215": {
+      "code": "BS-037",
+      "revision": "28e37b8ccda756dbf7418153daf862a1232d038db3b2ef7a0d4354f3b9da8215",
+      "facts": {
+        "summonCost": {
+          "a6af82557460edcb1a988ea957d47ec3b77862d54198f86b609f7981e9190bf6": {
+            "value": 1
+          },
+          "c26b6055193cebd56ee45bdacc0662422dc953d228f9cbe78de3487cd7b01695": {
+            "value": 1
+          },
+          "dd63821e3620786ff4c8987f471bc5c54eed4b57cb5d748cf5a4849c6c14a563": {
+            "value": 1
+          },
+          "8d923d2260e337639cbf57bba4ee52eab521e79c721531f607afba64f5e6e7ab": {
+            "value": 1
+          },
+          "ba321e9376d5562ac54d3e06d9ed38a40fb8384a8b684a17cd07274ab07c7b40": {
+            "value": 1
+          },
+          "b37ac0b1965e1c31ab0818017d761b595f944531b92124d3b739bca37c92fd09": {
+            "value": 1
+          },
+          "ff457848e73290f933c0c90f2fe89f21be6d1ad295c6a00f9cac1d815e4a7333": {
+            "value": 1
+          }
+        },
+        "skill:0": {
+          "1e5748ff586a810fdf7088faef5bc84cfdc15ec829414ef0b3bad2c66bad582e": {
+            "value": 50,
+            "name": "Blossom Roll"
+          },
+          "96780efc6b5e98a82aad54349a0758a50bf3b0a13100de6d15a89c3ede5dc338": {
+            "value": 50,
+            "name": "Blossom Roll"
+          }
+        },
+        "maxHp": {
+          "7f58d9a2eada8b60f4f4cf74ff82fce85843d26279b1b5498e58c416ac9fd4ec": {
+            "value": 80
+          },
+          "2b672fa42509c44b909f7673cbfc2b0c5a6741e3a4b6f4b11863a8ac4ccd6e95": {
+            "value": 80
+          },
+          "a1275f735bda80e7e388a74d63469afc2c9f0cc563b4f388493e1b65d0cb0ed1": {
+            "value": 80
+          },
+          "8c46744526030ed0a226a642992a3607edf5d4a649990db2a5e59d63c8e0f30b": {
+            "value": 80
+          },
+          "021676fce39c141075506894bdaf014757956ac1cd657c663d1e7a5b193590e0": {
+            "value": 80
+          }
+        }
+      }
+    },
+    "BS-027|87e8d39e7ccad6f67282ee0cda7748a5a27816716e91cfb9bb44b51906880922": {
+      "code": "BS-027",
+      "revision": "87e8d39e7ccad6f67282ee0cda7748a5a27816716e91cfb9bb44b51906880922",
+      "facts": {
+        "summonCost": {
+          "e948f65592d9c2576cb058370550547442a070e4313d22502bcd17807eff1c2c": {
+            "value": 1
+          },
+          "ea1b6ac26038ff0a7115966372c60a09855ebfa41709eb9c5d6a63eae2ae53ed": {
+            "value": 1
+          },
+          "6b80acea6aab0bda024af48b6f6c7856a80c5d67d8696cf9234bbd9b1cec27cb": {
+            "value": 1
+          },
+          "01eafa9d016428ee1822283215ee26c0b43618e82348a17be6da88942bd681aa": {
+            "value": 1
+          },
+          "9632f53ce1cd6199642374fe8feb49bc3bda71531d06a417fab89424dcc88b8c": {
+            "value": 1
+          },
+          "5245203daa4c7f9121c9a64db6cc0aa8e4c1db3638dd7c59ffdb869dab80de66": {
+            "value": 1
+          },
+          "9aab4a54cd8f8181403e36f701e3d721fa9c7cd746ab4b8d091bedf2aab1b3e8": {
+            "value": 1
+          },
+          "aad00a2cc5610d0cf830f3030cd78112b9ddc10c60cc9444c718f193ccf2c28c": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "6dd4b43e692a357ea12e6a4b60baeb5f76974949080a9a1acb6bda4f7a4bfa37": {
+            "value": 80
+          },
+          "5df045a13f523c7fe79df6d78d5bbb8344fe98200d3352f47edf18410dec70e5": {
+            "value": 80
+          },
+          "1d23a7f6aa981e50db5b4a037f6798d20dc9876dd35a90aabc887f7cc602eb7b": {
+            "value": 80
+          },
+          "b199411444234412283e4004c235ed89591b3afb669594e6630306f1325d98cf": {
+            "value": 80
+          },
+          "008d7ea1401028deb06f108169650117f5b3d7dd2b1c18ed0e028064a93b6916": {
+            "value": 80
+          },
+          "20278a7809213ec13a928331d63a14b41692054ad2f45c1d5bba5fa1314509f5": {
+            "value": 80
+          },
+          "eaeaf5d9c452a1efa411dbf31254d6e561592cc6e7fa014dc61ae03a26a9d889": {
+            "value": 80
+          }
+        },
+        "skill:0": {
+          "46d22d623d2819fafef7699bc874cfc32600aa44bdc8f040b1b583cf1d5af62c": {
+            "value": 50,
+            "name": "Flower Toss"
+          },
+          "d7134b4005a3f8c6e75a319db10925340ce774587e92171f26afa628ea7513c9": {
+            "value": 50,
+            "name": "Flower Toss"
+          },
+          "8445b8d4717af5667418d96d8fee8fdc3edad8a2103c03b6649eb7062b18edb9": {
+            "value": 50,
+            "name": "Flower Toss"
+          }
+        }
+      }
+    },
+    "OSH-032|3067b03cba37cddc4b8ca3683dadfc3f27c08d3822900c9892731f5ee5faaa51": {
+      "code": "OSH-032",
+      "revision": "3067b03cba37cddc4b8ca3683dadfc3f27c08d3822900c9892731f5ee5faaa51",
+      "facts": {
+        "chargeValue": {
+          "425d04a4d19aab8bc1f8a3ede4d0c66b9a8299f2659a976bd02ac54bd444f662": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "711f4d3e70a461b9fb63a5d03d62866918c46812f4035a1ea865b71711d5a696": {
+            "value": 2
+          },
+          "7c12411af158fda60f3414a1c28bee63225105f3edc0dde952d2809c80541fd2": {
+            "value": 2
+          },
+          "784a60550a37898ec7440756406f9f5eaca7cd19362238e7a0edde94e898d3ad": {
+            "value": 2
+          }
+        },
+        "maxHp": {
+          "3307336d6358c1e51aeaf36ad72710cd7e15c721020b243437db8d73fbbc81bb": {
+            "value": 90
+          },
+          "e67c302e28a51401b4b88e3e552d517fd659e12342749bf6d73feaac8e837bf5": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "OSH-019|6b116b4918c89c852bd66111b0c01218935a0796a257b4cf9fb6b4587667c8f9": {
+      "code": "OSH-019",
+      "revision": "6b116b4918c89c852bd66111b0c01218935a0796a257b4cf9fb6b4587667c8f9",
+      "facts": {
+        "summonCost": {
+          "be3e22653ac71031276d427325cd1ce76eae82baf977c622b6cd1fca818c5c24": {
+            "value": 1
+          },
+          "b72f7f5f9567a25861569eafc9da742def26b857c7ccdf9027d40b76c9a5a8cd": {
+            "value": 1
+          },
+          "506c811c304abc64734ad36439315e440d4015ea901f7a8a55c78d6998236b74": {
+            "value": 1
+          }
+        },
+        "skill:0": {
+          "ed50cf7b55a2931d5ec66b7cc6ead05fd2c13249d8a7d069400e0fa6045b7cda": {
+            "value": 60,
+            "name": "Dino Chomp"
+          },
+          "ffa3b03b2e718a48ed9efd456c095a5f001e7bf4d83a21c7aa24c4207a50450a": {
+            "value": 60,
+            "name": "Dino Chomp"
+          }
+        },
+        "maxHp": {
+          "d79aa7b0abb603ea2fbae8e863a13395c322e73b78a9cb98f120d3c22f0ed5ee": {
+            "value": 70
+          },
+          "b9029b5cb2d59724b36645cf30b631b2b7a7847784b9717b2b9142f785bcbe92": {
+            "value": 70
+          },
+          "7baeb4cf0290688c8f5ac0243450dfd75764ca21e264778581bce29daad80f40": {
+            "value": 70
+          },
+          "9a91a8020eb79080bc30fbd26874c411f2f02735c31b30c53a852843529b7384": {
+            "value": 70
+          }
+        }
+      }
+    },
+    "OSH-047|81d8e29032626e99be23fe64a0de099579624582d3ebc7fbce0ccb3e0f3afb2f": {
+      "code": "OSH-047",
+      "revision": "81d8e29032626e99be23fe64a0de099579624582d3ebc7fbce0ccb3e0f3afb2f",
+      "facts": {
+        "summonCost": {
+          "7bf2316bd60b2542fe665b6e81d7bd44373a905f9980e64965fabf6de42e6622": {
+            "value": 2
+          },
+          "504055ddbe23e9f7dd40b2fdd1dfea43f85de8715316886ebc45bd3d8c7d5431": {
+            "value": 2
+          }
+        },
+        "skill:0": {
+          "80f6ac002f8b012b8c43c77ff3bfd093591fd63c2a67f1b9c5f4a0ac9aa538cd": {
+            "value": 70,
+            "name": "Foxfire Dance"
+          },
+          "bbaf783639daa7d15c0930d91fee8627d206bc07dc996d6744d109e8e8aee23f": {
+            "value": 70,
+            "name": "Foxfire Dance"
+          }
+        },
+        "maxHp": {
+          "bde7a2befbb7cb58ffa99a4bcb7b3e15ac44bb3a6a2afcdff2310813cac76090": {
+            "value": 80
+          }
+        }
+      }
+    },
+    "OSH-057|f8ba07cf4749ebc026427b034927f8048419b42a344f94a5c9c77f75f878ab7c": {
+      "code": "OSH-057",
+      "revision": "f8ba07cf4749ebc026427b034927f8048419b42a344f94a5c9c77f75f878ab7c",
+      "facts": {
+        "chargeValue": {
+          "d5caf393dfaf23cc54368fcebf82225fdbd4d1530e76657a4e1f871bed40e3e8": {
+            "value": 1
+          },
+          "2215ed4e44976ad33a93e5901f960d3626fe204e416eb1316859621cbf76732b": {
+            "value": 1
+          },
+          "ea24a73b8cfe33de1b17b03bab700850aa65ac70652527f65b8a969a5803ed0b": {
+            "value": 1
+          },
+          "e1581c2d455177c55723cd018acc8b0ec05abef867cc20be4b707993a7bfdcaa": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "ea43928de309f085a4a71beee42d233de1c4cf386bca28adb51e21bfea5a27db": {
+            "value": 3
+          }
+        },
+        "skill:0": {
+          "3539d980b14020e823e6221d9db890dc0f8e4f5c7008d1396acbe4466bec4731": {
+            "value": 70,
+            "name": "Boss Headbutt"
+          }
+        }
+      }
+    },
+    "OSH-097|b3a7e76e31448db2345fd21115ee58e03ae4e07843cec179d05748973fba2a1a": {
+      "code": "OSH-097",
+      "revision": "b3a7e76e31448db2345fd21115ee58e03ae4e07843cec179d05748973fba2a1a",
+      "facts": {
+        "summonCost": {
+          "695a7b30578229bdd43c38b03d8674c66602bb3445e31c3fa263b13c202ecbad": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "BS-028|54ce0ec8b89279aa5450989e26d8eb8ac8d56c5b1a1a51adb8b86eb8dd69263d": {
+      "code": "BS-028",
+      "revision": "54ce0ec8b89279aa5450989e26d8eb8ac8d56c5b1a1a51adb8b86eb8dd69263d",
+      "facts": {
+        "chargeValue": {
+          "b0b29691e43b8d8c149709676492888e0202471c05b79d068e370ea5bb64a508": {
+            "value": 1
+          },
+          "b466b2c7cb76e2a7732ebd99fdbe8077ec0d772debdadf8a232b8500279e6b3d": {
+            "value": 1
+          },
+          "a1cdd23a879c5668fb099297d4b4f24ad846b49aa9f6ccdd9dc5a136771b5aee": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "5a314b253ca537e30eabcaf7b126e2c1dd767d8f0c83ac3654a3edbd6f366a0f": {
+            "value": 1
+          },
+          "601d5281c0e61c834b44b5a515a33ac7699083c2850a8f2b6deccf09d95957f7": {
+            "value": 1
+          },
+          "3f4733e1e74df17fb7222d859c8b6fbbf7003633c225263414abae2fba38fb79": {
+            "value": 1
+          },
+          "bf3b81e140c1480c1a021c2eeeac22b881aefb1cb174df95c5e6a0e1beacef1f": {
+            "value": 1
+          },
+          "6546cb824c2aa4c4e89ae84d29d5804203501de3b889bc8079648753c68949af": {
+            "value": 0
+          }
+        },
+        "maxHp": {
+          "90aa9119e90c8380bc4469051b426f8f2394a093f091b587eb34363163121bc3": {
+            "value": 90
+          },
+          "7043b5aff2e2954a4fafee7172d61564587f12916bb69a0bbdca58f756697350": {
+            "value": 90
+          },
+          "e70d0c9a80371c5c7d217aadf413c247b537f8a73fa47a9526f57f66bb969417": {
+            "value": 90
+          },
+          "ec298f4304f0d2ecde611593750248fb42bd0d36bdb41d0ba66c95bb275b7b48": {
+            "value": 90
+          },
+          "38f16e40e71198a6e14d0eb788689463c1a779d2c52ff044d54478566b288ebb": {
+            "value": 90
+          }
+        },
+        "skill:0": {
+          "0aa68666c9fda2ee3807054776930176dc6b4f04dfddd38c500d92cae3eac5af": {
+            "value": 40,
+            "name": "Sunny Zoomies"
+          }
+        }
+      }
+    },
+    "BS-044|87b3a850be0c77536eea0846f97a408aaa91f932cd75a9892c141d1c05bd7f78": {
+      "code": "BS-044",
+      "revision": "87b3a850be0c77536eea0846f97a408aaa91f932cd75a9892c141d1c05bd7f78",
+      "facts": {
+        "chargeValue": {
+          "a23abd2aa03fba98445a20292e10b05b6a388d359f7add753cc3b3b823739475": {
+            "value": 1
+          },
+          "bbedcf2ace8e2e589fe164109eca1f6343ef89d0da28c4c3ddc92fe333b3d527": {
+            "value": 1
+          },
+          "ac88104d85ac5ad38b36d5e9e1084eca9c0885d5b5b7eafe921cf7e73580a45c": {
+            "value": 1
+          },
+          "7cac00f50ec190427d9d087e84a790a40e9dd9ba30c30088fd5654fe0953dc8c": {
+            "value": 1
+          },
+          "45cec32395fe50cc952c5846db8f26e70d2565b514bfd28ab69dc2a34340acfd": {
+            "value": 1
+          },
+          "265cf5fb255a9d2777050e7251aaf19f46ce48246f6f08b75aea82a0733f8aba": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "1153f40a22a014d27cd47610e141de2394e9e871a6759a82bd661f58aabe8496": {
+            "value": 3
+          },
+          "3517899879eb424a38c2d854846e7ab7c16a4287c49187402f754882dceb243d": {
+            "value": 3
+          },
+          "86e03e1cbc55b05cebacad0d14b7d9fc7c12b0b367f7ce9784ebce9b6d905345": {
+            "value": 3
+          }
+        },
+        "skill:0": {
+          "131141c53498f48c9f8b2b099aa7d40a6c681371b8878dbcc9f9a02205706dc5": {
+            "value": 70,
+            "name": "Sunny Zoomies"
+          }
+        }
+      }
+    },
+    "BS-033|e3f6c7931ffea526bed1fa5b5df98a7c55e004cc4d95b47bbe6d0ec723a50e65": {
+      "code": "BS-033",
+      "revision": "e3f6c7931ffea526bed1fa5b5df98a7c55e004cc4d95b47bbe6d0ec723a50e65",
+      "facts": {
+        "chargeValue": {
+          "ebd07ac64083cc8f008aa460af41049b9e0c2c84424052e44184ad2d45ed79dc": {
+            "value": 1
+          },
+          "d7d6cba171ef6e5b58c0accabfb267a56c3c9e800e3b47a8172084209abc4e82": {
+            "value": 1
+          },
+          "d5a545aeef3740d1ca985f79f3959fc208b67e3de3742232b77f4746d5c1b31e": {
+            "value": 1
+          },
+          "ea9211dad827211cd0622b91f14bd7083e09d92302356c13cb1cd9f194589b4c": {
+            "value": 1
+          },
+          "9a816346ddbee2efa18cb47c30dd4b362293e6cef73ea6a0f6402c62f4931080": {
+            "value": 1
+          },
+          "92013cc40700b1dffeb4476c0213f1791ed7702efb77b871db9aaadef6135069": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "33e22695871c08037fe879ff82322297875f387a336afba70383b0e22c758fb3": {
+            "value": 1
+          },
+          "15b8f39c99337ef0c7d449f81d5a6027835dc6accc1540b0cdbc7f85797f272b": {
+            "value": 1
+          },
+          "f71b4268674e091fb539f4e1299846bb2ae1761c3fb4abae2ac1b1d1b0d4f6db": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "207df3d4010c8175e5e382ca0c329f9da59503bb54c66f005913556e6c757c01": {
+            "value": 80
+          },
+          "112b25b8dba1edfc2a1e159bdd284381b6360d35d740828dd6dc7d46ed04996c": {
+            "value": 80
+          }
+        }
+      }
+    },
+    "KGR-032|0901d547be2f58405452d55471a9cb201d18832458343ede4542c6988111489d": {
+      "code": "KGR-032",
+      "revision": "0901d547be2f58405452d55471a9cb201d18832458343ede4542c6988111489d",
+      "facts": {
+        "chargeValue": {
+          "b29cc1e5e90a741f8a3abf12d709147da77468c74cd1773d266a3c32736c199d": {
+            "value": 1
+          },
+          "66376dac88fb70f9589d0b6c0b8ab2e891ed9823b8dfe6f527443e239b4920f1": {
+            "value": 1
+          },
+          "70a7aa51b7e0ded14efa0b387de559f777e2825d9cfc2a9514b44fc14119c41e": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "1b142dc32f95a6f4a57a6989e6bab57cb86467c2d38977f1743f6527c5f21261": {
+            "value": 3
+          },
+          "1e14d473a9cf5462fe343a028356542ab82ec49b3c277001f1bd50168321ce1f": {
+            "value": 3
+          }
+        },
+        "skill:0": {
+          "942276260c074c8f04041ee9fac710372d92e35831f729013637d315bc03fec6": {
+            "value": 70,
+            "name": "Tide Sweep"
+          }
+        }
+      }
+    },
+    "BS-047|838d7066aae05436ca88b1f922ee9c0c8457b5e2166448e1e7479ffaa2d6076a": {
+      "code": "BS-047",
+      "revision": "838d7066aae05436ca88b1f922ee9c0c8457b5e2166448e1e7479ffaa2d6076a",
+      "facts": {
+        "chargeValue": {
+          "aa9a833b418d83ba1686af230d791efd617f09d69d163a7bf89268db3bb896d6": {
+            "value": 2
+          },
+          "6ed88d06c083d93874ca9204ac0cb429e65a1dba6ac1eb7a00225a296ec6e3d4": {
+            "value": 2
+          },
+          "301147b9753734b93b03c8beb8197a96a11b47c6f0d69d6d06e0ba590ffe14b9": {
+            "value": 2
+          },
+          "be3e4fe7b483b796cf545b29114302f017ff262f13e8cf94ecbcc38feac939be": {
+            "value": 2
+          },
+          "11a44818904646ce0c4ce6e2e27b47b331cddbd9f0411f88f323ce8789a9ffc2": {
+            "value": 2
+          },
+          "bb01ce1480ecd75ce17ce9814c6153b68fe68ebd7d3fc2d743483390e0ea5993": {
+            "value": 2
+          },
+          "52b155df0bff8b677ade3341b437c52407c3f02577def9f21539227b8caf683e": {
+            "value": 2
+          }
+        },
+        "summonCost": {
+          "f5f78e8867db8a4fa80a912ed4680a0a6807c1348d4c8a8fbf80ae85ac5ea8ee": {
+            "value": 5
+          },
+          "00dd9d3da2fc5c5acd9bfdb8c51e1299373d03c0a3e3a4a261688ab2385c4253": {
+            "value": 5
+          }
+        },
+        "skill:0": {
+          "29b6fb8e427e290a8f9483acd828b99dbee965bd24a705d4c18eb8142cde765f": {
+            "value": 100,
+            "name": "Flower Toss"
+          },
+          "41e1f8e8208021b3c7010fc3a394c813b73055c0c423b44d010591a84c1e9b53": {
+            "value": 100,
+            "name": "Flower Toss"
+          }
+        }
+      }
+    },
+    "BS-032|b237c30673d45a42e1c7dcff2ddd668cd15e19fd43a14fff9e91c38df6ac8613": {
+      "code": "BS-032",
+      "revision": "b237c30673d45a42e1c7dcff2ddd668cd15e19fd43a14fff9e91c38df6ac8613",
+      "facts": {
+        "summonCost": {
+          "00a4cdef181766f6eeeb5e5be5962b4b7ed40e1b313a49e53842b5ff0d6d73c3": {
+            "value": 1
+          },
+          "62341076e39a4548bfd9d88b7e846d798501b4622ff7bfbcac694d47638b257c": {
+            "value": 1
+          },
+          "cc556f32a6ab9f7ac9bacbf6ff1f2e33808ee134c15a951278aa4555fe9b4990": {
+            "value": 1
+          },
+          "75ff6814c1f6de9b082049e5117a9c7145deb02829731857919903ed0da37eab": {
+            "value": 1
+          }
+        },
+        "chargeValue": {
+          "4cd5dc4179c88c72e3ef918a847dd831314ccb230a6273af62f932a8b4adbee6": {
+            "value": 1
+          },
+          "efd64e29e7c9c01a08bbd605d03326cd71d7bf4c3c4c5ca2007fdf727f925612": {
+            "value": 1
+          },
+          "543af5b97fe5c6e2f385991fb6b0c13efd43832c74cc182b487ea0f57b8747a0": {
+            "value": 1
+          },
+          "26e40adaa7604b082cb0cc9d1abee191331cfc7782cff8d0af181ee69b455d6a": {
+            "value": 1
+          },
+          "6bdaf0ccfe2d63c4a8b037cbc78c301e379636392b7595205bb9e4f50dab1e39": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "89d14ad3017a3d0ac87c0602edfeb57dc67e9d4d890bb716e9455ce157dfb544": {
+            "value": 80
+          }
+        }
+      }
+    },
+    "BS-038|a9613361666623de4df28c7e09656115e75326f859760b55b1c9714514fc40ad": {
+      "code": "BS-038",
+      "revision": "a9613361666623de4df28c7e09656115e75326f859760b55b1c9714514fc40ad",
+      "facts": {
+        "chargeValue": {
+          "d0267b245f7e4021ab8d8a97b2612e9be9267662fbeb5acc2fa828824d275187": {
+            "value": 1
+          },
+          "b20a4acb3d80a580fe3630e9844f9454059c1f33b28dfa389b89775464817489": {
+            "value": 1
+          },
+          "19ffe3d48fb309822da5f2e04921c56a85a8abe3f510fb49af2acc0f7aac1589": {
+            "value": 1
+          },
+          "9f9e4cfee9f537af2eb33499a7cb60ee2866768d029a3ee49e52420e380e823d": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "e31842571b276c417702aa39320e30730ee353fe912d413ac56c931a2a8d1b14": {
+            "value": 1
+          },
+          "23c5b2c4e72176eed291baa6c657550bb3d9a6f76ae0939ab5e55c0b41364691": {
+            "value": 1
+          },
+          "8323874d11da6a17b19381e9981ded78adc15e47aca1cbca5e2785c5627841d2": {
+            "value": 1
+          },
+          "80839c8a7b39095b5c61f14bcffe435161607c8a6289913676c1320b486c032f": {
+            "value": 1
+          },
+          "987346be58fe4f9371f82059be2ea832894478e0077cc0c28c686950a1b8ea7d": {
+            "value": 1
+          },
+          "4bde9255bbe83ab9a19bd2b953e2aaf043ac6ae4ff91c61385e70278b908eda6": {
+            "value": 1
+          },
+          "32fe62f61937ea8356be0a02f732fbecac1837ac6afc194adeca09fc41ee10ff": {
+            "value": 1
+          }
+        },
+        "skill:0": {
+          "4bf1d3b3d06ca3b4a667fcea3816e65640e0bf0c66fbfb98db33c805c050b96c": {
+            "value": 40,
+            "name": "Cozy Nap"
+          },
+          "356402931d35b56c577534c39159abf5156ff718681307f5cefdc8ae81cad9d5": {
+            "value": 40,
+            "name": "Cozy Nap"
+          }
+        },
+        "maxHp": {
+          "f82d6f0dcbbaf1382fde22322dcfcb7d5c3f021e1ad92978a4e3290388a7f443": {
+            "value": 90
+          },
+          "88c77a1d543ff41253f0cbd59e4cdb9484c8268e34443d9c57e3f5d3bcc1d87f": {
+            "value": 90
+          },
+          "3269f4195d610ea824deeb4ae7592e6de9e4ccbe63546bfe181d61b540c75e9a": {
+            "value": 90
+          },
+          "d6b7be127cc00da84b265db9e92411e12f59f1d7b4b1e13969e67779d3df026d": {
+            "value": 90
+          },
+          "6b8d5c4522d4572edb60340b448acdbea895b095705ecc5f218db12a6238a1b5": {
+            "value": 90
+          },
+          "da8061f01684a8906f4c26ce90bab52394e5d107d9c569bc2dd19c1a0f6b5a63": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "BS-050|278b379686c7088fefd5474e580d853ecb67d9c9a6751d5157bfb9b4145f9b41": {
+      "code": "BS-050",
+      "revision": "278b379686c7088fefd5474e580d853ecb67d9c9a6751d5157bfb9b4145f9b41",
+      "facts": {
+        "summonCost": {
+          "bcd1a36b9f1708a9550ee44c6620c574081e68c98fa741663f738548d0654010": {
+            "value": 5
+          },
+          "a702063d0a7084025fb870adb1b8314b649c1b60090f564c898087290b9b9f9b": {
+            "value": 5
+          },
+          "2e922e3dc74583fc0899a1ccd6014172433bcd37adc31022cecd187123790943": {
+            "value": 5
+          },
+          "05a73b476c9905072ae76fab72036206d680a62fb8ab92e5021056d4fe635563": {
+            "value": 5
+          },
+          "183175860a48736bf07914882eb9491019ab37edf174dfdd0d3a69f26030a941": {
+            "value": 5
+          }
+        },
+        "skill:0": {
+          "41b9d7e25bc5fcbe8bd564dc3bcedc45ccebe7b93a367ddfe2541ecf73ba572e": {
+            "value": 100,
+            "name": "Cozy Nap"
+          },
+          "5783fe30598bf5e00ff69006d0ff258480afaa7f7f55514849f1cddd9c2b73a4": {
+            "value": 100,
+            "name": "Cozy Nap"
+          },
+          "71eb8daae27676ac481e424dec4ca893812856744e50b848940967f26e5ef633": {
+            "value": 100,
+            "name": "Cozy Nap"
+          },
+          "2d8b1dd6ef2be6cd00045b64c106bfb163fd8aaad8fab22a90a5994b670f4b5f": {
+            "value": 100,
+            "name": "Cozy Nap"
+          },
+          "e61e359adfa9caf8c2a943d4800df35e1be00a98f309de98a85b271742565700": {
+            "value": 100,
+            "name": "Cozy Nap"
+          },
+          "7bde757c42bcd3d9d8dfcba7989289a3da961d35807e8bdb231899dfc5d6dc21": {
+            "value": 100,
+            "name": "Cozy Nap"
+          }
+        },
+        "chargeValue": {
+          "3bd70e363676f8120bb228b3ce6cf14f37ad8302a40caf03c1ab6822d4e7b9da": {
+            "value": 2
+          },
+          "076b7ce7a84ed9bf946da62e7944e45b206c6f439711f61cbef69cae2e8cedb6": {
+            "value": 2
+          },
+          "6ad72eba537b80c8d47bce3eff64c55698f45e7d99f59afc0d491547eedb81cc": {
+            "value": 2
+          },
+          "34ee194032e48f8f82c7d15a65ea1393ac67cec35005c4401d926eab2bac28f1": {
+            "value": 2
+          },
+          "713e29889884735c7669fe2d9eea6567f2d9c41a26622c9d066d88532f3af624": {
+            "value": 2
+          },
+          "469b46488d36ae156590053a254a4d7934f6354720b3b3c79fec5322a5f929c7": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "KGR-044|37cab38bba7983b9a64d0272af004d227cfc23f3fcab77a29f23600d3aee4160": {
+      "code": "KGR-044",
+      "revision": "37cab38bba7983b9a64d0272af004d227cfc23f3fcab77a29f23600d3aee4160",
+      "facts": {
+        "chargeValue": {
+          "3fb1bed57c54c6d708f6b3da1140044761f91765ddc30fe8d54b2d096f29cc7e": {
+            "value": 1
+          },
+          "ae7a915b76fb1335468dd0faad116208b19b935c7171438e0d365d44623f97d3": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "7fc33949512b2d56ac2476ffa82e5b38c12057917e4f26a9981eec2b0b444f98": {
+            "value": 2
+          },
+          "461ca8c29a19e8fc905bf282e24f3e55fdd93f249f7d8271dd420142c1d69107": {
+            "value": 2
+          },
+          "b669c826115bd783b6b2b509fae7969aaa50e93c6585ba72b7a68f01543cf8d3": {
+            "value": 2
+          },
+          "d12a4a304365d50767d9d7c624866008d40758ad01e09b80b905e232ab4c6ec0": {
+            "value": 2
+          }
+        },
+        "skill:0": {
+          "b32b1e3413c6d532fe2afe945716b4f044d29cc7ff3fed9e2ba29b864a398c0a": {
+            "value": 50,
+            "name": "Grove Push"
+          },
+          "33ba1a5039e66aa785a561e182b9326dc80dd199f5d3ec6eefa4f094da94a462": {
+            "value": 50,
+            "name": "Grove Push"
+          },
+          "72ed840b83996a73b7ede07d80d1c88ebcb5be0972b0bd60d27a0989523c1b18": {
+            "value": 50,
+            "name": "Grove Push"
+          }
+        },
+        "maxHp": {
+          "8da4dc4b9d0099e978bc82c798e8e987d32b4113397f92de10df001efa133b95": {
+            "value": 100
+          },
+          "41f48297fa238057cf108d60d093a0190e30f98397522079acb5b41cb4eb9df9": {
+            "value": 100
+          }
+        }
+      }
+    },
+    "KGR-061|cc37e545a8d54d19736cf821878b6b4aaf058d874f3ba418bd5c28785a66a620": {
+      "code": "KGR-061",
+      "revision": "cc37e545a8d54d19736cf821878b6b4aaf058d874f3ba418bd5c28785a66a620",
+      "facts": {
+        "summonCost": {
+          "9b0860468c681542f93c04ac2ca1cdb138128707cf31bd79389e4e99242d2aab": {
+            "value": 2
+          },
+          "b78445ed35ee30cecb8e5d36a8e2701e42c4374cecb521d8ea60527f264dde41": {
+            "value": 2
+          },
+          "90127862696590941166e64864327b2e6ecc34f3a6d5189cd56c922028d01a1d": {
+            "value": 2
+          },
+          "f9f4a8f8e76fc7da958c9ddb3692718779506b07b96cdb9fd86be069eeddfa54": {
+            "value": 2
+          },
+          "8bfc87e6324ba776740433b32f9a1ad3a6d0f4c782e637a1bcfbf8f5b115897d": {
+            "value": 2
+          }
+        },
+        "skill:0": {
+          "70235a14cc25d062659e631732ba794695002a052d7f67df35e73d184d5bf1f7": {
+            "value": 80,
+            "name": "Violet Arc"
+          },
+          "a1b5492169646ec6c7e1dc4c6b756fb3c76fe6d4909d7318feda5d2921dc222b": {
+            "value": 80,
+            "name": "Violet Arc"
+          },
+          "f4193985b3860e1b8ef0196a26f80ee58adab16ed9ceb366676c2296b3b4bf0c": {
+            "value": 80,
+            "name": "Violet Arc"
+          },
+          "a66389134c3bfee8ec373a43efe5959380d2cd3fd4dcd962c9d8212387d71922": {
+            "value": 80,
+            "name": "Violet Arc"
+          },
+          "7c00e8baa5934f7774a4f74ea1e9b77433c1b88583a1d2204c15843e07a2dbe9": {
+            "value": 80,
+            "name": "Violet Arc"
+          },
+          "06521ef260e2ae9aa5d98bcd0bcf826cfa1c493ed7082172f7b56ca29e65596b": {
+            "value": 80,
+            "name": "Violet Arc"
+          }
+        },
+        "maxHp": {
+          "7c5d66d78aa40e38893180ce46c67d50b1e8efc1baaedac114a8cb994ac74758": {
+            "value": 90
+          },
+          "dd3c219198ed778e280647a028f96fa707ee4d8502ebc4885f4ba129ff7e5a28": {
+            "value": 90
+          },
+          "045246674864232a608977455517583e1298a44a6d2b0243cf793344ff50f405": {
+            "value": 90
+          },
+          "7bd376462b9c0c46d6a57253dfb3f6180320aace98928f6edf047d84c72bf960": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "BS-046|e6ca6c9ce91fd90f7009d58b383fb86d5e1b7c292c6f22f80117b40c35eabd65": {
+      "code": "BS-046",
+      "revision": "e6ca6c9ce91fd90f7009d58b383fb86d5e1b7c292c6f22f80117b40c35eabd65",
+      "facts": {
+        "summonCost": {
+          "d580085e354dca5ccd3cbb77febb270cbcff7525c05cefc56846bf7fd75f123b": {
+            "value": 4
+          },
+          "43d8e4925552b0101ccb29c5d7a06b7ef8c21b3d0a5105501dbdf9941d41cfe0": {
+            "value": 4
+          }
+        },
+        "skill:0": {
+          "bcb1581c146a5acb1c914e0408ef4cc2e96e13c5092d51e3b1dada1a75adfc0b": {
+            "value": 90,
+            "name": "Cozy Nap"
+          },
+          "beb9a2129d787c5e3d95f68238aebecba6f14f51e9a2442f6d8e83ace939a62a": {
+            "value": 90,
+            "name": "Cozy Nap"
+          }
+        },
+        "chargeValue": {
+          "571cfe1c9072f2553e37da03db7020ecd44987f97ce439f927f60d87b6fcd3bd": {
+            "value": 1
+          },
+          "4fff70b59d0cd2e18b6a8e3269d2314897de3243845212f380f79b8dc3ec3346": {
+            "value": 1
+          },
+          "0ff9a17a9559dd6bc3bf71d4f4f8ef52fb4d28cfda391c332b0a705aaaad2b15": {
+            "value": 1
+          },
+          "843924704e4ae562d4ee131a2d74ab6d3fa228298c3995612a127c0bebd524c1": {
+            "value": 1
+          },
+          "e8ffeebedd43cc84b63d7f96d924683055dc511f4abf7fa7993b8d0aa4c6626d": {
+            "value": 1
+          },
+          "9e88f127d5961fedf13697801fb84dbb1dbe185f36e587c9798d4c9a1de7ffec": {
+            "value": 1
+          },
+          "5b22c8aeca513b0a1c5c8b0b0607de246a0009b0b146534ff2c7a2ea313b79d7": {
+            "value": 1
+          },
+          "faf988190e30f9d4e20da30ab17534738eb43cf035b1e4b0d2c02b4c8edd5680": {
+            "value": 1
+          },
+          "75edf71cc35e6dc4a8fe493a8ce4696fe7803e51808d93f25f39a85ddf850040": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "KGR-055|a185935a5c6c7397930a021e339e9fdd8882759940c3fa8d4427f3d6362aa4e3": {
+      "code": "KGR-055",
+      "revision": "a185935a5c6c7397930a021e339e9fdd8882759940c3fa8d4427f3d6362aa4e3",
+      "facts": {
+        "summonCost": {
+          "76e6eb0047c6feaf924438331c43c258acce6ceb64b841fce62ab7bad4dc6632": {
+            "value": 1
+          },
+          "6780c6ed41b8b6ea7cf0b444a282730bab34bbe868944df431d6fa395e6b051c": {
+            "value": 1
+          },
+          "f18506c00b7368aec2b491a7a2b023a4aad2c12f37489540b114c1ae75bc8592": {
+            "value": 1
+          },
+          "ef84dec90d7f6c792f2354395a01fa25c7dc317e2ff5d4e4d43289f965c3ae07": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "0fdc3f6c3cb52252761352e5c847b1ddac42d398f9449004a4e15ea14092a44a": {
+            "value": 70
+          },
+          "8c2e492a946e26ed91726b1bb2ba658bc997307789d6693afac8267d344e2f27": {
+            "value": 70
+          },
+          "d924162ca7429d7f822d4bd5c8f76ed1b000c727644e51a12fa99af2e0e3b8b2": {
+            "value": 70
+          },
+          "f771a2e05627575964f513596f488d85c9a8df7400d6a107e6a1f3b9bd812f20": {
+            "value": 70
           }
         }
       }
@@ -2203,37 +2380,129 @@
       "revision": "c8d4a116ad60274d3dcf15017263c8d5fc673c31d7ce4780344b5e22234c55f8",
       "facts": {
         "chargeValue": {
-          "1224a02c70b7a58cbecb846dee7213728afb3277c9c94a7d3dba4c9a48811da6": {
+          "1bfdca153435cb4ba1cf3cbaebaa03d70e91b55421386c8f02aced0d6b512062": {
             "value": 1
           },
-          "969c79cbf4d5f495e9ed5ff43f1777ff9b70eeca1b4e0877f336b73fcd3002b1": {
-            "value": 1
-          },
-          "b36b060e011733550d5531d8901442eb343a45ee32a264cf3bd12d094540b0ad": {
-            "value": 1
-          },
-          "fe6bc9b1f930ef7826283cde1a9c4e85a903e2bd422ac0193a1f93a49c7771b3": {
+          "f54f3afe9f7b4459b4ce720f7308c246648efda493f298bc38704f64d5ae0c3d": {
             "value": 1
           }
         },
         "summonCost": {
-          "c7610347fb0a8387f8549098b0c2f7a4623784886387fdb3e01bf8c29f7b5aff": {
+          "10956bdd9b369c50cdd082132c9af0a75afe4861c19e07f7ac3c37f5ff606f0f": {
+            "value": 1
+          },
+          "1ee33f7c009109dd8777b0ded471a437742d3ad27a065759c1da13eb1e39a597": {
+            "value": 1
+          },
+          "c0d6711592b2abcb5eb78bb10cc344b964c9b4185883c240038862942c6a2ee5": {
+            "value": 1
+          },
+          "4a36096e2a5da62842a518eff1a90d586908c151f67ed4df6cbe5c77b3145265": {
             "value": 1
           }
         },
+        "skill:0": {
+          "bc1b7f6bb31ff4cffad1c89d908cb9404738ff77ddb9e3a1b8fd8bbfdf1de454": {
+            "value": 50,
+            "name": "Blossom Roll"
+          },
+          "ba431a4029d5eb08452f6467de39e66839badb03032e336b0a1eb914991c61fa": {
+            "value": 50,
+            "name": "Blossom Roll"
+          }
+        },
         "maxHp": {
-          "62ad3151f72b871082c068a5026e7b663190623c1284dfdd526b07d4eb5726e9": {
+          "e587037ac2f1c62145088b5c3abdf2c7819e14a56cb3ece9bc34142a2d4f93cb": {
+            "value": 80
+          },
+          "35a7c04743f7eb13f79de259aed0a74e184737764e819a42e10539de7a17e6d8": {
+            "value": 80
+          },
+          "5bd0168cfca360bc04407844c7e884c0ef887184f82d2de08266557ad9d0d8ce": {
+            "value": 80
+          },
+          "17651a9944c0309c1e651ce3abfd4e080043c3967e74892d3323466bd95f5f65": {
+            "value": 80
+          },
+          "9ba4f2958a661ded7684451ca63216a14a99b96cc74eb366b8f84114e8697c36": {
             "value": 80
           }
         }
       }
     },
-    "OSH-064|03c712c2e117e33c9ac392dad76d8575d2f8128186bd01d8d02798664bbd9eda": {
-      "code": "OSH-064",
-      "revision": "03c712c2e117e33c9ac392dad76d8575d2f8128186bd01d8d02798664bbd9eda",
+    "OSH-005|90ea16d3ecb4fda3f5716d8c654d949521aa2cb7439c770ef42664c938cc0d10": {
+      "code": "OSH-005",
+      "revision": "90ea16d3ecb4fda3f5716d8c654d949521aa2cb7439c770ef42664c938cc0d10",
       "facts": {
-        "chargeValue": {
-          "2a5c960944800bbbf809ed159557c30b58d3b76ddd0ac1eca0dc765f167caf5a": {
+        "summonCost": {
+          "15ac36eacce545dfec4ea3b13f2876562031c4f8f72c798430a136e9de536951": {
+            "value": 1
+          }
+        },
+        "skill:0": {
+          "86427e2d51ec28535e8c83c07b373ecacd8ec2afa53b217dd737ac40cec8aff5": {
+            "value": 30,
+            "name": "Jelly Bounce"
+          }
+        },
+        "maxHp": {
+          "3c8a8c07d604f2bd1a76c65200d2226eb220c19b8f9a72ea56db2179455cc9e2": {
+            "value": 90
+          }
+        }
+      }
+    },
+    "OSH-096|4d2ef6a19e5a1c53ee739f66d4a6bccec73d01b579e9a6bfab5db726bccbe095": {
+      "code": "OSH-096",
+      "revision": "4d2ef6a19e5a1c53ee739f66d4a6bccec73d01b579e9a6bfab5db726bccbe095",
+      "facts": {
+        "summonCost": {
+          "55d8b2ae23bdff85a9e1b1da671bc1f969f7eb12d1c64fe005c085049e8cba43": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-085|e88dc7e96b59711d5a53f154ec3f258f66667c1baa148f8f56d63c1d31f7b3f3": {
+      "code": "OSH-085",
+      "revision": "e88dc7e96b59711d5a53f154ec3f258f66667c1baa148f8f56d63c1d31f7b3f3",
+      "facts": {
+        "summonCost": {
+          "356ec30a97f99607526866f886221b8fe9476e215e33b4fa55f7002318f8634c": {
+            "value": 4
+          }
+        },
+        "skill:0": {
+          "27443ea451a596b1161ac48b159bfd1199aa00821530258f2170f6dae5ae08c2": {
+            "value": 120,
+            "name": "Coronation Gleam"
+          }
+        }
+      }
+    },
+    "OSH-086|739462128ec349a4ed6880512084e4bc4f9476ee3de7e46465609b0cb6dea628": {
+      "code": "OSH-086",
+      "revision": "739462128ec349a4ed6880512084e4bc4f9476ee3de7e46465609b0cb6dea628",
+      "facts": {
+        "summonCost": {
+          "cc30a85f2ff140f669d1cb128c40223a10509f2f3b79017fe12b331797b8c1f9": {
+            "value": 4
+          }
+        },
+        "skill:0": {
+          "06173281ca12840ff8123327c7bcd7eb5672b7afd832115fee4c0214b59e0b0a": {
+            "value": 120,
+            "name": "Byakko Roar"
+          }
+        }
+      }
+    },
+    "OSH-088|45f20dcccdab5bafb517c6ee5f61d97c0df979e5b26d909a964905a44bd6af47": {
+      "code": "OSH-088",
+      "revision": "45f20dcccdab5bafb517c6ee5f61d97c0df979e5b26d909a964905a44bd6af47",
+      "facts": {
+        "summonCost": {
+          "bbab432e8ac2eccee799bbd9d2fcb6b36296772b763d54a4350692dfab511b6e": {
             "value": 1
           }
         }
@@ -2244,56 +2513,188 @@
       "revision": "a6360def629daf7eeeebe22f4bae0734602ca5980fa3b79c55ec52f2ab323297",
       "facts": {
         "summonCost": {
-          "78de1b1941d640573ee00ed1a048f233fd16086f4653d1b434e853723db23cc7": {
+          "0d95796a619bb92b4b335876ee91223f6a9f925c8a9f7bdb967f7ad53d90c419": {
             "value": 2
           }
         },
         "skill:0": {
-          "82267f6218a73c3d8360b84ae6519a7838bbb704d51a4f3787f855af25b1b8d3": {
+          "7ba757ed6e0412dde7f210546ffec1b5c6144263fbbeab3008d720dad48da997": {
             "value": 70,
             "name": "Star Spell"
           }
         },
         "maxHp": {
-          "c58af766b9a30d8681b1a0f7998ae0fd61298ffb7f5e487f71b793d208ce024e": {
+          "14a7bcb4cc6f32444dc0015fc773f1237134e8ca9a2ba9fdea44c45c81b06d0b": {
             "value": 90
           }
         }
       }
     },
-    "OSH-072|cf470ee25002234d44d08f21070aac5e2ff39f41e3e1a7e0d70e2dbfdaace577": {
-      "code": "OSH-072",
-      "revision": "cf470ee25002234d44d08f21070aac5e2ff39f41e3e1a7e0d70e2dbfdaace577",
+    "KGR-102|c0637a3b1c734abaf97207d82cd86152e64f830af1bb133d29414a7acb609d02": {
+      "code": "KGR-102",
+      "revision": "c0637a3b1c734abaf97207d82cd86152e64f830af1bb133d29414a7acb609d02",
       "facts": {
-        "chargeValue": {
-          "cdd41a2a8210297546549100667651e4289cc7eaf518420ce73c2f3185920a18": {
-            "value": 1
-          },
-          "9b91c52a1a8aff2fdeed22fa659db7e1929c1520f123df751b98962c2b913cac": {
-            "value": 1
-          },
-          "bd441d362319d514117ca6e55fe1b29b54a3df73bfc2ceb67a1c09c504c3e4f8": {
-            "value": 1
-          }
-        },
         "summonCost": {
-          "1e7c7b7e203d5d3454b4bf69d631ff4c747323c8c1fcd5f02c8a2c8477e78705": {
-            "value": 3
+          "653d43433faa80ed40776448e8c77f1c9eeece78d2afe3e7087453f091cfba55": {
+            "value": 1
           }
         },
-        "maxHp": {
-          "0417e4bd157ed74e2684c52395000671f1e8f4f7680fe01560009282fac4f07d": {
-            "value": 110
+        "chargeValue": {
+          "9f31e78447d0d52a4e500830e470085f99d119bbf7391051ad857f9e299f4f62": {
+            "value": 1
+          },
+          "4769e3798d6b6461edb844a455e2be446fe3b793f5037083a5d4fa5e4c4d89ff": {
+            "value": 1
           }
         }
       }
     },
-    "OSH-088|45f20dcccdab5bafb517c6ee5f61d97c0df979e5b26d909a964905a44bd6af47": {
-      "code": "OSH-088",
-      "revision": "45f20dcccdab5bafb517c6ee5f61d97c0df979e5b26d909a964905a44bd6af47",
+    "OSH-078|84cb3db4bd380c3084c58d6337a83cb27e8c2fc7640d51e6f955933218e3d7d5": {
+      "code": "OSH-078",
+      "revision": "84cb3db4bd380c3084c58d6337a83cb27e8c2fc7640d51e6f955933218e3d7d5",
+      "facts": {
+        "chargeValue": {
+          "22cbe8cfefcaf848fec5b32c1697f08f8a2d69551ff5d7a1d5c69961f64b4879": {
+            "value": 1
+          },
+          "a40d1b3409a18b22443d174318760edf418ac39b1d76d0112306be666f55af35": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "KGR-121|af76531a4f8624a56091787149d156618c2af94f7b0ddd3b8fb630007f730224": {
+      "code": "KGR-121",
+      "revision": "af76531a4f8624a56091787149d156618c2af94f7b0ddd3b8fb630007f730224",
+      "facts": {
+        "chargeValue": {
+          "512606f30b65156cf422718db537df868ecd5460b87d7a360bec645ea8014dc8": {
+            "value": 1
+          },
+          "e5aee524a265afb0189ae719ab78e9c76a60589497885282bca9397a633f559a": {
+            "value": 1
+          },
+          "fa3590a955e9134123a52b9c1709c6ad589b22d9cc2f1f7febbf2ce8429476e1": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-029|e8d0786da4e538e11fa0710162932ef27006e4e95a537d3d5e9c92728c90d8ed": {
+      "code": "OSH-029",
+      "revision": "e8d0786da4e538e11fa0710162932ef27006e4e95a537d3d5e9c92728c90d8ed",
+      "facts": {
+        "chargeValue": {
+          "54e818710e2a96c8a292dc50ced380bdcff1a6521bf43f397d36514be374151d": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-018|f3889fe073b15887cb9a4951755d2d400140d10c0e6115a643c03713f91af32e": {
+      "code": "OSH-018",
+      "revision": "f3889fe073b15887cb9a4951755d2d400140d10c0e6115a643c03713f91af32e",
       "facts": {
         "summonCost": {
-          "25ed8fed3ca200dc5cff013d78168e80b6ea1381019c5273078ff8b159a4b746": {
+          "aa7431fb2eaab1f3385845b81e00b88694d17e515ff87034e860e15f8b5dad9d": {
+            "value": 1
+          },
+          "51e4f9dc9801230ec9c811c9c4819088e17b2903a90ed97c0e496fa8f708cbcc": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "e9dceb3fdacc62e82668ddc9f62cb95b1b250f41e2e94eebbaed43982fbbe6d0": {
+            "value": 70
+          },
+          "12244417032eadc1957a80bd5d10bdc523344f4bb199f8bc4e0d02a3776902ae": {
+            "value": 70
+          }
+        },
+        "skill:0": {
+          "d377e3f8cf08c3837f4e3e38536533155c12144dfc1e272657d78a9122756058": {
+            "value": 60,
+            "name": "Dino Chomp"
+          }
+        }
+      }
+    },
+    "BS-030|07b197cc8a0e3874f4002bcda67366e7679a697f733f91b31ff176124c2665b7": {
+      "code": "BS-030",
+      "revision": "07b197cc8a0e3874f4002bcda67366e7679a697f733f91b31ff176124c2665b7",
+      "facts": {
+        "chargeValue": {
+          "1adae450d7cc37bcd57540019db8e63b573b45a37cc486727a7ddf2ae423db02": {
+            "value": 1
+          },
+          "fb93994dc6a6a13511754cf6581e313973542ffd71f6e5fdbac802302a9bef3c": {
+            "value": 1
+          },
+          "ba07d699b2bd5e8cc10f30615bde4a80e80a0d152ae48c5dd2cfe42b5bbdc769": {
+            "value": 1
+          },
+          "963b7e0e1e55ef1cac4eca5fb86609d21d0b9b3d998b874105a9cbcc1cc6119d": {
+            "value": 1
+          }
+        },
+        "summonCost": {
+          "210b6da96ba6925c6d9f9bcd9fe84b41b0bfe57216ada80d136cf0b22eabe2e7": {
+            "value": 1
+          },
+          "d5f6149eb77660c2a0109be91b69bd74f365ee2811262ab26234aa3f16f15b6f": {
+            "value": 1
+          },
+          "c6b651d29858d5638566b5f096b06dd9d86f1cb8e8d26e044dcf0f00438e3e21": {
+            "value": 1
+          },
+          "6b40bbaaadc04c1f3d5d7e2a888127412695bc63f7a4dbd02445b8589220ab62": {
+            "value": 1
+          }
+        },
+        "maxHp": {
+          "385d969397ad776e2ea4e4d263c25a9557a25f3db9c1e81425295f6052636151": {
+            "value": 90
+          },
+          "4f10e05205a4dc323ba363bdfe4ec2c7a27ca76a40e1253c2f4f2aef0bc5c14a": {
+            "value": 90
+          }
+        },
+        "skill:0": {
+          "761f1b176c47d0af51de74a3fe779be3b346284431d6d7ec8a40f1fe8e374b23": {
+            "value": 40,
+            "name": "Cozy Nap"
+          }
+        }
+      }
+    },
+    "OSH-064|03c712c2e117e33c9ac392dad76d8575d2f8128186bd01d8d02798664bbd9eda": {
+      "code": "OSH-064",
+      "revision": "03c712c2e117e33c9ac392dad76d8575d2f8128186bd01d8d02798664bbd9eda",
+      "facts": {
+        "chargeValue": {
+          "d153f156ac4526d4fe27984852e8854bd91e0057c98bc4e02aeff58cca05d05c": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-026|cd97bf77b7a37dccad84d5848a93d89746ac46a03fd382190232b7feb5291c05": {
+      "code": "OSH-026",
+      "revision": "cd97bf77b7a37dccad84d5848a93d89746ac46a03fd382190232b7feb5291c05",
+      "facts": {
+        "summonCost": {
+          "eba7e9f5ac0310fe208567741b1820fe486eed17634415e1c3880f3d01301666": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "OSH-113|88593ab3fcea2abed897feb71ff0877901a4adc3c48924903f1e1bd66f4ba313": {
+      "code": "OSH-113",
+      "revision": "88593ab3fcea2abed897feb71ff0877901a4adc3c48924903f1e1bd66f4ba313",
+      "facts": {
+        "summonCost": {
+          "59f5aced51eba33a2b2c069702031b5f89251114d061a6eb9cc5d69da3c85826": {
             "value": 1
           }
         }
